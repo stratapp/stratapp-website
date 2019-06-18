@@ -8,8 +8,8 @@ sections:
   label: Pages
   create: all
 - type: directory
-  path: _projects
-  label: Projects
+  path: _features
+  label: Features
   create: all
   match: "**/*"
 - type: jekyll-posts
