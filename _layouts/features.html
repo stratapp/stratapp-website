@@ -13,8 +13,8 @@ layout: default
             {{ content }}
         </div>
     </div>
-</div>
- -->
+</div> -->
+
 
  	   <section class="l-section bg-danger text-white">
         <div class="container container--small text-center">
@@ -22,18 +22,53 @@ layout: default
           <div class="h5">Solving org-wide strategy and execution.</div>
         </div>
       </section>
-      <section class="c-feature bg-white">
+
+      {% for feature in site.features %}
+		
+      {% case forloop.index %}
+      {% when 1 %}
+      	<section class="c-feature bg-white">
+      {% when 2 %}
+      	<section class="c-feature bg-primary">
+      {% when 3 %}
+		<section class="c-feature bg-lightest">
+      {% when 4 %}
+		<section class="c-feature bg-dark">
+      {% endcase %}
+
         <div class="container container--small">
           <div class="d-md-flex align-items-md-center text-center text-md-left">
-            <div class="c-feature__img mx-auto mb-4 mb-md-0"><img src="https://via.placeholder.com/220?text=example+of+image" alt=""></div>
+            <div class="c-feature__img mx-auto mb-4 mb-md-0">
+            	
+            	{% if feature.banner_image and feature.banner_image != "" %}
+						<img src="{{ project.banner_image | absolute_url }}" alt="{{ project.title }}">
+				{% else %}
+						<img src="https://via.placeholder.com/220?text=example+of+image" alt="{{ project.title }}">
+				{% endif %}
+
+            </div>
+
             <div class="c-feature__body">
-              <h4 class="font-weight-bold text-primary mb-3">Designed around what you already know</h4>
-              <div class="h5 mb-3">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</div><a href="#" class="c-feature__link">Read more ></a>
+            	{% case forloop.index %}
+      			{% when 1 %}
+              		<h4 class="font-weight-bold text-primary mb-3">{{ feature.title }}</h4>
+              	{% when 2 %}
+					<h4 class="font-weight-bold mb-3">{{ feature.title }}</h4>
+              	{% when 3 %}
+					<h4 class="font-weight-bold text-primary mb-3">{{ feature.title }}</h4>
+              	{% when 4 %}
+              		<h4 class="font-weight-bold mb-3">{{ feature.title }}</h4>
+              	{% endcase %}	
+              <div class="h5 mb-3">{{ feature.content }}</div>
+              <a href="#" class="c-feature__link">Read more ></a>
             </div>
           </div>
         </div>
       </section>
-      <section class="c-feature bg-primary">
+
+      {% endfor %}
+
+     <!--  <section class="c-feature bg-primary">
         <div class="container container--small">
           <div class="d-md-flex align-items-md-center text-center text-md-left">
             <div class="c-feature__img c-feature__img--empty mx-auto mb-4 mb-md-0">
@@ -73,7 +108,7 @@ layout: default
             </div>
           </div>
         </div>
-      </section>
+      </section> -->
       <section class="l-section bg-danger text-white">
         <div class="container">
           <form class="row no-gutters justify-content-lg-center align-items-lg-center text-center">
