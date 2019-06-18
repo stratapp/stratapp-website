@@ -1,0 +1,33 @@
+title: Stratapp Website
+short_title: Stratapp
+description: Stratapp Site for Forestry.io
+baseurl:
+permalink: "/:path/"
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: page
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+collections:
+  people:
+    output: true
+    permalink: "/about/:path/"
+  posts:
+    output: true
+  projects:
+    output: true
+    permalink: "/projects/:path/"
+# tag_page_layout: tag_page
+# tag_page_dir: tag
+jekyll-archives:
+  enabled: all
+  layout: "archive"
+gems:
+  - jekyll-menus
+  - jekyll-feed
+  - jekyll-archives
