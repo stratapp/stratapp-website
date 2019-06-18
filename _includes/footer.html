@@ -1,40 +1,42 @@
-<footer class="site-footer">
-	<div class="container pure-g">
-        <div class="footer-col pure-u-1 pure-u-md-1-4">
-            <img src="{{ "/img/logo-white.png" | absolute_url }}" alt="" class="footer-logo">
-        </div>
-        <div class="footer-col pure-u-1 pure-u-md-1-4">
-            <h3>About {{ site.short_title }}</h3>
-            <ul>
-            {% for item in site.menus.footer %}
-                <li><a href="{{ item.url | absolute_url }}">{{ item.title }}</a></li>
-            {% endfor %}
+</main>
+ <footer class="c-footer mt-auto">
+      <nav class="navbar navbar-expand-lg">
+        <div class="container"><a href="#" class="navbar-brand">
+          <img src="/images/content/logo.png"></a>
+          <button type="button" data-toggle="collapse" data-target="#navbarFooterCollapse" aria-controls="navbarFooterCollapse" aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler collapsed"><span class="navbar-toggler-icon"></span></button>
+          <div id="navbarFooterCollapse" class="navbar-collapse collapse">
+            <ul class="navbar-nav align-items-md-center">
+              <li class="nav-item active"><a href="#" class="nav-link">Home</a></li>
+              <li class="nav-item"><a href="#" class="nav-link">Pricing</a></li>
+              <li class="nav-item"><a href="#" class="nav-link">Features</a></li>
+              <li class="nav-item"><a href="#" class="nav-link">About</a></li>
+              <li class="nav-item"><a href="#" class="nav-link">Resources</a></li>
+              <li class="nav-item">
+                <button type="text" class="btn btn-primary rounded-pill">Contact us</button>
+              </li>
             </ul>
+          </div>
         </div>
-        <div class="footer-col pure-u-1 pure-u-md-1-4">
-            <h3>Projects</h3>
-            <ul>
-            {% for project in site.projects limit:5 %}
-                <li><a href="{{ project.url | absolute_url }}">{{ project.title }}</a></li>
-            {% endfor %}
-            {% if site.projects | size > 5 %}
-                <li><a href="{{ "/projects/" | absolute_url }}">See all projects</a></li>
-            {% endif %}
+      </nav>
+      <div class="c-footer-bottom bg-light">
+        <div class="container">
+          <div class="d-md-flex justify-content-md-between align-items-md-center">
+            <ul class="nav">
+              <li class="nav-item"><a href="#" class="nav-link">Privacy</a></li>
+              <li class="nav-item"><a href="#" class="nav-link">Terms</a></li>
+              <li class="nav-item"><a href="#" class="nav-link">Fair Usage</a></li>
+              <li class="nav-item"><a href="#" class="nav-link">Sitemap</a></li>
             </ul>
+            <div>© copyright #stratapp<span class="c-devider">|</span>website by VA</div>
+          </div>
         </div>
-        <div class="footer-col pure-u-1 pure-u-md-1-4">
-            <h3>Contact</h3>
-            {% include address.html %}
-        </div>
-	</div>
-	<div class="copyright">
-        <p>
-            &copy;{{ 'now' | date: "%Y" }} {{ site.title }} - All Rights Reserved<br>
-			<a href="{{ "/admin" | absolute_url }}">Site Admin</a>
-		</p>
-	</div>
-</footer>
+      </div>
+    </footer>
+    
 <!-- Javascript -->
-<script src="{{ "/js/main.js" | absolute_url }}" type="text/javascript"></script>
+<script type="text/javascript" src="{{ "/js/jquery-3.3.1.slim.min.js" | absolute_url }}"></script>
+<script type="text/javascript" src="{{ "/js/bootstrap.min.js"  | absolute_url }}"></script>
+
+<!-- <script src="{{ "/js/main.js" | absolute_url }}" type="text/javascript"></script> -->
 </body>
 </html>
