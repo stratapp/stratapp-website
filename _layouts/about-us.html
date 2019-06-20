@@ -42,26 +42,33 @@ layout: default
         <div class="container">
           <div class="h3 text-center font-weight-bold mb-xxl">#stratapp’s co-founders</div>
           <div class="row">
-            <div class="col-md-6">
-              <div class="c-founder bg-white d-flex align-items-top rounded-sm shadow bg-primary-grad mb-5 mb-md-0"><img src="/images/content/image-ava-ash.png" alt="" class="img-fluid rounded-circle shadow c-founder__ava">
-                <div class="pl-3 pr-2 py-3 pl-lg-5 pr-lg-4 py-lg-5">
-                  <h6 class="font-weight-bold text-danger mb-1">Ash Richardson</h6>
-                  <h6 class="text-primary mb-3">co-founder</h6>
-                  <p>Pellentesque suscipit magna sed eros ullamcorper, quis posuere felis efficitur. Praesent et ligula urna. Suspendisse malesuada auctor elit vulputate mollis. </p>
-                  <p class="mb-0"> <img src="/images/content/ico-linkedin.svg" alt="" class="mr-2"><img src="/images/content/ico-email.svg" alt=""></p>
-                </div>
-              </div>
-            </div>
-            <div class="col-md-6">
-              <div class="c-founder bg-white d-flex align-items-top rounded-sm shadow bg-primary-grad mb-5 mb-md-0"><img src="/images/content/image-ava-ash.png" alt="" class="img-fluid rounded-circle shadow c-founder__ava">
-                <div class="pl-3 pr-2 py-3 pl-lg-5 pr-lg-4 py-lg-5">
-                  <h6 class="font-weight-bold text-danger mb-1">Ash Richardson</h6>
-                  <h6 class="text-primary mb-3">co-founder</h6>
-                  <p>Pellentesque suscipit magna sed eros ullamcorper, quis posuere felis efficitur. Praesent et ligula urna. Suspendisse malesuada auctor elit vulputate mollis. </p>
-                  <p class="mb-0"> <img src="/images/content/ico-linkedin.svg" alt="" class="mr-2"><img src="/images/content/ico-email.svg" alt=""></p>
-                </div>
-              </div>
-            </div>
+
+             {% assign people = site.people %}
+                {% for person in people %}
+
+                  <div class="col-md-6">
+                    <div class="c-founder bg-white d-flex align-items-top rounded-sm shadow bg-primary-grad mb-5 mb-md-0">
+                      <img alt="{{ person.title }}" src="{{ person.thumbnail | absolute_url }}" class="img-fluid rounded-circle shadow c-founder__ava">
+                      <div class="pl-3 pr-2 py-3 pl-lg-5 pr-lg-4 py-lg-5">
+                        <h6 class="font-weight-bold text-danger mb-1">{{ person.title }}</h6>
+                        {% if person.sub_heading %}
+                          <h6 class="text-primary mb-3">{{ person.sub_heading }}</h6>
+                        {% endif %}
+                        <p>{{ person.content }}</p>
+                        <p class="mb-0">
+                         {% if person.linkedin %}
+                          <a href="{{ person.linkedin }}" target="_blank"><img src="/images/content/ico-linkedin.svg" alt="" class="mr-2"></a>
+                         {% endif %}
+                         {% if person.email %}
+                          <a href="mailto:{{ person.email }}" target="_blank"><img src="/images/content/ico-email.svg" alt=""></a>
+                        {% endif %}
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+
+               {% endfor %}
+
           </div>
         </div>
       </section>

@@ -50,7 +50,7 @@ layout: default
               	{% when 4 %}
               		<h4 class="font-weight-bold mb-3">{{ feature.title }}</h4>
               	{% endcase %}	
-              <div class="h5 mb-3">{{ feature.content }}</div>
+              <div class="h5 mb-3">{{ feature.content | truncatewords: 35 }}</div>
               <a href="#" class="c-feature__link">Read more ></a>
             </div>
           </div>
