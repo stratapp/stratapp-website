@@ -1,0 +1,22 @@
+---
+label: Home
+hide_body: true
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: layout
+  label: layout
+- name: sections
+  type: blocks
+  label: Sections
+  template_types:
+  - blocks
+  - text-only
+  - text-columns
+  config:
+    min: 
+    max: 
+pages:
+- index.md
