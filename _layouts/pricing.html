@@ -14,14 +14,7 @@ layout: default
         </section>
     </div>
     
-    <section class="l-section">
-    {% for faq in page.pricing %}
-    <div class="question">
-      <h2>{{ faq.question }}</h2>
-      <small>{{ faq.answer }}</small>
-    </div>
-    {% endfor %} 
-    </section>
+   
 
 		<section class="l-section-mt-n pt-0 pb-5">
         <div class="container">
@@ -98,9 +91,9 @@ layout: default
             </div>
           </div>
           <div class="text-sm-center mt-4 d-md-flex justify-content-md-center align-items-md-center">
-            <div class="mr-4 mb-2 mb-md-0"><img src="images/general/ico-tick.svg" alt="" class="mr-2 mt-n1">no setup fees</div>
-            <div class="mr-4 mb-2 mb-md-0"><img src="images/general/ico-tick.svg" alt="" class="mr-2 mt-n1">no hardware or integration costs</div>
-            <div class="mb-2 mb-md-0"><img src="images/general/ico-tick.svg" alt="" class="mr-2 mt-n1">minimal end-user training</div>
+            <div class="mr-4 mb-2 mb-md-0"><img src="/images/general/ico-tick.svg" alt="" class="mr-2 mt-n1">no setup fees</div>
+            <div class="mr-4 mb-2 mb-md-0"><img src="/images/general/ico-tick.svg" alt="" class="mr-2 mt-n1">no hardware or integration costs</div>
+            <div class="mb-2 mb-md-0"><img src="/images/general/ico-tick.svg" alt="" class="mr-2 mt-n1">minimal end-user training</div>
             
           </div>
         </div>
@@ -111,19 +104,27 @@ layout: default
           <p class="h5 mt-4">-thrilled CXO/ business owner-</p>
         </div>
       </section>
+      
+
       <section class="l-section">
         <div class="container container--small">
           <div class="h3 font-weight-bold text-center mb-xxl">pricing FAQ’s</div>
           <div id="accordionFaq" class="mb-xxl accordion">
+
+            {% for faq in page.faqs %}
+
             <div class="card c-faq bg-light mb-4">
-              <h2 id="headingOne" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne" class="h5 card-header">how does the annual billing work and what is the contract term?</h2>
-              <div id="collapseOne" aria-labelledby="headingOne" data-parent="#accordionFaq" class="collapse show">
+              <h2 id="heading{{ forloop.index }}" data-toggle="collapse" data-target="#collapse{{ forloop.index }}" aria-expanded="true" aria-controls="collapseOne" class="h5 card-header">{{ faq.question }}</h2>
+              <div id="collapse{{ forloop.index }}" aria-labelledby="heading{{ forloop.index }}" data-parent="#accordionFaq" class="collapse {% if forloop.index ==1 %}show{% endif %}">
                 <div class="card-body">
-                  <div class="h6 my-0">We do offer a free 15-day trial. Plenty of time to get started and using #stratapp. There are no set-up fees. No consultants, integrations or hardware costs.  No end user training costs; the user experience is immediately intuitive.</div>
+                  <div class="h6 my-0">{{ faq.answer }}</div>
                 </div>
               </div>
             </div>
-            <div class="card c-faq bg-light mb-4">
+
+            {% endfor %} 
+
+           <!--  <div class="card c-faq bg-light mb-4">
               <h2 id="headingTwo" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo" class="h5 card-header collapsed">what payment methods do you accept and how do I access past invoices and billing history?</h2>
               <div id="collapseTwo" aria-labelledby="headingTwo" data-parent="#accordionFaq" class="collapse">
                 <div class="card-body">We do offer a free 15-day trial. Plenty of time to get started and using #stratapp. There are no set-up fees. No consultants, integrations or hardware costs.  No end user training costs; the user experience is immediately intuitive.</div>
@@ -134,7 +135,7 @@ layout: default
               <div id="collapseThree" aria-labelledby="headingThree" data-parent="#accordionFaq" class="collapse">
                 <div class="card-body">We do offer a free 15-day trial. Plenty of time to get started and using #stratapp. There are no set-up fees. No consultants, integrations or hardware costs.  No end user training costs; the user experience is immediately intuitive.</div>
               </div>
-            </div>
+            </div> -->
           </div>
         </div>
       </section>
