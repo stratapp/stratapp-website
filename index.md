@@ -43,14 +43,28 @@ columns_text_2: |-
 
   As #stratapp scales, our commitment to that initial dialogue will remain at our core - We will continue to make direct CEO/CXO to founder communication a priority by joining the back end of first calls and follow up sessions for leadership teams.
 features:
-- icon: "/uploads/ico-articulate-1.svg"
-  title: collaborate
-  text: a platform that connects teams to contribute to real and resource worthy outcomes
-    - without distraction
 - icon: "/uploads/ico-articulate.svg"
   title: articulate
   text: achieve undelineated clarity and understanding throughout every tier of your
     organisation
+- icon: "/uploads/ico-articulate-1.svg"
+  title: collaborate
+  text: a platform that connects teams to contribute to real and resource worthy outcomes
+    - without distraction
+- icon: "/uploads/ico-align.svg"
+  title: align
+  text: align day-to-day efforts with organisational objectives to creating meaningful
+    tasks that contribute to overall success
+- icon: "/uploads/ico-engage.svg"
+  title: engage
+  text: genuine org-wide strategy that adds value to every employee, every day
+- icon: "/uploads/ico-see.svg"
+  title: see
+  text: work cohesively on priority projects allowing organisations to move forward
+- icon: "/uploads/ico-thrive.svg"
+  title: thrive
+  text: develop a prosperous and connected organisation that achieves, every day,
+    every quarter, every year, year on year
 menu:
   navigation:
     identifier: _index
