@@ -8,11 +8,13 @@ fields:
 - type: text
   name: layout
   label: layout
-- name: homepage_sections
+- name: sections
   type: blocks
-  label: Homepage Sections
+  label: Sections
   template_types:
   - blocks
+  - text-only
+  - text-columns
   config:
     min: 
     max: 
