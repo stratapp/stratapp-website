@@ -8,15 +8,73 @@ fields:
 - type: text
   name: layout
   label: layout
-- name: sections
-  type: blocks
-  label: Sections
-  template_types:
-  - blocks
-  - text-only
-  - text-columns
+- name: hero_intro
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: Hero Intro
+- name: hero_image
+  type: file
+  config:
+    maxSize: 250
+  label: Hero Image
+- name: intro_text
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: Intro Text
+- name: columns_text_1
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: Columns Text 1
+- name: columns_text_2
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: Columns Text 2
+- name: features
+  type: field_group_list
+  fields:
+  - name: icon
+    type: file
+    config:
+      maxSize: 250
+    label: Icon
+  - name: title
+    type: text
+    config:
+      required: false
+    label: Title
+  - name: text
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: false
+      schema:
+        format: markdown
+    label: Text
   config:
     min: 
     max: 
+    labelField: 
+  label: Features
 pages:
 - index.md
