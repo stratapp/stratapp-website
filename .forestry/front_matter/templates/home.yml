@@ -11,7 +11,8 @@ fields:
 - name: homepage_sections
   type: blocks
   label: Homepage Sections
-  template_types: []
+  template_types:
+  - blocks
   config:
     min: 
     max: 
