@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: contact
 date: 2017-11-01 03:00:00 +0000
 banner_image: "/uploads/2018/12/07/compass.jpg"
 heading: Contact Us
@@ -20,4 +20,3 @@ Belkirk College of Engineering is available:
 - **Sundays**, 9:00am to 12:00pm EST
 
 ## Contact Information
-{% include address.html %}
