@@ -1,5 +1,5 @@
 ---
-title: pricing
+title: Pricing & Strategy
 layout: pricing
 faqs:
 - question: how does the annual billing work and what is the contract term?
