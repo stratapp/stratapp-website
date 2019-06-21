@@ -1,16 +1,13 @@
 ---
 label: Features
 hide_body: false
+display_field: title
 fields:
 - type: text
   name: title
-  label: title
-- type: datetime
-  name: date
-  label: date
-- type: text
-  name: banner_image
-  label: banner_image
-- type: text
-  name: slug
-  label: slug
+  label: Title
+- name: hero_image
+  type: file
+  config:
+    maxSize: 250
+  label: Hero Image
