@@ -4,22 +4,19 @@ hide_body: false
 fields:
 - type: text
   name: title
-  label: title
+  label: Title
 - type: datetime
   name: date
-  label: date
+  label: Date
+- type: text
+  name: author
+  label: Author
+- type: file
+  name: banner_image
+  label: Hero Image
 - type: list
   name: related_posts
   label: related_posts
 - type: text
-  name: sub_heading
-  label: sub_heading
-- type: list
-  name: tags
-  label: tags
-- type: text
   name: layout
   label: layout
-- type: file
-  name: banner_image
-  label: banner_image
