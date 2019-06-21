@@ -8,18 +8,18 @@ fields:
 - type: datetime
   name: date
   label: Date
+  default: now
 - type: text
   name: author
   label: Author
 - type: file
   name: banner_image
   label: Hero Image
-- type: list
-  name: related_posts
-  label: related_posts
 - type: text
   name: layout
   label: layout
+  hidden: true
+  default: post
 pages:
 - _posts/2017-08-22-research.md
 - _posts/2017-08-01-welcome.md
