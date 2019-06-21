@@ -1,10 +1,11 @@
 ---
 title: Build your strategy as a cascading tree
-date: 2016-04-20 00:00:00 +0000
-banner_image: ""
+date: '2016-04-20T00:00:00.000+00:00'
+banner_image: ''
 slug: ''
----
+hero_image: ''
 
+---
 The strategic planning tree cascades as:
 
 {:.text-primary}

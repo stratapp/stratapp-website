@@ -12,4 +12,5 @@ fields:
     maxSize: 250
   label: Hero Image
 pages:
+- _features/build-your-strategy-as-cascading-tree.md
 - _features/designed-around-what-you-know.md
