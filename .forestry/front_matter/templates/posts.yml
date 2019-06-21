@@ -21,4 +21,5 @@ fields:
   name: layout
   label: layout
 pages:
+- _posts/2018-02-15-articleyeah.md
 - _posts/2018-02-15-anotherarticle.md
