@@ -8,7 +8,7 @@ layout: default
 {% endcomment %}
 
 
-<section class="l-section">
+      <section class="l-section">
           <div class="container container--small text-center">
             {{ content }}
           </div>
@@ -20,23 +20,26 @@ layout: default
             <div class="col-md-6">
 
               {{ page.intro_text  | markdownify }}
-              
-              <h3 class="text-danger font-weight-bold">we are experienced SaaS founders, with a compelling vision, backed by investors who are market leaders across several industries</h3>
-              <p>In our experiences, we’ve consistently seen businesses struggle to cohesively deliver and contribute to meaningful strategy outcomes throughout their organisations. As ‘busyness’ encroaches, strategy is often abandoned. Resulting in misaligned, inefficient and ‘noisy’ workplaces.</p>
-              <p>There are plenty of tools to help teams ‘execute’ but counter to their proposition, these tools and apps often serve as a distraction bogging down employees - preventing meaningful tasks to be completed.</p>
+
             </div>
-            <div class="col-md-6"><img src="/images/content/image-about-1.png" alt="" class="d-block img-fluid rounded-lg mx-auto"></div>
+            <div class="col-md-6">
+              <img src="{{ page.intro_image | relative_url }}" alt="{{ page.title }}" class="d-block img-fluid rounded-lg mx-auto">
+            </div>
           </div>
         </div>
       </section>
       <section class="l-section bg-primary text-white">
         <div class="container">
           <div class="row" data-aos="fade-up" data-aos-delay="100">
-            <div class="col-md-6"><img src="/images/content/strategic-illustration.svg" alt="" class="d-block img-fluid mb-4 mb-md-0 mx-auto"></div>
+
             <div class="col-md-6">
-              <h3 class="font-weight-bold">we imagined a software that seamlessly ensures that execution of strategy meets expectation </h3>
-              <p>Stratapp makes it easier for organisations and teams of all sizes to create, evolve and execute strategy. Aligning the day-to-day work outcomes to organisational objectives. </p>
-              <p>#stratapp introduces a new way of working. A way forward for leaders who are serious. Serious about what they are trying to achieve and genuinely seeking to tap into the full potential of their current and next-generation workforce.</p>
+              <img src="{{ page.section_image | relative_url }}" alt="{{ page.title }}" class="d-block img-fluid mb-4 mb-md-0 mx-auto">
+            </div>
+
+            <div class="col-md-6">
+
+              {{ page.section_text  | markdownify }}
+
             </div>
           </div>
         </div>

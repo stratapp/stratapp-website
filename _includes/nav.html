@@ -5,9 +5,16 @@
 {% assign url = page.url | remove:'index.html' %}
 
 <main role="main" class="flex-shrink-0">
-  
-<header class="c-header">
 
+{% if page.layout == 'about-us' %}<div class="bg-light">{% endif %}
+{% if page.layout == 'pricing' %}<div class="bg-light">{% endif %}
+{% if page.layout == 'contact-us' %}<div class="bg-light">{% endif %}
+{% if page.layout == 'post' %}<div class="bg-light bg-image">{% endif %}
+
+{% if page.layout == 'resources' %}<div style="background-image:url('/images/general/header-banner-bg.png')" class="bg-light bg-image">{% endif %}
+
+<header class="c-header">
+  
     <nav class="navbar navbar-expand-lg">
      <div class="container">
 

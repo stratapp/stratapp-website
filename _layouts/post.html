@@ -5,7 +5,7 @@ layout: default
 	This layout is used by the documents in the _posts/ collection
 {% endcomment %}
 
-
+</div>
 <section class="l-section pt-5">
     <div class="container container--extra-small"><a href="/resources" class="text-dark d-inline-block mb-4">< back to resources</a>
 
@@ -13,10 +13,10 @@ layout: default
    
           <p class="text-primary">By Richard Rumelt</p>
 
-          {% if post.banner_image and post.banner_image != "" %}
-              <img src="{{ post.banner_image | absolute_url }}" alt="{{ post.title }}" class="img-fluid rounded-lg mb-4 mb-sm-5">
+          {% if page.banner_image and page.banner_image != "" %}
+              <img src="{{ page.banner_image | absolute_url }}" alt="{{ page.title }}" class="img-fluid rounded-lg mb-4 mb-sm-5">
           {% else %}
-              <img src="{{ "/img/placeholder.png" | absolute_url }}" alt="{{ post.title }}" class="img-fluid rounded-lg mb-4 mb-sm-5">
+              <img src="{{ "/img/placeholder.png" | absolute_url }}" alt="{{ page.title }}" class="img-fluid rounded-lg mb-4 mb-sm-5">
           {% endif %}
 
           {{ content }}
