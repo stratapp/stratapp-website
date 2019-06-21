@@ -20,3 +20,5 @@ fields:
 - type: text
   name: layout
   label: layout
+pages:
+- _posts/2018-02-15-anotherarticle.md
