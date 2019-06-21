@@ -12,9 +12,13 @@ sections:
   label: Features
   create: all
   match: "**/*"
+  templates:
+  - features
 - type: jekyll-posts
   label: Posts
   create: all
+  templates:
+  - posts
 - type: directory
   path: _people
   label: People
