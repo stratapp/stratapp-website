@@ -21,6 +21,7 @@ fields:
   name: layout
   label: layout
 pages:
+- _posts/2017-08-01-welcome.md
 - _posts/2017-02-12-modern.md
 - _posts/2018-02-15-articleyeah.md
 - _posts/2018-02-15-anotherarticle.md
