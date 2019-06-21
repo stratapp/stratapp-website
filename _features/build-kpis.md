@@ -1,8 +1,5 @@
 ---
 title: Build your KPIs as a cascading tree - both strategic and day to day KPI
-date: '2016-04-20T00:00:00.000+00:00'
-banner_image: ''
-slug: ''
 hero_image: "/uploads/helloquence-61189-unsplash.jpg"
 
 ---

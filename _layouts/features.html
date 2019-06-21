@@ -31,11 +31,11 @@ layout: default
           <div class="d-md-flex align-items-md-center text-center text-md-left" data-aos="fade-up" data-aos-delay="100">
             <div class="c-feature__img mx-auto mb-4 mb-md-0">
             	
-            	{% if feature.banner_image and feature.banner_image != "" %}
-						<img src="{{ project.banner_image | absolute_url }}" alt="{{ project.title }}">
-				{% else %}
-						<img src="https://via.placeholder.com/220?text=example+of+image" alt="{{ project.title }}">
-				{% endif %}
+            	{% if feature.hero_image and feature.hero_image != "" %}
+						    <img src="{{ feature.hero_image | relative_url }}" alt="{{ feature.title }}">
+				      {% else %}
+						    <img src="https://via.placeholder.com/220?text=example+of+image" alt="{{ project.title }}">
+				      {% endif %}
 
             </div>
 

@@ -1,8 +1,5 @@
 ---
 title: Build your strategy as a cascading tree
-date: '2016-04-20T00:00:00.000+00:00'
-banner_image: ''
-slug: ''
 hero_image: "/uploads/timj-310824-unsplash.jpg.jpg"
 
 ---

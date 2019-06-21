@@ -1,8 +1,5 @@
 ---
 title: Designed around what you already know
-date: '2018-02-25T19:07:50.000+00:00'
-banner_image: ''
-slug: ''
 hero_image: "/uploads/nik-macmillan-280300-unsplash-1.jpg"
 
 ---
