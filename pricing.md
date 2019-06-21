@@ -2,12 +2,12 @@
 title: Pricing & Strategy
 layout: pricing
 faqs:
-- question: how does the annual billing work and what is the contract term?
+- question: what payment methods do you accept and how do I access past invoices and
+    billing history?
   answer: 'We do offer a free 15-day trial. Plenty of time to get started and using
     #stratapp. There are no set-up fees. No consultants, integrations or hardware
     costs. No end user training costs; the user experience is immediately intuitive.'
-- question: what payment methods do you accept and how do I access past invoices and
-    billing history?
+- question: how does the annual billing work and what is the contract term?
   answer: 'We do offer a free 15-day trial. Plenty of time to get started and using
     #stratapp. There are no set-up fees. No consultants, integrations or hardware
     costs. No end user training costs; the user experience is immediately intuitive.'
@@ -15,6 +15,8 @@ faqs:
   answer: 'We do offer a free 15-day trial. Plenty of time to get started and using
     #stratapp. There are no set-up fees. No consultants, integrations or hardware
     costs. No end user training costs; the user experience is immediately intuitive.'
+- question: ''
+  answer: ''
 menu:
   navigation:
     identifier: _pricing
