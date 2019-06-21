@@ -1,4 +1,9 @@
 ---
 label: Pages
 hide_body: false
-fields: []
+fields:
+- name: seo
+  type: include
+  config: {}
+  template: seo
+  label: 'SEO '
