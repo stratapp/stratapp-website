@@ -40,7 +40,9 @@
             </li>
             {% endfor %}
             <li class="nav-item">
-             <button type="text" class="btn btn-primary rounded-pill">Contact us</button>
+              <form action="/contact">
+                <button type="text" class="btn btn-primary rounded-pill">Contact us</button>
+              </form>
            </li>
           </ul>
           </div>
@@ -55,16 +57,20 @@
               <li class="nav-item"><a href="#" class="nav-link">Fair Usage</a></li>
               <li class="nav-item"><a href="#" class="nav-link">Sitemap</a></li>
             </ul>
-            <div>© copyright #stratapp<span class="c-devider">|</span>website by VA</div>
+            <div>© copyright #stratapp<span class="c-devider">|</span><a href="https://www.weareva.com.au" target="_blank">website by VA</a></div>
           </div>
         </div>
       </div>
     </footer>
     
-<!-- Javascript -->
-<script type="text/javascript" src="{{ "/js/jquery-3.3.1.slim.min.js" | absolute_url }}"></script>
-<script type="text/javascript" src="{{ "/js/bootstrap.min.js"  | absolute_url }}"></script>
+  <!-- Javascript -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+  <!-- <script type="text/javascript" src="{{ "/js/jquery-3.3.1.slim.min.js" | absolute_url }}"></script> -->
+  <script type="text/javascript" src="{{ "/js/bootstrap.min.js"  | absolute_url }}"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.js" integrity="sha256-pQBbLkFHcP1cy0C8IhoSdxlm0CtcH5yJ2ki9jjgR03c=" crossorigin="anonymous"></script>
 
-<!-- <script src="{{ "/js/main.js" | absolute_url }}" type="text/javascript"></script> -->
+  <script>
+    AOS.init();
+  </script>
 </body>
 </html>

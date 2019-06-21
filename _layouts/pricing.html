@@ -100,20 +100,20 @@ layout: default
       </section>
       <section class="l-section bg-primary text-white text-center">
         <div class="container">
-          <div class="h2">“stratapp quote if applicable.”</div>
-          <p class="h5 mt-4">-thrilled CXO/ business owner-</p>
+          <div class="h2" data-aos="fade-up" data-aos-delay="100">“stratapp quote if applicable.”</div>
+          <p class="h5 mt-4" data-aos="fade-up" data-aos-delay="100">-thrilled CXO/ business owner-</p>
         </div>
       </section>
       
 
       <section class="l-section">
         <div class="container container--small">
-          <div class="h3 font-weight-bold text-center mb-xxl">pricing FAQ’s</div>
+          <div class="h3 font-weight-bold text-center mb-xxl" data-aos="fade-up" data-aos-delay="100">pricing FAQ’s</div>
           <div id="accordionFaq" class="mb-xxl accordion">
 
             {% for faq in page.faqs %}
 
-            <div class="card c-faq bg-light mb-4">
+            <div class="card c-faq bg-light mb-4" data-aos="fade-up" data-aos-delay="100">
               <h2 id="heading{{ forloop.index }}" data-toggle="collapse" data-target="#collapse{{ forloop.index }}" aria-expanded="true" aria-controls="collapseOne" class="h5 card-header">{{ faq.question }}</h2>
               <div id="collapse{{ forloop.index }}" aria-labelledby="heading{{ forloop.index }}" data-parent="#accordionFaq" class="collapse {% if forloop.index ==1 %}show{% endif %}">
                 <div class="card-body">
@@ -139,23 +139,6 @@ layout: default
           </div>
         </div>
       </section>
-      <section class="l-section bg-dark text-white">
-        <div class="container">
-          <form class="row no-gutters justify-content-lg-center align-items-lg-center text-center">
-            <div class="col-lg-auto mr-lg-4">
-              <div class="mb-3 mb-lg-0">update me on future #stratapp innovations</div>
-            </div>
-            <div class="col-lg-auto col-lg-2 mr-lg-4">
-              <label for="inlineFormInputName" class="sr-only">Name</label>
-              <input type="text" id="inlineFormInputName" placeholder="name" class="form-control c-form-control rounded-pill mb-3 mb-lg-0">
-            </div>
-            <div class="col-lg-auto col-lg-3 mr-lg-4">
-              <label for="inlineFormInputEmail" class="sr-only">Email</label>
-              <input type="email" id="inlineFormInputEmail" placeholder="email" class="form-control c-form-control rounded-pill mb-3 mb-lg-0">
-            </div>
-            <div class="col-lg-auto">
-              <button type="submit" class="btn btn-outline-dark rounded-pill">Submit</button>
-            </div>
-          </form>
-        </div>
-      </section>
+
+      {% include signupform.html class="bg-dark text-white" %}
+

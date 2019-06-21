@@ -8,106 +8,69 @@ layout: default
 {% endcomment %}
 
 
-<section class="bg-primary text-white c-hero-banner">
+      <section class="bg-primary text-white c-hero-banner">
         <div class="container">
           <div class="row">
             <div class="col-lg-5 c-hero-banner__left">
-              <div class="h1 font-weight-bold">seamlessly execute strategy and day to day work in one place</div>
-              <div class="h5 mb-4">a collaborative experience that aligns and engages your whole organisation</div><a href="#" class="btn btn-danger rounded-pill">Book a call</a>
+              {{ page.hero_intro  | markdownify }}
+
+         <!--      <div class="h1 font-weight-bold">seamlessly execute strategy and day to day work in one place</div>
+              <div class="h5 mb-4">a collaborative experience that aligns and engages your whole organisation</div><a href="#" class="btn btn-danger rounded-pill">Book a call</a> -->
+
             </div>
-            <div class="col-lg-7 d-none d-lg-block c-hero-banner__right"><img src="/images/content/hero-flag-man.svg" alt=""></div>
+            <div class="col-lg-7 d-none d-lg-block c-hero-banner__right">
+              <img src="{{ page.hero_image | relative_url }}" alt="{{ post.title }}">
+            </div>
           </div>
         </div>
       </section>
       <section class="l-section">
         <div class="container">
-          <div class="c-first-call text-center mx-auto">
-            <div class="h1"><b>one-on-one first call</b></div>
-            <div class="h2">book your call with one of our founders (limited availability)</div><a href="#" class="btn btn-danger rounded-pill mt-3">Book a call</a>
+          <div class="c-first-call text-center mx-auto" data-aos="fade-up" data-aos-delay="100">
+    
+            {{ page.intro_text  | markdownify }}
+
           </div>
         </div>
       </section>
       <section class="l-section bg-light c-about">
         <div class="container">
-          <div class="row">
+          <div class="row" data-aos="fade-up" data-aos-delay="100">
             <div class="col-lg-6 pr-lg-5">
-              <div class="c-about__title h3 font-weight-bold">everything about <a href="#">#stratapp</a> is unique, including our approach to first contact, knowledge sharing, onboarding, coaching, support and referrals</div>
+
+              {{ page.columns_text_1  | markdownify }}
+
             </div>
             <div class="col-lg-6 pl-lg-5">
-              <p>We are experienced SaaS founders with a compelling vision. Backed by industry leaders who are serious about achieving and utilising the full potential of their current and future workforce.</p>
-              <p>Leadership is essential when achieving a 10x impact client side. With that in mind, we’d like to personally invite you to a first call with one of our founders.</p>
-              <p>As #stratapp scales, our commitment to that initial dialogue will remain at our core - We will continue to make direct CEO/CXO to founder communication a priority by joining the back end of first calls and follow up sessions for leadership teams.</p>
+
+               {{ page.columns_text_2  | markdownify }}
+
             </div>
           </div>
         </div>
       </section>
       <section class="l-section c-benefits bg-dark">
         <div class="container">
-          <div class="row">   
-            <div class="col-sm-6 col-md-4 c-benefits__col">
+          <div class="row">
+
+          {% for feature in page.features %} 
+            <div class="col-sm-6 col-md-4 c-benefits__col" data-aos="flip-left" data-aos-delay="100">
               <div class="c-benefit text-center text-white">
-                <div class="bg-gradient-primary rounded-circle mx-auto u-shadow-primary mb-4 c-benefit__img"><img src="/images/content/ico-articulate.svg" alt=""/></div>
-                <h3 class="font-weight-bold mb-2">articulate</h3>
-                <p>achieve undelineated clarity and understanding throughout every tier of your organisation</p>
+                <div class="bg-gradient-primary rounded-circle mx-auto u-shadow-primary mb-4 c-benefit__img">
+                  <img src="{{ feature.icon | relative_url }}" alt="{{ feature.title }}">
+                </div>
+                <h3 class="font-weight-bold mb-2">{{ feature.title }}</h3>
+                <p>{{ feature.text }}</p>
               </div>
             </div>
-            <div class="col-sm-6 col-md-4 c-benefits__col">
-              <div class="c-benefit text-center text-white">
-                <div class="bg-gradient-primary rounded-circle mx-auto u-shadow-primary mb-4 c-benefit__img"><img src="/images/content/ico-collaborate.svg" alt=""/></div>
-                <h3 class="font-weight-bold mb-2">collaborate</h3>
-                <p>a platform that connects teams to contribute to real and resource worthy outcomes - without distraction</p>
-              </div>
-            </div>
-            <div class="col-sm-6 col-md-4 c-benefits__col">
-              <div class="c-benefit text-center text-white">
-                <div class="bg-gradient-primary rounded-circle mx-auto u-shadow-primary mb-4 c-benefit__img"><img src="/images/content/ico-align.svg" alt=""/></div>
-                <h3 class="font-weight-bold mb-2">align</h3>
-                <p>align day-to-day efforts with organisational objectives to creating meaningful tasks that contribute to overall success</p>
-              </div>
-            </div>
-            <div class="col-sm-6 col-md-4 c-benefits__col">
-              <div class="c-benefit text-center text-white">
-                <div class="bg-gradient-primary rounded-circle mx-auto u-shadow-primary mb-4 c-benefit__img"><img src="/images/content/ico-engage.svg" alt=""/></div>
-                <h3 class="font-weight-bold mb-2">engage</h3>
-                <p>genuine org-wide strategy that adds value to every employee, every day</p>
-              </div>
-            </div>
-            <div class="col-sm-6 col-md-4 c-benefits__col">
-              <div class="c-benefit text-center text-white">
-                <div class="bg-gradient-primary rounded-circle mx-auto u-shadow-primary mb-4 c-benefit__img"><img src="/images/content/ico-see.svg" alt=""/></div>
-                <h3 class="font-weight-bold mb-2">see</h3>
-                <p>work cohesively on priority projects allowing organisations to move forward</p>
-              </div>
-            </div>
-            <div class="col-sm-6 col-md-4 c-benefits__col">
-              <div class="c-benefit text-center text-white">
-                <div class="bg-gradient-primary rounded-circle mx-auto u-shadow-primary mb-4 c-benefit__img"><img src="/images/content/ico-thrive.svg" alt=""/></div>
-                <h3 class="font-weight-bold mb-2">thrive</h3>
-                <p>develop a prosperous and connected organisation that achieves, every day, every quarter, every year, year on year</p>
-              </div>
-            </div>
+          {% endfor %} 
+           
           </div>
         </div>
       </section>
-      <section class="l-section bg-danger text-white">
-        <div class="container container--small">
-          <form class="row no-gutters justify-content-lg-center align-items-lg-center text-center">
-            <div class="col-lg-auto mr-lg-4">
-              <div class="mb-3 mb-lg-0">update me on future #stratapp innovations</div>
-            </div>
-            <div class="col-lg-auto col-lg-2 mr-lg-4">
-              <label for="inlineFormInputName" class="sr-only">Name</label>
-              <input type="text" id="inlineFormInputName" placeholder="name" class="form-control c-form-control rounded-pill mb-3 mb-lg-0">
-            </div>
-            <div class="col-lg-auto col-lg-3 mr-lg-4">
-              <label for="inlineFormInputEmail" class="sr-only">Email</label>
-              <input type="email" id="inlineFormInputEmail" placeholder="email" class="form-control c-form-control rounded-pill mb-3 mb-lg-0">
-            </div>
-            <div class="col-lg-auto">
-              <button type="submit" class="btn btn-outline-danger rounded-pill">Submit</button>
-            </div>
-          </form>
-        </div>
-      </section>
+
+      {% include signupform.html class="bg-danger text-white" %}
+
+      
     </main>
 

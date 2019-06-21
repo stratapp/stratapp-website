@@ -14,10 +14,13 @@ layout: default
           </div>
         </section>
       </div>
-      <section class="l-section bg-primary-grad">
+      <section class="l-section bg-primary-grad" >
         <div class="container">
-          <div class="row align-items-center">
+          <div class="row align-items-center" data-aos="fade-up" data-aos-delay="100">
             <div class="col-md-6">
+
+              {{ page.intro_text  | markdownify }}
+              
               <h3 class="text-danger font-weight-bold">we are experienced SaaS founders, with a compelling vision, backed by investors who are market leaders across several industries</h3>
               <p>In our experiences, we’ve consistently seen businesses struggle to cohesively deliver and contribute to meaningful strategy outcomes throughout their organisations. As ‘busyness’ encroaches, strategy is often abandoned. Resulting in misaligned, inefficient and ‘noisy’ workplaces.</p>
               <p>There are plenty of tools to help teams ‘execute’ but counter to their proposition, these tools and apps often serve as a distraction bogging down employees - preventing meaningful tasks to be completed.</p>
@@ -28,7 +31,7 @@ layout: default
       </section>
       <section class="l-section bg-primary text-white">
         <div class="container">
-          <div class="row">
+          <div class="row" data-aos="fade-up" data-aos-delay="100">
             <div class="col-md-6"><img src="/images/content/strategic-illustration.svg" alt="" class="d-block img-fluid mb-4 mb-md-0 mx-auto"></div>
             <div class="col-md-6">
               <h3 class="font-weight-bold">we imagined a software that seamlessly ensures that execution of strategy meets expectation </h3>
@@ -38,7 +41,7 @@ layout: default
           </div>
         </div>
       </section>
-      <section class="l-section">
+      <section class="l-section" data-aos="fade-up" data-aos-delay="200">
         <div class="container">
           <div class="h3 text-center font-weight-bold mb-xxl">#stratapp’s co-founders</div>
           <div class="row">
@@ -46,7 +49,7 @@ layout: default
              {% assign people = site.people %}
                 {% for person in people %}
 
-                  <div class="col-md-6">
+                  <div class="col-md-6" >
                     <div class="c-founder bg-white d-flex align-items-top rounded-sm shadow bg-primary-grad mb-5 mb-md-0">
                       <img alt="{{ person.title }}" src="{{ person.thumbnail | absolute_url }}" class="img-fluid rounded-circle shadow c-founder__ava">
                       <div class="pl-3 pr-2 py-3 pl-lg-5 pr-lg-4 py-lg-5">
@@ -73,19 +76,19 @@ layout: default
         </div>
       </section>
       <section class="l-section bg-danger text-white">
-        <div class="container container--extra-small">            
-          <div class="h3 text-center font-weight-bold mb-4">three big changes</div>
-          <div class="h5 text-center mb-5">we believe that there are three big changes coming to global markets in the next 5 years </div>
+        <div class="container container--extra-small">           
+          <div class="h3 text-center font-weight-bold mb-4" data-aos="fade-up" data-aos-delay="100">three big changes</div>
+          <div class="h5 text-center mb-5" data-aos="fade-up" data-aos-delay="100">we believe that there are three big changes coming to global markets in the next 5 years </div>
           <ul class="c-changes list-unstyled text-center">
-            <li class="c-changes__row">
+            <li class="c-changes__row" data-aos="fade-up" data-aos-delay="200">
               <div class="h3 mx-auto text-danger bg-white rounded-circle font-weight-bold mb-4 c-changes__num">1</div>
               <div class="h6">Everyone will have software in this space.</div>
             </li>
-            <li class="c-changes__row">
+            <li class="c-changes__row" data-aos="fade-up" data-aos-delay="300">
               <div class="h3 mx-auto text-danger bg-white rounded-circle font-weight-bold mb-4 c-changes__num">2</div>
               <div class="h6">There will be a shift to reduce the number of applications that require employees to login every day. This will result in an appetite for applications that can service the 12-15 communication and execution apps currently in the workplace today.</div>
             </li>
-            <li class="c-changes__row">
+            <li class="c-changes__row" data-aos="fade-up" data-aos-delay="400">
               <div class="h3 mx-auto text-danger bg-white rounded-circle font-weight-bold mb-4 c-changes__num">3</div>
               <div class="h6">Historically, the advancements in the collaborative tech (Atlassian, Trello, Basecamp) for good reason have only been used by 10-15% of most organisations. stratapp offers best practice collaboration and accessibility. A tool that is truly useful to everyone, from CXO level & business owners’ to team managers, team leaders and to front line staff.</div>
             </li>
@@ -95,30 +98,14 @@ layout: default
       <section style="background-image:url('/images/general/bottom-banner-bg.png')" class="l-section bg-image">
         <div class="container container--small"> 
           <div class="row"> 
-            <div class="col-md-6 offset-md-6">
+            <div class="col-md-6 offset-md-6" data-aos="fade-left" data-aos-delay="100">
               <div class="h3 text-primary font-weight-bold">one-on-one first call, your CXO to our founder</div><a href="#" class="btn btn-danger rounded-pill">Book a call</a>
             </div>
           </div>
         </div>
       </section>
-      <section class="l-section bg-dark text-white">
-        <div class="container">
-          <form class="row no-gutters justify-content-lg-center align-items-lg-center text-center">
-            <div class="col-lg-auto mr-lg-4">
-              <div class="mb-3 mb-lg-0">update me on future #stratapp innovations</div>
-            </div>
-            <div class="col-lg-auto col-lg-2 mr-lg-4">
-              <label for="inlineFormInputName" class="sr-only">Name</label>
-              <input type="text" id="inlineFormInputName" placeholder="name" class="form-control c-form-control rounded-pill mb-3 mb-lg-0">
-            </div>
-            <div class="col-lg-auto col-lg-3 mr-lg-4">
-              <label for="inlineFormInputEmail" class="sr-only">Email</label>
-              <input type="email" id="inlineFormInputEmail" placeholder="email" class="form-control c-form-control rounded-pill mb-3 mb-lg-0">
-            </div>
-            <div class="col-lg-auto">
-              <button type="submit" class="btn btn-outline-dark rounded-pill">Submit</button>
-            </div>
-          </form>
-        </div>
-      </section>
+
+      {% include signupform.html class="bg-dark text-white" %}
+
+     
 

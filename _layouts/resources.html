@@ -17,9 +17,14 @@ layout: default
 		
 		<!-- Hero Article ---> 
 		{% for post in site.posts limit:1 %}
-		<div class="c-article bg-white d-md-flex align-items-md-center rounded-lg overflow-hidden shadow-lg mb-5">
+		<div class="c-article bg-white d-md-flex align-items-md-center rounded-lg overflow-hidden shadow-lg mb-5" data-aos="flip-up" data-aos-delay="100">
+			
+			{% if post.banner_image and post.banner_image != "" %}
+                <img src="{{ post.banner_image | absolute_url }}" alt="{{ post.title }}" class="c-article__img-lg">
+            {% else %}
+                <img src="{{ "/img/placeholder.png" | absolute_url }}" alt="{{ post.title }}">
+            {% endif %}
 
-			<img src="/images/content/image-article-2.png" alt="" class="c-article__img-lg">
 			<div class="px-4 px-lg-5 py-3">
 		          <h4 class="font-weight-bold text-primary mb-3"><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h4>
 		          <p class="mb-0">{{ post.content | truncatewords: 30 }}</p>
@@ -31,13 +36,17 @@ layout: default
 		<!-- 3 Col Section ---> 
 		<div class="row flex-column flex-md-row">
 		{% for post in site.posts offset:1 limit:3 %}
-		<div class="col">
+		<div class="col" data-aos="flip-up" data-aos-delay="150">
 			<div class="c-article bg-white rounded-lg overflow-hidden shadow-lg mb-5">
 
-				<img src="/images/content/image-article-3.png" alt="" class="c-article__img-md">
+				{% if post.banner_image and post.banner_image != "" %}
+					<img src="{{ post.banner_image | absolute_url }}" alt="{{ post.title }}" class="c-article__img-md">
+				{% else %}
+				    <img src="{{ "/img/placeholder.png" | absolute_url }}" alt="{{ post.title }}">
+				{% endif %}
 				<div class="px-4 py-3">
 			          <h5 class="font-weight-bold text-primary mb-3"><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h5>
-			          <p class="mb-0">{{ post.content | truncatewords: 30 }}... <a class="text-primary" href="{{ post.url | absolute_url }}">keep reading</a></p>
+			          <p class="mb-0">{{ post.content | truncatewords: 20 }}... <a class="text-primary" href="{{ post.url | absolute_url }}">keep reading</a></p>
 			          
 			    </div>
 			</div>
@@ -47,13 +56,18 @@ layout: default
 
 		<div class="row flex-column flex-sm-row">
 		{% for post in site.posts offset:3 %}
-		<div class="col-lg-6">
+		<div class="col-lg-6" data-aos="flip-up" data-aos-delay="200">
               <div class="c-article bg-white d-md-flex align-items-md-center rounded-lg overflow-hidden shadow-lg mb-5">
 
-				<img src="/images/content/image-article-1.png" alt="" class="c-article__img-sm">
+				{% if post.banner_image and post.banner_image != "" %}
+					<img src="{{ post.banner_image | absolute_url }}" alt="{{ post.title }}" class="c-article__img-sm">
+				{% else %}
+				    <img src="{{ "/img/placeholder.png" | absolute_url }}" alt="{{ post.title }}">
+				{% endif %}
+
 				<div class="px-4 py-3">
 			          <h6 class="font-weight-bold text-primary mb-3"><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h6>
-			          <p class="mb-0">{{ post.content | truncatewords: 15 }}... <a class="text-primary" href="{{ post.url | absolute_url }}">keep reading</a></p>
+			          <p class="mb-0">{{ post.content | truncatewords: 10 }}... <a class="text-primary" href="{{ post.url | absolute_url }}">keep reading</a></p>
 			          
 			    </div>
 			</div>
@@ -62,23 +76,5 @@ layout: default
 		</div>
 	</div>
 	</section>
-	<section class="l-section bg-dark text-white">
-        <div class="container">
-          <form class="row no-gutters justify-content-lg-center align-items-lg-center text-center">
-            <div class="col-lg-auto mr-lg-4">
-              <div class="mb-3 mb-lg-0">update me on future #stratapp innovations</div>
-            </div>
-            <div class="col-lg-auto col-lg-2 mr-lg-4">
-              <label for="inlineFormInputName" class="sr-only">Name</label>
-              <input type="text" id="inlineFormInputName" placeholder="name" class="form-control c-form-control rounded-pill mb-3 mb-lg-0">
-            </div>
-            <div class="col-lg-auto col-lg-3 mr-lg-4">
-              <label for="inlineFormInputEmail" class="sr-only">Email</label>
-              <input type="email" id="inlineFormInputEmail" placeholder="email" class="form-control c-form-control rounded-pill mb-3 mb-lg-0">
-            </div>
-            <div class="col-lg-auto">
-              <button type="submit" class="btn btn-outline-dark rounded-pill">Submit</button>
-            </div>
-          </form>
-        </div>
-      </section>
+
+	{% include signupform.html class="bg-dark text-white" %}
