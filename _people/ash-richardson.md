@@ -1,5 +1,5 @@
 ---
-title: Ash Richardson
+title: Ash Richardson (product + operations)
 date: 2017-11-14T10:54:31.000+00:00
 thumbnail: "/images/content/image-ava-ash.png"
 sub_heading: co-founder
@@ -8,4 +8,4 @@ linkedin: https://www.linkedin.com/in/ashrichardson/
 layout: person
 
 ---
-Pellentesque suscipit magna sed eros ullamcorper, quis posuere felis efficitur. Praesent et ligula urna. Suspendisse malesuada auctor elit vulputate mollis.
+20 years digital tech and strategy experience, including co-founding #team, Accenture, MP of Oyster Partners (now DigitasLBi) and ex-VC investing in technology startups. Unique skills on product roadmap, design and offshoring.
