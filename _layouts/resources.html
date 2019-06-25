@@ -29,7 +29,7 @@ layout: default
 
 			<div class="px-4 px-lg-5 py-3">
 		          <h4 class="font-weight-bold text-primary mb-3"><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h4>
-		          <p class="mb-0">{{ post.content | truncatewords: 30 }}</p>
+		          <p class="h6 mb-1">{{ post.content | strip_html | truncatewords: 40 }}</p>
 		          <a class="text-primary" href="{{ post.url | absolute_url }}">keep reading</a>
 		    </div>
 		</div>
@@ -47,8 +47,8 @@ layout: default
 				    <img src="{{ "/img/placeholder.png" | absolute_url }}" alt="{{ post.title }}">
 				{% endif %}
 				<div class="px-4 py-3">
-			          <h5 class="font-weight-bold text-primary mb-3"><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h5>
-			          <p class="mb-0">{{ post.content | truncatewords: 20 }}... <a class="text-primary" href="{{ post.url | absolute_url }}">keep reading</a></p>
+			          <h5 class="font-weight-bold text-primary mb-3"><a href="{{ post.url | absolute_url }}">{{ post.title | truncate: 50 }}</a></h5>
+			          <p class="mb-0">{{ post.content | strip_html | truncatewords: 20 }}... <a class="text-primary" href="{{ post.url | absolute_url }}">keep reading</a></p>
 			          
 			    </div>
 			</div>
@@ -62,14 +62,14 @@ layout: default
               <div class="c-article bg-white d-md-flex align-items-md-center rounded-lg overflow-hidden shadow-lg mb-5">
 
 				{% if post.banner_image and post.banner_image != "" %}
-					<img src="{{ post.banner_image | absolute_url }}" alt="{{ post.title }}" class="c-article__img-sm">
+					<img src="{{ post.banner_image | absolute_url }}" alt="{{ post.title }}" class="w-25 c-article__img-sm">
 				{% else %}
 				    <img src="{{ "/img/placeholder.png" | absolute_url }}" alt="{{ post.title }}">
 				{% endif %}
 
 				<div class="px-4 py-3">
-			          <h6 class="font-weight-bold text-primary mb-3"><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h6>
-			          <p class="mb-0">{{ post.content | truncatewords: 10 }}... <a class="text-primary" href="{{ post.url | absolute_url }}">keep reading</a></p>
+			          <h6 class="font-weight-bold text-primary mb-3"><a href="{{ post.url | absolute_url }}">{{ post.title | truncate: 60 }}</a></h6>
+			          <p class="mb-0">{{ post.content | strip_html | truncatewords: 12 }}... <a class="text-primary" href="{{ post.url | absolute_url }}">keep reading</a></p>
 			          
 			    </div>
 			</div>
