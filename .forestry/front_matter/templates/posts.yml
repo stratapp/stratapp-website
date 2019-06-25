@@ -26,6 +26,7 @@ fields:
   hidden: true
   default: post
 pages:
+- _posts/accelerating-x-border-performance.md
 - _posts/millennials-in-the-workplace.md
 - _posts/how-great-leaders-inspire-action.md
 - _posts/employee-engagement-without-business-performance-is-a-fail-business-performance-without-employee-engagement-is-a-fail.md
