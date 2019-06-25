@@ -12,7 +12,7 @@
   <meta name="HandheldFriendly" content="true">
   <meta name="robots" content="index, follow"> 
   <meta name="og:title" property="og:title" content="{% if .page.seo_title %}{{ .page.seo_title }}{% else %}{{ page.title }} - {{ site.title }}{% endif %}">
-  
+
   <link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html',''}}">
 
   <link rel="icon" type="image/png" href="{{ "/images/general/favicon.png" | absolute_url }}"/>
@@ -22,6 +22,11 @@
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.css" />
 
   <link rel="stylesheet" href="{{ "/css/style.css" | absolute_url }}">
+  
+
+  <!-- Google Tag Manager --> <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src= 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f); })(window,document,'script','dataLayer','GTM-PP2CQGZ');</script> <!-- End Google Tag Manager -->
 
 </head>
 <body class="d-flex flex-column h-100">
+
+  <!-- Google Tag Manager (noscript) --> <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PP2CQGZ" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript> <!-- End Google Tag Manager (noscript) -->
