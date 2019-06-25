@@ -26,16 +26,9 @@ fields:
   hidden: true
   default: post
 pages:
-- _posts/accelerating-x-border-performance.md
-- _posts/millennials-in-the-workplace.md
-- _posts/how-great-leaders-inspire-action.md
-- _posts/employee-engagement-without-business-performance-is-a-fail-business-performance-without-employee-engagement-is-a-fail.md
-- _posts/stratapp-is-easy-to-implement-but-clients-still-manage-change-for-the-best-results.md
-- _posts/how-to-run-a-company-with-almost-no-rules.md
-- _posts/measure-what-matters.md
+- _posts/2018-02-15-anotherarticle.md
 - _posts/many-strategies-fail-because-they-re-not-actually-strategies.md
 - _posts/2017-02-12-modern.md
-- _posts/2018-02-15-anotherarticle.md
 - _posts/2017-08-22-research.md
 - _posts/2017-08-01-welcome.md
 - _posts/2018-02-15-articleyeah.md
