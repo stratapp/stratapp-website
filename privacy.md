@@ -55,11 +55,11 @@ We collect several different types of information for various purposes to provid
 
 While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you (&quot;Personal Data&quot;). Personally identifiable information may include, but is not limited to:
 
-- --Email address
-- --First name and last name
-- --Phone number
-- --Address, State, Province, ZIP/Postal code, City
-- --Cookies and Usage Data
+- Email address
+- First name and last name
+- Phone number
+- Address, State, Province, ZIP/Postal code, City
+- Cookies and Usage Data
 
 We may use your Personal Data to contact you with newsletters, marketing or promotional materials and other information that may be of interest to you. You may opt out of receiving any, or all, of these communications from us by following the unsubscribe link or the instructions provided in any email we send.
 
@@ -87,22 +87,22 @@ You can instruct your browser to refuse all cookies or to indicate when a cookie
 
 Examples of Cookies we use:
 
-- --Session Cookies. We use Session Cookies to operate our Service.
-- --Preference Cookies. We use Preference Cookies to remember your preferences and various settings.
-- --Security Cookies. We use Security Cookies for security purposes.
+- Session Cookies. We use Session Cookies to operate our Service.
+- Preference Cookies. We use Preference Cookies to remember your preferences and various settings.
+- Security Cookies. We use Security Cookies for security purposes.
 
 **Use of Data**
 
 #stratapp uses the collected data for various purposes:
 
-- --To provide and maintain our Service
-- --To notify you about changes to our Service
-- --To allow you to participate in interactive features of our Service when you choose to do so
-- --To provide customer support
-- --To gather analysis or valuable information so that we can improve our Service
-- --To monitor the usage of our Service
-- --To detect, prevent and address technical issues
-- --To provide you with news, special offers and general information about other goods, services and events which we offer that are similar to those that you have already purchased or enquired about unless you have opted not to receive such information
+- To provide and maintain our Service
+- To notify you about changes to our Service
+- To allow you to participate in interactive features of our Service when you choose to do so
+- To provide customer support
+- To gather analysis or valuable information so that we can improve our Service
+- To monitor the usage of our Service
+- To detect, prevent and address technical issues
+- To provide you with news, special offers and general information about other goods, services and events which we offer that are similar to those that you have already purchased or enquired about unless you have opted not to receive such information
 
 **Legal Basis for Processing Personal Data under the General Data Protection Regulation (GDPR)**
 
@@ -110,11 +110,11 @@ If you are from the European Economic Area (EEA), #stratapp legal basis for coll
 
 #stratapp may process your Personal Data because:
 
-- --We need to perform a contract with you
-- --You have given us permission to do so
-- --The processing is in our legitimate interests and it is not overridden by your rights
-- --For payment processing purposes
-- --To comply with the law
+- We need to perform a contract with you
+- You have given us permission to do so
+- The processing is in our legitimate interests and it is not overridden by your rights
+- For payment processing purposes
+- To comply with the law
 
 **Retention of Data**
 
@@ -144,11 +144,11 @@ Under certain circumstances, #stratapp may be required to disclose your Personal
 
 #stratapp may disclose your Personal Data in the good faith belief that such action is necessary to:
 
-- --To comply with a legal obligation
-- --To protect and defend the rights or property of #stratapp
-- --To prevent or investigate possible wrongdoing in connection with the Service
-- --To protect the personal safety of users of the Service or the public
-- --To protect against legal liability
+- To comply with a legal obligation
+- To protect and defend the rights or property of #stratapp
+- To prevent or investigate possible wrongdoing in connection with the Service
+- To protect the personal safety of users of the Service or the public
+- To protect against legal liability
 
 **Security of Data**
 
@@ -294,8 +294,8 @@ For any other web browser, please visit your web browser&#39;s official web page
 
 You can learn more about cookies and the following third-party websites:
 
-- --AllAboutCookies: [http://www.allaboutcookies.org/](http://www.allaboutcookies.org/)
-- --Network Advertising Initiative: [http://www.networkadvertising.org/](http://www.networkadvertising.org/)
+- AllAboutCookies: [http://www.allaboutcookies.org/](http://www.allaboutcookies.org/)
+- Network Advertising Initiative: [http://www.networkadvertising.org/](http://www.networkadvertising.org/)
 
 **Contact Us**
 
