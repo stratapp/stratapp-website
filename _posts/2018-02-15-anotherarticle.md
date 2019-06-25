@@ -1,6 +1,6 @@
 ---
-title: An Old Article Here about technology
-date: 2017-02-15 09:09:13 +0000
+title: CEOs should stop thinking that execution is somebody else’s job; it is theirs
+date: 2017-02-15T09:09:13.000+00:00
 related_posts:
 - ''
 - _posts/2017-02-12-modern.md
@@ -10,12 +10,16 @@ tags:
 - Demo
 - Forestry
 layout: post
-banner_image: "/uploads/2018/02/17/building2.jpg"
-author: Richard Rumelt
+banner_image: "/uploads/rogermartin.jpg"
+author: Roger Martin
+seo_title: ''
+seo_description: ''
 
 ---
-Maecenas faucibus mollis interdum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. 
+Professor Roger Martin is a legend on strategy.  His thinking plays well to #stratapp, the world’s first org-wide strategy application; that includes execution of both strategy and day to day work, alongside social collaboration with context and structure.
 
-Etiam porta sem malesuada magna mollis euismod. Maecenas faucibus mollis interdum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Etiam porta sem malesuada magna mollis euismod. 
+“In my 36 years of working with companies, I still haven’t seen an example of a strategy that was so tightly specified that the people “executing” it didn’t have to make major choices—choices as tricky and important as the so-called “strategy choices” themselves.”
 
-Maecenas faucibus mollis interdum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Etiam porta sem malesuada magna mollis euismod.
+\#stratapp tightens this process of evolving strategic choices and progressively learning from execution, providing a real-time line-of-sight through strategy, KPIs, day to day work and culture.  This elevates collective performance by keeping everyone aligned; from board, CEO and senior management levels, through to middle management, team leaders and front line employees.  
+  
+source: https://hbr.org/2017/11/ceos-should-leave-strategy-to-their-team-and-save-their-focus-for-execution 
