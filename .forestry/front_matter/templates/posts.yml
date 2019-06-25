@@ -26,6 +26,7 @@ fields:
   hidden: true
   default: post
 pages:
+- _posts/many-strategies-fail-because-they-re-not-actually-strategies.md
 - _posts/2017-02-12-modern.md
 - _posts/2018-02-15-anotherarticle.md
 - _posts/2017-08-22-research.md
