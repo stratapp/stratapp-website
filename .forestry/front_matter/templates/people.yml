@@ -26,3 +26,5 @@ fields:
 - type: datetime
   name: date
   label: date
+pages:
+- _people/grady-nerio.md
