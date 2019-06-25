@@ -128,50 +128,101 @@
       <section class="l-section">
         <div class="container">
           <div class="h3 font-weight-bold text-center mb-xxl">Fill in the form below and get started</div>
-            <form action="https://formcarry.com/s/6ohc5kXx9Lu" method="POST" class="c-contact-form">
-            <div class="row">
+             <form action='https://crm.zoho.com/crm/WebToLeadForm' name=WebToLeads4060852000000260001 method='POST' onSubmit='javascript:document.charset="UTF-8"; return checkMandatory4060852000000260001()' accept-charset='UTF-8'>
+              <input type='text' style='display:none;' name='xnQsjsdp' value='0e0451cf55ef81e789cc75a4b789b0167e95e8d9c42c171cead3a908db0d53f7'></input> 
+               <input type='hidden' name='zc_gad' id='zc_gad' value=''></input> 
+               <input type='text' style='display:none;' name='xmIwtLD' value='d31b5dadb4fde283500edff1888d1231af1692063011bae5587c7dcef4f77d03'></input> 
+               <input type='text'  style='display:none;' name='actionType' value='TGVhZHM='></input>
+               <input type='text' style='display:none;' name='returnURL' value='https://www.stratapp.ai/thankyou' > </input>
+
+            <div class="row mb-4">
               <div class="col-sm-6">
                 <label for="formInputFirstName" class="sr-only">First Name</label>
-                <input type="text" id="formInputFirstName" name="First_Name" placeholder="First Name" class="form-control form-control-lg">
+                <input type="text" id="formInputFirstName" name='First Name' placeholder="First Name" class="form-control form-control-lg">
               </div>
               <div class="col-sm-6">
                 <label for="formInputLastName" class="sr-only">Last Name</label>
-                <input type="text" id="formInputLastName" name="Last_Name" placeholder="Last Name" class="form-control form-control-lg">
+                <input type="text" id="formInputLastName" name='Last Name' placeholder="Last Name" class="form-control form-control-lg">
               </div>
             </div>
-            <div class="row">
+            <div class="row mb-4">
               <div class="col-sm-6">
                 <label for="formInputEmail" class="sr-only">Email</label>
-                <input type="text" id="formInputEmail" name="Email" placeholder="Email Address" class="form-control form-control-lg">
+                <input type="text" id="formInputEmail" name='Email' placeholder="Email Address" class="form-control form-control-lg">
               </div>
               <div class="col-sm-6">
                 <label for="formInputContactNumber" class="sr-only">Contact Number</label>
                 <input type="text" id="formInputContactNumber" name="ContactNumber" placeholder="Contact Number" class="form-control form-control-lg">
               </div>
             </div>
-            <div class="row">
+            <div class="row mb-4">
               <div class="col-sm-6">
                 <label for="formInputTitle" class="sr-only">Your Title/ Position</label>
-                <input type="text" id="formInputTitle" name="Title" placeholder="Your Title/ Position" class="form-control form-control-lg">
+                <input type="text" id="formInputTitle" name="Designation" placeholder="Your Title/ Position" class="form-control form-control-lg">
               </div>
               <div class="col-sm-6">
                 <label for="formInputOrganizationName" class="sr-only">Organisation Name</label>
-                <input type="text" id="formInputOrganizationName" name="Organisation" placeholder="Organisation Name" class="form-control form-control-lg">
+                <input type="text" id="formInputOrganizationName" name="Company" placeholder="Organisation Name" class="form-control form-control-lg">
               </div>
             </div>
-            <div class="row">
+            <div class="row mb-4">
               <div class="col-sm-6">
                 <label for="formInputNumEmployees" class="sr-only">Number of Employees</label>
-                <input type="text" id="formInputNumEmployees" name="No_Employees" placeholder="Number of Employees" class="form-control form-control-lg">
+                <input type="text" id="formInputNumEmployees" name="No of Employees" placeholder="Number of Employees" class="form-control form-control-lg">
               </div>
               <div class="col-sm-6">
                 <label for="formInputLnUrl" class="sr-only">LinkedIn URL (optional)</label>
-                <input type="text" id="formInputLnUrl" name="LinkedIn" placeholder="LinkedIn URL (optional)" class="form-control form-control-lg">
+                <input type="text" id="formInputLnUrl" name="LEADCF1" placeholder="LinkedIn URL (optional)" class="form-control form-control-lg">
               </div>
             </div>
             <div class="text-right">
-              <button type="submit" class="btn btn-danger rounded-pill">Submit</button>
+              <button type="submit" id="formsubmit" class="btn btn-danger rounded-pill">Submit</button>
             </div>
+
+
+              <script>
+                var mndFileds=new Array('Last Name','Company');
+                var fldLangVal=new Array('Last Name','Company'); 
+                var name='';
+                var email='';
+
+                function checkMandatory4060852000000260001() {
+                for(i=0;i<mndFileds.length;i++) {
+                  var fieldObj=document.forms['WebToLeads4060852000000260001'][mndFileds[i]];
+                  if(fieldObj) {
+                  if (((fieldObj.value).replace(/^\s+|\s+$/g, '')).length==0) {
+                   if(fieldObj.type =='file')
+                    { 
+                     alert('Please select a file to upload.'); 
+                     fieldObj.focus(); 
+                     return false;
+                    } 
+                  alert(fldLangVal[i] +' cannot be empty.'); 
+                          fieldObj.focus();
+                          return false;
+                  }  else if(fieldObj.nodeName=='SELECT') {
+                         if(fieldObj.options[fieldObj.selectedIndex].value=='-None-') {
+                    alert(fldLangVal[i] +' cannot be none.'); 
+                    fieldObj.focus();
+                    return false;
+                     }
+                  } else if(fieldObj.type =='checkbox'){
+                   if(fieldObj.checked == false){
+                    alert('Please accept  '+fldLangVal[i]);
+                    fieldObj.focus();
+                    return false;
+                     } 
+                   } 
+                   try {
+                       if(fieldObj.name == 'Last Name') {
+                    name = fieldObj.value;
+                      }
+                  } catch (e) {}
+                    }
+                }
+                document.getElementById('formsubmit').disabled=true;
+              }
+            </script>
           </form>
         </div>
       </section>
