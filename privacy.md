@@ -1,8 +1,7 @@
 ---
 seo_title: Privacy Policy
 seo_description: ''
+title: Privacy Policy
 
 ---
-Privacy Policy
-
 Content Coming Soon...
