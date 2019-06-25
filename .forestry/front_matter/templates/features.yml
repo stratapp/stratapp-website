@@ -17,7 +17,7 @@ fields:
     maxSize: 250
   label: Hero Image
 pages:
-- _features/designed-around-what-you-know.md
 - _features/build-kpis.md
+- _features/designed-around-what-you-know.md
 - _features/10-apps-in-1.md
 - _features/build-your-strategy-as-cascading-tree.md
