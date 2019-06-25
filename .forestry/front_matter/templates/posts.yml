@@ -26,6 +26,7 @@ fields:
   hidden: true
   default: post
 pages:
+- _posts/how-to-run-a-company-with-almost-no-rules.md
 - _posts/measure-what-matters.md
 - _posts/many-strategies-fail-because-they-re-not-actually-strategies.md
 - _posts/2017-02-12-modern.md
