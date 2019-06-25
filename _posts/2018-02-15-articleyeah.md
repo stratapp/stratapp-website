@@ -1,5 +1,5 @@
 ---
-title: Another article here
+title: Your strategy should be a hypothesis you constantly adjust
 date: 2018-02-15T09:09:13.000+00:00
 related_posts:
 - _posts/2017-02-12-modern.md
@@ -9,12 +9,14 @@ tags:
 - Demo
 - Forestry
 layout: post
-banner_image: "/uploads/2018/02/17/building2.jpg"
-author: Richard Rumelt
+banner_image: "/uploads/nov17-09-684790642-Jonathan-Knowles-1024x576.jpg"
+author: Amy Edmondson and Paul Verdin
+seo_title: ''
+seo_description: ''
 
 ---
-##### Maecenas faucibus mollis interdum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. 
+This article on evolving strategy as you learn, goes to the heart of #stratapp.  We wholeheartedly agree and go further to say that strategy should be given a heartbeat, freed from static documents that are out of date within weeks and soon forgotten by the next quarter.  Enter #stratapp, where your strategy and execution can be transparently evolved in real time.
 
-Etiam porta sem malesuada magna mollis euismod. Maecenas faucibus mollis interdum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Etiam porta sem malesuada magna mollis euismod. 
+“What is new is the idea that closing the gap between strategy and execution may not be about better execution after all, but rather about better learning — about more dialogue between strategy and operations, a greater flow of information from customers to executives, and more experiments. In today’s fast-paced world, strategy as learning must go hand in hand with execution as learning — bypassing the idea that either a strategy or the execution is flawed — to recognize that both are necessarily flawed and both are valuable sources of learning, improvement, and reinvention.”
 
-Maecenas faucibus mollis interdum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Etiam porta sem malesuada magna mollis euismod.
+Source: https://hbr.org/2017/11/your-strategy-should-be-a-hypothesis-you-constantly-adjust
