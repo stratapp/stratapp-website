@@ -13,4 +13,5 @@ fields:
   template: seo
   label: 'SEO '
 pages:
+- terms.md
 - privacy.md
