@@ -1,7 +1,7 @@
 ---
-title: Grady Nerio
+title: Marten Jagers
 date: 2017-12-14 10:00:44 +0000
-thumbnail: "/uploads/2017/11/14/filipe-almeida-192048 (1).jpg"
+thumbnail: ''
 sub_heading: co-founder
 email: marten@stratapp.ai
 linkedin: https://www.linkedin.com/in/martenjagers/
