@@ -17,6 +17,7 @@ fields:
     maxSize: 250
   label: Hero Image
 pages:
+- _features/create-and-assign-your-kpis-as-a-cascading-tree-both-strategic-and-day-to-day-kpis.md
 - _features/build-kpis.md
 - _features/designed-around-what-you-know.md
 - _features/10-apps-in-1.md
