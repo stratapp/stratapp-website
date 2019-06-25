@@ -5,10 +5,18 @@ layout: default
     A general page layout. Used by default for all content on the site.
 {% endcomment %}
 
-<div class="container pure-g">
-    <div class="pure-u-1">
-        <div class="content content-narrow">
-            {{ content }}
+
+ <section class="l-section bg-primary-grad" >
+        <div class="container">
+          <div class="row align-items-center" data-aos="fade-up" data-aos-delay="100">
+            <div class="col-md-7">
+				
+				<h1>{{ page.title }}</h1>
+
+            	{{ content }}
+
+            </div>
+         
+          </div>
         </div>
-    </div>
-</div>
+ </section>

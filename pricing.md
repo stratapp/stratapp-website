@@ -1,5 +1,5 @@
 ---
-title: Pricing & Strategy
+title: pricing
 layout: pricing
 faqs:
 - question: what payment methods do you accept and how do I access past invoices and
