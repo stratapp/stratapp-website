@@ -5,11 +5,10 @@ fields:
 - type: text
   name: title
   label: title
-- type: datetime
-  name: date
-  label: date
-- type: text
-  name: thumbnail
+- name: thumbnail
+  type: file
+  config:
+    maxSize: 250
   label: thumbnail
 - type: text
   name: sub_heading
@@ -23,3 +22,7 @@ fields:
 - type: text
   name: layout
   label: layout
+  hidden: true
+- type: datetime
+  name: date
+  label: date
