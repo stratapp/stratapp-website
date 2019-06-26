@@ -1,5 +1,5 @@
 ---
-date: 2019-06-25 05:16:06 +0000
+date: 2019-06-21 05:16:06 +0000
 layout: post
 title: Many strategies fail because they’re not actually strategies
 seo_title: ''

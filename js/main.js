@@ -16,3 +16,4 @@
 $(".ani").inViewport(function(px){
     if(px) $(this).addClass("animated") ;
 });
+

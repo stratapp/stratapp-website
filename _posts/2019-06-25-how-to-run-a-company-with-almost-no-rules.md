@@ -1,5 +1,5 @@
 ---
-date: 2019-06-25 05:21:50 +0000
+date: 2019-06-20 05:21:50 +0000
 layout: post
 title: How to run a company with (almost) no rules
 seo_title: ''

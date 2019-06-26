@@ -1,6 +1,6 @@
 ---
 title: CEOs should stop thinking that execution is somebody else’s job; it is theirs
-date: 2017-02-15T09:09:13.000+00:00
+date: 2019-06-25 05:16:06 +0000
 related_posts:
 - ''
 - _posts/2017-02-12-modern.md

@@ -1,6 +1,6 @@
 ---
 title: Is anyone in your company paying attention to strategic alignment?
-date: 2017-08-01T09:09:13.000+00:00
+date: 2019-06-22 05:16:06 +0000
 related_posts: []
 sub_heading: Maecenas faucibus mollis interdum. Vivamus sagittis lacus
 banner_image: "/uploads/Screen Shot 2019-06-25 at 3.15.38 pm.png"

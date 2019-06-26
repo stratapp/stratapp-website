@@ -1,5 +1,5 @@
 ---
-date: 2019-06-25 05:23:45 +0000
+date: 2019-06-19 05:23:45 +0000
 layout: post
 title: "#stratapp is easy to implement, but clients still manage change for the best
   results"

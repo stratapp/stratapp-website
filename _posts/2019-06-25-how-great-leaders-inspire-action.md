@@ -1,5 +1,5 @@
 ---
-date: 2019-06-25 05:27:40 +0000
+date: 2019-06-17 05:27:40 +0000
 layout: post
 title: How great leaders inspire action
 seo_title: ''

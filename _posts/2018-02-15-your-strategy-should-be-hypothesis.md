@@ -1,6 +1,6 @@
 ---
 title: Your strategy should be a hypothesis you constantly adjust
-date: 2018-02-15T09:09:13.000+00:00
+date: 2019-06-24 05:16:06 +0000
 related_posts:
 - _posts/2017-02-12-modern.md
 - _posts/2017-08-01-welcome.md

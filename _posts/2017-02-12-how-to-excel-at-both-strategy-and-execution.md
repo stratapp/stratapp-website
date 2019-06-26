@@ -1,6 +1,6 @@
 ---
 title: How to excel at both strategy and execution
-date: 2017-09-25T09:09:13.000+00:00
+date: 2019-06-23 05:16:06 +0000
 related_posts: []
 sub_heading: Nullam quis risus eget urna mollis ornare vel eu leo.
 tags: []
