@@ -8,4 +8,4 @@ linkedin: https://www.linkedin.com/in/martenjagers/
 layout: person
 
 ---
-20 years B2B SaaS business development experience, including ex-MD APAC for Concur and Coupa. Lateral thinker on product and go-to-market, and well connected internationally for sales, channels and partners.
+20 years B2B SaaS go-to-market experience, including ex-MD APAC for Concur (until the sale to SAP for $8.3bn) and Coupa. Lateral thinker on product and go-to-market.  Well connected internationally for sales, channels, partners and Series A round investors.
