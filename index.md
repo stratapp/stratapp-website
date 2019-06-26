@@ -25,7 +25,7 @@ columns_text_1: |-
 columns_text_2: |-
   Our CxO Events are the best way to learn how to take your organization to the next level - achieving org-wide alignment and collaboration like never before.
 
-  Our Video Calls are for those CxOs who are unable to get to Sydney or Brisbane, or for those of you based in other time zones.  We try to limit the Video Calls to 12 attendees, to allow plenty of opportunity for Q&A and sharing insights between attendees.
+  Our Video Calls are for CxOs unable to get to Sydney or Brisbane, or for those of you based in international time zones.  We try to limit the Video Calls to 12 attendees, to allow plenty of opportunity for Q&A and sharing insights between attendees.
 
   If you attend a CxO Event and then want to share the experience with other senior executives, then the Video Calls are ideal for these.
 features:
