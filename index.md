@@ -20,7 +20,7 @@ intro_text: |-
 columns_text_1: |-
   {:.font-weight-bold}
 
-  ### fortnightly <a href="#">CxO Events</a> in Brisbane and Sydney, or a weekly Video Call most Fridays - see the product, and hear how other CxOs and business owners tackle strategy+execution+collaboration
+  ### fortnightly <a href="#">CxO Events</a> in Brisbane and Sydney, or a weekly Video Call most Fridays - see the product, meeting the co-founders and hear how other CxOs and business owners tackle strategy+execution+collaboration
 columns_text_2: |-
   Our CxO Events are the best way to learn how to take your organization to the next level - achieving org-wide alignment and collaboration like never before.
 
