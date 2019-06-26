@@ -34,7 +34,7 @@ layout: default
             	{% if feature.hero_image and feature.hero_image != "" %}
 						    <img src="{{ feature.hero_image | relative_url }}" alt="{{ feature.title }}">
 				      {% else %}
-						    <img src="https://via.placeholder.com/220?text=example+of+image" alt="{{ project.title }}">
+                <div class="color-block c-feature__img mx-auto mb-4 mb-md-0"></div>
 				      {% endif %}
 
             </div>
