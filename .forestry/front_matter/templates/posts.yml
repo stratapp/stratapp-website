@@ -27,4 +27,3 @@ fields:
   default: post
 pages:
 - _posts/many-strategies-fail-because-they-re-not-actually-strategies.md
-- _posts/2017-08-22-research.md
