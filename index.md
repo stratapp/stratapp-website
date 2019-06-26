@@ -21,7 +21,7 @@ intro_text: |-
 columns_text_1: |-
   {:.font-weight-bold}
 
-  ### fortnightly <a href="#">CxO Events</a> in Brisbane and Sydney, or a weekly Video Call most Fridays - see the product, meet a co-founder and hear from other CxOs and business owners
+  ### fortnightly <a href="https://calendly.com/stratapp" target="_blank">CxO Events</a> in Brisbane and Sydney, or a weekly Video Call most Fridays - see the product, meet a co-founder and hear from other CxOs and business owners
 columns_text_2: |-
   Our CxO Events are the best way to learn how to take your organization to the next level - achieving org-wide alignment and collaboration like never before.
 
