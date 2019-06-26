@@ -15,7 +15,7 @@ intro_text: |-
 
   # book a CxO Event or Video Call
 
-  ## open to CEOs, business owners and C-level executives (limited availability)
+  ## open to CEOs, business owners and C-level executives <span>(limited availability)</span>
 
   <a href="https://calendly.com/stratapp" target="_blank" class="btn btn-danger rounded-pill mt-3">Book a call</a>
 columns_text_1: |-
