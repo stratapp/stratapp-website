@@ -19,8 +19,8 @@ section_text: |-
 
   \#stratapp introduces a new way of working. A way forward for leaders who are serious. Serious about what they are trying to achieve and genuinely seeking to tap into the full potential of their current and next-generation workforce.
 section_image: "/uploads/strategic-illustration.svg"
-seo_title: Test title Here for SEO
-seo_description: test descrition here for SEO
+seo_title: ''
+seo_description: ''
 menu:
   navigation:
     identifier: _about
