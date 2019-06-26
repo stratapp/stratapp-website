@@ -11,21 +11,22 @@ hero_intro: |-
 hero_image: "/uploads/hero-flag-man.svg"
 intro_text: |-
   {:.font-weight-bold}
-  # one-on-one first call
 
-  ## book your call with one of our founders (limited availability)
+  # book a CxO Event or Video Call
+
+  ## open to CEOs, business owners and C-level executives (limited availability)
 
   <a href="#" class="btn btn-danger rounded-pill mt-3">Book a call</a>
 columns_text_1: |-
   {:.font-weight-bold}
-  ### everything about <a href="#">#stratapp</a> is unique, including our approach to first contact, knowledge sharing, onboarding, coaching, support and referrals'
-columns_text_2: |2-
 
-  We are experienced SaaS founders with a compelling vision. Backed by industry leaders who are serious about achieving and utilising the full potential of their current and future workforce.
+  ### fortnightly <a href="#">CxO Events</a> in Brisbane and Sydney, or a weekly Video Call most Fridays - not only see the product, hear how other CxOs and business owners tackle strategy+execution+collaboration
+columns_text_2: |-
+  Our CxO Events are the best way to learn how to take your organization to the next level - achieving org-wide alignment and collaboration like never before.
 
-  Leadership is essential when achieving a 10x impact client side. With that in mind, we’d like to personally invite you to a first call with one of our founders.
+  Our Video Calls are for those CxOs who are unable to get to Sydney or Brisbane, or for those of you based in other time zones.  We try to limit the Video Calls to 12 attendees, to allow plenty of opportunity for Q&A and sharing insights between attendees.
 
-  As #stratapp scales, our commitment to that initial dialogue will remain at our core - We will continue to make direct CEO/CXO to founder communication a priority by joining the back end of first calls and follow up sessions for leadership teams.
+  If you attend a CxO Event and then want to share the experience with other senior executives from your organization, then the Video Calls are ideal for these.
 features:
 - icon: "/uploads/ico-articulate.svg"
   title: articulate
