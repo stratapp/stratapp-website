@@ -3,11 +3,12 @@ title: home
 layout: homepage
 hero_intro: |-
   {:.font-weight-bold}
+
   # seamlessly execute strategy and day to day work in one place
 
   ##### a collaborative experience that aligns and engages your whole organisation
 
-  <a href="#" class="btn btn-danger rounded-pill">Book a call</a>
+  <a href="https://calendly.com/stratapp" target="_blank" class="btn btn-danger rounded-pill">Book a call</a>
 hero_image: "/uploads/hero-flag-man.svg"
 intro_text: |-
   {:.font-weight-bold}
@@ -16,7 +17,7 @@ intro_text: |-
 
   ## open to CEOs, business owners and C-level executives (limited availability)
 
-  <a href="#" class="btn btn-danger rounded-pill mt-3">Book a call</a>
+  <a href="https://calendly.com/stratapp" target="_blank" class="btn btn-danger rounded-pill mt-3">Book a call</a>
 columns_text_1: |-
   {:.font-weight-bold}
 
