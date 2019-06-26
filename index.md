@@ -27,7 +27,7 @@ columns_text_2: |-
 
   Our Video Calls are for CxOs unable to get to Sydney or Brisbane, or for those of you based in international time zones.  We try to limit the Video Calls to 12 attendees, to allow plenty of opportunity for Q&A and sharing insights between attendees.
 
-  If you attend a CxO Event and then want to share the experience with other senior executives, then the Video Calls are ideal for these.
+  Also, if you attend a CxO Event and then want to share the #stratapp experience with other senior executives, these weekly Video Calls make that easy.
 features:
 - icon: "/uploads/ico-articulate.svg"
   title: articulate
