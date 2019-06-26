@@ -111,7 +111,7 @@ layout: default
             {% for faq in page.faqs %}
 
             <div class="card c-faq bg-light mb-4" data-aos="fade-up" data-aos-delay="100">
-              <h2 id="heading{{ forloop.index }}" data-toggle="collapse" data-target="#collapse{{ forloop.index }}" aria-expanded="true" aria-controls="collapseOne" class="h5 card-header">{{ faq.question }}</h2>
+              <h2 id="heading{{ forloop.index }}" data-toggle="collapse" data-target="#collapse{{ forloop.index }}" aria-expanded="false" aria-controls="collapseOne" class="h5 card-header">{{ faq.question }}</h2>
               <div id="collapse{{ forloop.index }}" aria-labelledby="heading{{ forloop.index }}" data-parent="#accordionFaq" class="collapse {% if forloop.index ==1 %}show{% endif %}">
                 <div class="card-body">
                   <div class="h6 my-0">{{ faq.answer }}</div>
