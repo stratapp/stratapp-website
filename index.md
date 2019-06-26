@@ -26,7 +26,7 @@ columns_text_2: |-
 
   Our Video Calls are for those CxOs who are unable to get to Sydney or Brisbane, or for those of you based in other time zones.  We try to limit the Video Calls to 12 attendees, to allow plenty of opportunity for Q&A and sharing insights between attendees.
 
-  If you attend a CxO Event and then want to share the experience with other senior executives from your organization, then the Video Calls are ideal for these.
+  If you attend a CxO Event and then want to share the experience with other senior executives, then the Video Calls are ideal for these.
 features:
 - icon: "/uploads/ico-articulate.svg"
   title: articulate
