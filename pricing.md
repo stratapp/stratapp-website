@@ -2,6 +2,11 @@
 title: pricing
 layout: pricing
 faqs:
+- question: Do you offer implementation support?
+  answer: |-
+    Yes, we have partnered with [Coherent Strategy](http://coherentstrat.com/ "Coherent Strategy") to coach and support our clients on implementation.
+
+    As far as we know, we are the world's first B2B SaaS company to develop the implementation methodology AND to set recommended budgets for implementation by phase - making the implementation experience transparent, fair and easy for every client.
 - question: Do you offer a free trial?
   answer: 'We offer a free 15-day trial. Plenty of time to get started and begin using
     #stratapp. There are no set-up fees, integrations or hardware costs. The user
