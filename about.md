@@ -1,14 +1,14 @@
 ---
 title: about
 layout: about-us
-intro_text: |-
-  {:.text-danger}
-  {:.font-weight-bold}
-  ### we are experienced SaaS founders, with a compelling vision, backed by investors who are market leaders across several industries
-
-  In our experiences, we’ve consistently seen businesses struggle to cohesively deliver and contribute to meaningful strategy outcomes throughout their organisations. As ‘busyness’ encroaches, strategy is often abandoned. Resulting in misaligned, inefficient and ‘noisy’ workplaces.
-
-  There are plenty of tools to help teams ‘execute’ but counter to their proposition, these tools and apps often serve as a distraction bogging down employees - preventing meaningful tasks to be completed.
+intro_text: "{:.text-danger}\n{:.font-weight-bold}\n\n### we are experienced SaaS
+  founders, with a compelling vision, backed by investors who are market leaders across
+  several industries\n\nFor 30 years, the process of strategy formation, documentation,
+  communication and execution has been fundamentally flawed. The old paradigms of
+  static documents and top down control are holding us all back.\n\nThere is a better
+  way, that is obvious in hindsight.\n\nWe've taken the most progressive thinking
+  and practices in work and social collaboration of the last 10 years, and put these
+  together in one app in a simple way that achieves 3 things:\n\n1. "
 intro_image: "/uploads/image-about-1.png"
 section_text: |-
   {:.font-weight-bold}
