@@ -50,6 +50,6 @@ menu:
 ---
 {:.font-weight-bold}
 
-### affordable to achieve org-wide collaboration
+### achieve org-wide collaboration
 
-##### a simple pricing model, with full features available to every employee
+##### affordable pricing model, full features available to every employee
