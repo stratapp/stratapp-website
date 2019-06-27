@@ -7,7 +7,7 @@ hero_intro: |-
   # seamlessly execute strategy and day to day work in one place
 
   ##### a collaborative experience that aligns and engages your whole organisation
-  
+
   {:.text-center}
   <a href="https://calendly.com/stratapp" target="_blank" class="btn btn-danger rounded-pill">Book an event</a>
 hero_image: "/uploads/hero-flag-man.svg"
@@ -51,8 +51,8 @@ features:
   title: thrive
   text: develop a prosperous and connected organisation that achieves, every day,
     every quarter, every year, year on year
-seo_title: ''
-seo_description: ''
+seo_title: "#stratapp - strategy + execution + collaboration"
+seo_description: seamlessly execute strategy and day to day work in one place
 menu:
   navigation:
     identifier: _index
