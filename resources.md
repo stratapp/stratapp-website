@@ -9,7 +9,7 @@ menu:
 ---
 {:.font-weight-bold}
 
-### thought leaders in strategy, execution, team SaaS and user experience
+### thought leaders in strategy, scalable execution and B2B SaaS
 
 ##### “Those who know WHAT they do tend to work harder. Those who know WHY tend to work smarter.”
 
