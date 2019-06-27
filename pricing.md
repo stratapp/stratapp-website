@@ -24,11 +24,13 @@ faqs:
   answer: You can choose from monthly or annual billing. There is no contract term
     beyond the billing cycle. Annual billing is discounted 22-29% and billed yearly
     in advance.
-- question: is my data safe?
+- question: Is my data safe?
   answer: |-
-    yes, we use the latest in data encryption and authentication technology.
+    Yes, we use the latest in data encryption and authentication technology.
 
-    \#stratapp is built on the secure and scalable Microsoft Azure Service Fabric of microservices.
+    \#stratapp supports SAML.
+
+    \#stratapp is built on Microservices on top of Microsoft Service Fabric, hosted on Micrsoft Azure.
 - question: 'what happens when I stop using #stratapp?'
   answer: No problem, there are no termination fees. In future releases, we will be
     adding APIs for you to link your data to BI tools.
