@@ -41,7 +41,7 @@ features:
   text: align all levels, functions, verticals, horizontals and geographies
 - icon: "/uploads/ico-engage.svg"
   title: engage
-  text: achieve org-wide engagement like never before
+  text: achieve org-wide engagement at all levels and all geographies like never before
 - icon: "/uploads/ico-see.svg"
   title: see
   text: line-of-sight real time transparency on strategy, KPIs, people and work
