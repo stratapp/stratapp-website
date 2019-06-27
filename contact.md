@@ -9,4 +9,4 @@ layout: contact-us
 
 ##### We run fortnightly CxO Events in Brisbane and Sydney, and weekly Video Calls most Fridays for international time zones.
 
-##### We look forward to sharing the #stratapp journey with you, the world's first B2B SaaS to bring together strategy, execution and collaboration in one app.
+##### #stratapp is the world's first B2B SaaS product to bring together strategy, execution and collaboration in one app. We look forward to sharing our journey with you and collaborating on our strategic roadmap.
