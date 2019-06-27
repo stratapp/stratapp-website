@@ -1,9 +1,9 @@
 ---
-title: Enjoy a mobile version that adds real value, keeping you effective on the go
+title: enjoy a mobile version that adds real value, keeping you effective on the go
 seo_title: ''
 seo_description: ''
 hero_image: ''
-date: 2019-06-11 08:00:00 +0000
+date: 2019-06-11T08:00:00.000+00:00
 
 ---
 \#stratapp puts “your company in your pocket!”
