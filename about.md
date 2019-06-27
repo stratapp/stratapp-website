@@ -23,7 +23,7 @@ section_text: |-
 
   We are rewriting the SaaS playbook. We have carefully designed the methodology for our partners, and we have laid out the reasonable costs for each and every step.
 
-  Why? We genuinely care about our clients' success, and have decided that should include removing the stress, hassle and unforseen costs of implementation.
+  Why? We genuinely care about our clients' success. We have decided that should include removing the stress, hassle and unforseen costs of implementation.
 section_image: "/uploads/strategic-illustration.svg"
 seo_title: ''
 seo_description: ''
