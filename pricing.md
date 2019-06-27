@@ -10,7 +10,9 @@ faqs:
   answer: |-
     Yes, we have partnered with [Coherent Strategy](http://coherentstrat.com/ "Coherent Strategy") to coach and support our clients on implementation.
 
-    As far as we know, we are the world's first B2B SaaS company to develop the implementation methodology AND to set recommended budgets for implementation by phase - making the implementation experience transparent, fair and easy for every client.
+    As far as we know, we are the world's first B2B SaaS company to design the implementation methodology for our partners AND we have prescribed reasonable cost budgets for each and every step.
+
+    Why? We genuinely care about our clients’ success, and that includes removing the stress, hassle and unforseen costs of implementation.
 - question: What payment methods do you accept?
   answer: |-
     We accept all major credit and debit cards, including American Express, Visa, Mastercard and Diners Club.
