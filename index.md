@@ -46,7 +46,7 @@ features:
   text: line-of-sight real time transparency on strategy, KPIs, people and work
 - icon: "/uploads/ico-thrive.svg"
   title: thrive
-  text: elevate organization performance to global progressive practice
+  text: elevate local organization performance to global best practices
 seo_title: "#stratapp - strategy + execution + collaboration"
 seo_description: seamlessly execute strategy and day to day work in one place
 menu:
