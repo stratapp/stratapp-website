@@ -2,10 +2,6 @@
 title: pricing
 layout: pricing
 faqs:
-- question: How do we access billing and past invoices?
-  answer: Our billing engine runs on the secure Chargebee platform, which provides
-    you with a client portal to access your subscription status, payment methods,
-    billing information, payment history and invoices.
 - question: Do you offer a free trial?
   answer: 'We offer a free 15-day trial. Plenty of time to get started and begin using
     #stratapp. There are no set-up fees, integrations or hardware costs. The user
@@ -20,7 +16,11 @@ faqs:
     We accept all major credit and debit cards, including American Express, Visa, Mastercard and Diners Club.
 
     Payments are processed through Stripe.
-- question: how does the annual billing work and what is the contract term?
+- question: How do we access billing and past invoices?
+  answer: Our billing engine runs on the secure Chargebee platform, which provides
+    you with a client portal to access your subscription status, payment methods,
+    billing information, payment history and invoices.
+- question: How does annual billing work and what is the contract term?
   answer: You can choose from monthly or annual billing. There is no contract term
     beyond the billing cycle. Annual billing is discounted 22-29% and billed yearly
     in advance.
