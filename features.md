@@ -15,4 +15,4 @@ menu:
 
 ### org-wide alignment and engagement like never before
 
-##### no need to send employees to 10 different apps, this is 10-apps-in-1
+##### no need to send employees to 10 different apps, #stratapp is 10-apps-in-1
