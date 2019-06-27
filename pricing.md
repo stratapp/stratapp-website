@@ -38,6 +38,10 @@ faqs:
     In future releases we will be adding APIs for you to link your data to BI tools.
 seo_title: ''
 seo_description: ''
+quote: |-
+  ### "Our industry is going through massive change. #stratapp is at the core of our response, connecting 250 staff across 5 countries, aligning all of us in real time."
+
+  ##### - Renato Domini, CEO Panorama Destinations
 menu:
   navigation:
     identifier: _pricing
