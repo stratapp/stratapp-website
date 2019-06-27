@@ -16,10 +16,12 @@ layout: default
             	{{ content }}
               <ul>
                 {% for page in site.pages %}
-                {% if page.title %} 
+                {% if page.title %}
+                {% unless page.exclude %}
                 <li>
                   <a class="post-link" href="{{ page.url | absolute_url }}">{{ page.title }}<a>
                 </li>
+                {% endunless %}
                 {% endif %}
 
                 {% endfor %}

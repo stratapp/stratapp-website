@@ -1,14 +1,8 @@
 ---
 title: Good Strategy | Bad Strategy
 date: 2019-06-25T05:20:06.000+00:00
-related_posts: []
-sub-title: An introduction to Forestry
-thumbnail: "/uploads/2018/02/17/building3.jpg"
 banner_image: "/uploads/good strategy bad strategy.jpg"
-tags: []
 layout: post
-sub-heading: asdf
-sub_heading: Integer posuere urna mollis ornare vel eu leo.
 author: Richard Rumelt
 seo_title: ''
 seo_description: ''

@@ -1,9 +1,6 @@
 ---
 title: How to excel at both strategy and execution
 date: 2019-06-23 05:16:06 +0000
-related_posts: []
-sub_heading: Nullam quis risus eget urna mollis ornare vel eu leo.
-tags: []
 banner_image: "/uploads/nov17-17-481661418-Adam-Pretty-1024x576.jpg"
 layout: post
 author: Paul Leinwand and Joachim Rotering

@@ -1,13 +1,6 @@
 ---
 title: Your strategy should be a hypothesis you constantly adjust
 date: 2019-06-24 05:16:06 +0000
-related_posts:
-- _posts/2017-02-12-modern.md
-- _posts/2017-08-01-welcome.md
-sub_heading: An introduction to Forestry
-tags:
-- Demo
-- Forestry
 layout: post
 banner_image: "/uploads/nov17-09-684790642-Jonathan-Knowles-1024x576.jpg"
 author: Amy Edmondson and Paul Verdin

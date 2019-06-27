@@ -1,14 +1,6 @@
 ---
 title: CEOs should stop thinking that execution is somebody else’s job; it is theirs
 date: 2019-06-25 05:16:06 +0000
-related_posts:
-- ''
-- _posts/2017-02-12-modern.md
-- _posts/2017-08-01-welcome.md
-sub_heading: An introduction to Forestry
-tags:
-- Demo
-- Forestry
 layout: post
 banner_image: "/uploads/rogermartin.jpg"
 author: Roger Martin
