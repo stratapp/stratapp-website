@@ -34,8 +34,7 @@ features:
   text: bring everyone along the same journey
 - icon: "/uploads/ico-collaborate.svg"
   title: collaborate
-  text: a platform that connects teams to contribute to real and resource worthy outcomes
-    - without distraction
+  text: collaborate in real time on strategy, KPIs, projects and day-to-day work
 - icon: "/uploads/ico-align.svg"
   title: align
   text: align day-to-day efforts with organisational objectives to create meaningful
