@@ -18,7 +18,7 @@ intro_image: "/uploads/image-about-1.png"
 section_text: |-
   {:.font-weight-bold}
 
-  ### we are rethinking the B2B SaaS playbook, breaking from tradition on implementation
+  ### we are rethinking the B2B SaaS playbook on implementations
 
   B2B SaaS companies typically lock their clients into a prepaid contract, then leave the client to figure out the implementation by themselves; putting forward a list of 'preferred partners' offering different advice, methodologies, resources and pricing.
 
