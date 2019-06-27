@@ -24,7 +24,7 @@ faqs:
   answer: You can choose from monthly or annual billing. There is no contract term
     beyond the billing cycle. Annual billing is discounted 22-29% and billed yearly
     in advance.
-- question: Is my data safe?
+- question: Is our data safe?
   answer: |-
     Yes, we use the latest in data encryption and authentication technology.
 
