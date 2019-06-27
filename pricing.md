@@ -31,9 +31,11 @@ faqs:
     \#stratapp supports SAML.
 
     \#stratapp is built on Microservices on top of Microsoft Service Fabric, hosted on Micrsoft Azure.
-- question: 'what happens when I stop using #stratapp?'
-  answer: No problem, there are no termination fees. In future releases, we will be
-    adding APIs for you to link your data to BI tools.
+- question: 'What happens when I stop using #stratapp?'
+  answer: |-
+    No problem, there are no termination fees.
+
+    In future releases we will be adding APIs for you to link your data to BI tools.
 seo_title: ''
 seo_description: ''
 menu:
