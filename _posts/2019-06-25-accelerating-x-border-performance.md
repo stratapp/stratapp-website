@@ -8,7 +8,7 @@ author: Ash Richardson
 banner_image: "/uploads/thirdwave-book.jpg"
 
 ---
-With so much hype on technology innovation - e.g. robotics and artificial intelligence - it is easy to overlook the massive ground shift taking place on org design. Teams are fast becoming a mix of onshore and offshore resources, that work together as if they were sitting under the same roof.
+With so much hype on technology innovation, such as robotics and artificial intelligence, it is easy to overlook the massive ground shift taking place on org design and employment. Teams are fast becoming a mix of onshore and offshore resources, that work together as if they were sitting under the same roof.
 
 Historically offshoring was only accessible to large corporates, undertaken predominantly as outsourcing discrete functions and processes. Hence the rise of call centers and large IT support teams in India since the 1980s, with somewhat variable outcomes for end customers.
 
