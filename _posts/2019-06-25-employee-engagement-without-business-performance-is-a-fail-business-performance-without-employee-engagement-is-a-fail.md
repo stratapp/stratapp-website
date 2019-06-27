@@ -29,4 +29,4 @@ Do you know what is expected of you at work?
 10. In the last six months, has someone at work talked to you about your progress?
 11. In the last year, have you had opportunities to learn and grow?
 
-Source: <a href="https://q12.gallup.com/public/en-us/Features" target=_blank">https://q12.gallup.com/public/en-us/Features</a>
+Source: [https://q12.gallup.com/public/en-us/Features](https://q12.gallup.com/public/en-us/Features){:target="_blank"}
