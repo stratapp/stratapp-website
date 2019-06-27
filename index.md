@@ -8,7 +8,7 @@ hero_intro: |-
 
   ##### a collaborative experience that aligns and engages your whole organisation
 
-  <a href="https://calendly.com/stratapp" target="_blank" class="btn btn-danger rounded-pill">Book a call</a>
+  <a href="https://calendly.com/stratapp" target="_blank" class="btn btn-danger rounded-pill">Book an event</a>
 hero_image: "/uploads/hero-flag-man.svg"
 intro_text: |-
   {:.font-weight-bold}
@@ -17,7 +17,7 @@ intro_text: |-
 
   ## open to CEOs, business owners and C-level executives <span>(limited availability)</span>
 
-  <a href="https://calendly.com/stratapp" target="_blank" class="btn btn-danger rounded-pill mt-3">Book a call</a>
+  <a href="https://calendly.com/stratapp" target="_blank" class="btn btn-danger rounded-pill mt-3">Book an event</a>
 columns_text_1: |-
   {:.font-weight-bold}
 
