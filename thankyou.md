@@ -4,4 +4,4 @@ seo_title: ''
 seo_description: ''
 
 ---
-Thanks for your enquiry.
+Thank you for your enquiry, we will respond as soon as we can.
