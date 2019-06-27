@@ -3,6 +3,7 @@ title: Designed around what you already know
 hero_image: "/uploads/nik-macmillan-280300-unsplash-1.jpg"
 seo_title: Designed around what you already know
 seo_description: ''
+date: 2019-06-26 14:00:00 +0000
 
 ---
 With #stratapp, you don’t need to learn new management practices, methodologies or terms.
