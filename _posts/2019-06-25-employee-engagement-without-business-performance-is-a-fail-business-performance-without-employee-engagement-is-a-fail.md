@@ -6,7 +6,7 @@ title: Employee engagement without business performance is a fail.  Business per
 seo_title: ''
 seo_description: ''
 author: Anthony Moorhouse
-banner_image: "/uploads/cfhbsyohnead6_mtvbanrw.jpg"
+banner_image: "/uploads/Catalan human tower.jpg"
 
 ---
 Anthony Moorhouse is the founder of [Coherent Strategy](http://coherentstrat.com/ "Coherent Strategy"){:target="_blank"}, the first boutique advisory firm established to coach and support #stratapp clients on implementation.
