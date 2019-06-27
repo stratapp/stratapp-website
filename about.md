@@ -18,13 +18,13 @@ intro_image: "/uploads/image-about-1.png"
 section_text: |-
   {:.font-weight-bold}
 
-  ### we are rethinking the B2B SaaS playbook on implementations
+  ### we are rethinking the B2B SaaS playbook on the client's time-to-value
 
   B2B SaaS companies typically lock their clients into a prepaid contract, then leave the client to figure out the implementation by themselves; putting forward a list of 'preferred partners' offering different advice, methodologies, resources and pricing.
 
-  We are rethinking the SaaS playbook. We have designed the methodology for our partners AND we have laid out the reasonable costs for each and every step.
+  We are rethinking the SaaS playbook. We have designed the methodology for our partners AND we have laid out reasonable cost budget for each and every step.
 
-  Why? We genuinely care about our clients' success. We decided that should include removing the stress, hassle and unforseen costs of implementation.
+  Why? We genuinely care about our clients' success, and that includes removing the stress, hassle and unforseen costs of implementation.
 section_image: "/uploads/strategic-illustration.svg"
 seo_title: ''
 seo_description: ''
