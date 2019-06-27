@@ -1,5 +1,5 @@
 ---
-date: 2019-06-15 05:30:25 +0000
+date: 2019-06-15T05:30:25.000+00:00
 layout: post
 title: Accelerating x-Border Performance
 seo_title: ''
@@ -32,4 +32,4 @@ At #stratapp, we’re walking the same talk. #stratapp is designed, built, suppo
 
 Australians love to innovate and solve problems, rather than get bogged down in repetitive tasks or process detail, so at #stratapp we make these attributes the focus of our onshore resources.
 
-Source: [https://www.amazon.com/The-Third-Wave-Micro-globalism-employment/dp/1482088231](https://www.amazon.com/The-Third-Wave-Micro-globalism-employment/dp/1482088231 "https://www.amazon.com/The-Third-Wave-Micro-globalism-employment/dp/1482088231")
+Source: [https://www.amazon.com/The-Third-Wave-Micro-globalism-employment/dp/1482088231](https://www.amazon.com/The-Third-Wave-Micro-globalism-employment/dp/1482088231 "https://www.amazon.com/The-Third-Wave-Micro-globalism-employment/dp/1482088231"){:target="_blank"}
