@@ -1,8 +1,9 @@
 ---
 title: Engage talent org-wide to collaborate on strategy and execution, in real time
-hero_image: "/uploads/helloquence-61189-unsplash.jpg"
+hero_image: ''
 seo_title: ''
 seo_description: ''
+date: 
 
 ---
 Gallup & Deloitte concluded from a recent 5 year study that no factor has more impact on employee engagement than “_clearly defined goals that are written down and shared freely._”
