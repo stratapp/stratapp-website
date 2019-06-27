@@ -2,11 +2,10 @@
 title: pricing
 layout: pricing
 faqs:
-- question: do you offer a free trial?
-  answer: 'We do offer a free 15-day trial. Plenty of time to get started and begin
-    using #stratapp. There are no set-up fees. No consultants, integrations or hardware
-    costs. No end user training costs. The user experience is immediately intuitive,
-    allowing you to move quickly.'
+- question: Do you offer a free trial?
+  answer: 'We offer a free 15-day trial. Plenty of time to get started and begin using
+    #stratapp. There are no set-up fees, integrations or hardware costs. The user
+    experience is immediately intuitive, allowing you to move quickly.'
 - question: what payment methods do you accept and how do I access past invoices and
     billing history?
   answer: |-
