@@ -1,5 +1,5 @@
 ---
-date: 2019-06-18 05:25:12 +0000
+date: 2019-06-18T05:25:12.000+00:00
 layout: post
 title: Employee engagement without business performance is a fail.  Business performance
   without employee engagement is a fail.
@@ -9,7 +9,7 @@ author: Anthony Moorhouse
 banner_image: "/uploads/cfhbsyohnead6_mtvbanrw.jpg"
 
 ---
-Anthony Moorhouse is the founder of [Coherent Strategy](http://coherentstrat.com/), the first boutique advisory firm established to coach and support #stratapp clients on implementation.
+Anthony Moorhouse is the founder of <a href="http://coherentstrat.com/" target=_blank">Coherent Strategy</a>, the first boutique advisory firm established to coach and support #stratapp clients on implementation.
 
 Coherent Strategy apply the Gallup Q12 Index to measure employee engagement over time.
 
@@ -29,4 +29,4 @@ Do you know what is expected of you at work?
 10. In the last six months, has someone at work talked to you about your progress?
 11. In the last year, have you had opportunities to learn and grow?
 
-Source: [https://q12.gallup.com/public/en-us/Features](https://q12.gallup.com/public/en-us/Features "https://q12.gallup.com/public/en-us/Features")
+Source: <a href="https://q12.gallup.com/public/en-us/Features" target=_blank">https://q12.gallup.com/public/en-us/Features</a>
