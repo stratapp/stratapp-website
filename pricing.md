@@ -39,7 +39,7 @@ faqs:
 seo_title: ''
 seo_description: ''
 quote: |-
-  #### "Our industry is going through massive change. #stratapp is at the core of our response, connecting our talent across 4 countries, aligning all of us in real time."
+  #### "Our industry is going through massive change. #stratapp is at the core of our response, connecting our talent across four countries, aligning all of us in real time."
 
   ##### - Renato Domini, CEO Panorama Destination
 menu:
