@@ -46,6 +46,6 @@ menu:
 ---
 {:.font-weight-bold}
 
-### affordable so you can achieve genuine org-wide collaboration
+### affordable, so you can achieve org-wide collaboration
 
 ##### simple, value-for-money pricing, with full features available to every employee
