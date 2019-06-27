@@ -2,6 +2,10 @@
 title: pricing
 layout: pricing
 faqs:
+- question: How do we access billing and past invoices?
+  answer: Our billing engine runs on the secure Chargebee platform, which provides
+    you with a client portal to access your subscription status, payment methods,
+    billing information, payment history and invoices.
 - question: Do you offer a free trial?
   answer: 'We offer a free 15-day trial. Plenty of time to get started and begin using
     #stratapp. There are no set-up fees, integrations or hardware costs. The user
