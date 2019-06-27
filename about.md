@@ -1,18 +1,19 @@
 ---
 title: about
 layout: about-us
-intro_text: "{:.text-danger}\n{:.font-weight-bold}\n\n### we are experienced SaaS
-  founders, with a compelling vision, backed by investors who are market leaders across
-  several industries\n\nFor 30 years the process of strategy formation, documentation,
-  communication and execution has been fundamentally flawed. The age old paradigms
-  of static documents and top down control have been holding all of us all back.  It
-  is a global problem, affecting most organizations regardless of size, sector or
-  geography.\n\nIt is time to fix this. We've embraced the most progressive thinking
-  in work and social collaboration of the last 10 years, and applied those to create
-  a seamless org-wide experience for executing both strategy and day-to-day work.\n\nWe've
-  done this without inventing new management terms or methods. #stratapp is designed
-  around what executives, managers and team leaders already know. \n\nTherefore, we
-  make your time to value days, not months or years."
+intro_text: |-
+  {:.text-danger}
+  {:.font-weight-bold}
+
+  ### we are experienced SaaS founders, with a compelling vision, backed by investors who are market leaders
+
+  For 30 years the process of strategy formation, documentation, communication and execution has been fundamentally flawed. The age old paradigms of static documents and top down control have been holding all of us all back.  It is a global problem, affecting most organizations regardless of size, sector or geography.
+
+  It is time to fix this. We've embraced the most progressive thinking in work and social collaboration of the last 10 years, and applied those to create a seamless org-wide experience for executing both strategy and day-to-day work.
+
+  We've done this without inventing new management terms or methods. #stratapp is designed around what executives, managers and team leaders already know.
+
+  Therefore, we make your time to value days, not months or years.
 intro_image: "/uploads/image-about-1.png"
 section_text: |-
   {:.font-weight-bold}
