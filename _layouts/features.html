@@ -13,9 +13,10 @@ layout: default
 
         </div>
       </section>
-      
-      {% for feature in site.features | reversed %}
-		
+
+      {% assign feature_items = site.features | sort: 'date' | reverse %}
+      {% for feature in feature_items %}
+
       {% case forloop.index %}
       {% when 1 or 5 or 9 or 13 %}
       	<section class="c-feature bg-white">
