@@ -2,21 +2,20 @@
 title: pricing
 layout: pricing
 faqs:
+- question: Do you offer a free trial?
+  answer: 'We offer a free 15-day trial. Plenty of time to get started and begin using
+    #stratapp. There are no set-up fees, integrations or hardware costs. The user
+    experience is immediately intuitive, allowing you to move quickly.'
 - question: Do you offer implementation support?
   answer: |-
     Yes, we have partnered with [Coherent Strategy](http://coherentstrat.com/ "Coherent Strategy") to coach and support our clients on implementation.
 
     As far as we know, we are the world's first B2B SaaS company to develop the implementation methodology AND to set recommended budgets for implementation by phase - making the implementation experience transparent, fair and easy for every client.
-- question: Do you offer a free trial?
-  answer: 'We offer a free 15-day trial. Plenty of time to get started and begin using
-    #stratapp. There are no set-up fees, integrations or hardware costs. The user
-    experience is immediately intuitive, allowing you to move quickly.'
-- question: what payment methods do you accept and how do I access past invoices and
-    billing history?
+- question: What payment methods do you accept?
   answer: |-
     We accept all major credit and debit cards, including American Express, Visa, Mastercard and Diners Club.
 
-    Our billing engine runs on the secure Chargebee platform, which provides you with a client portal to access your subscription status, payment methods, billing information, payment history and invoices.
+    Payments are processed through Stripe.
 - question: how does the annual billing work and what is the contract term?
   answer: You can choose from monthly or annual billing. There is no contract term
     beyond the billing cycle. Annual billing is discounted 22-29% and billed yearly
