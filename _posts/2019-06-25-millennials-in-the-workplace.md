@@ -1,5 +1,5 @@
 ---
-date: 2019-06-16 05:28:22 +0000
+date: 2019-06-16T05:28:22.000+00:00
 layout: post
 title: Millennials in the Workplace
 seo_title: ''
@@ -20,7 +20,7 @@ How many executives and senior managers do you hear say they were up at 5am this
 
 For y-generation: email = reset password,
 
-… so you can get back into the application you want to use
+… so you can get back into the application you want to use!
 
 \#stratapp kills internal email. #stratapp helps switch the whole organization to social collaboration, however #stratapp is the first application to do this with both context and structure. That is, the social conversations in #stratapp take place within the relevant context of strategy and day to day work. Not only that, the social posts have structure, making it easy for anyone at any level to quickly filter conversations by attributes such as decisions, questions, approvals, ideas and risks.
 
