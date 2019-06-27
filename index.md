@@ -38,7 +38,7 @@ features:
   text: collaborate in real time on strategy, KPIs, projects and day-to-day work
 - icon: "/uploads/ico-align.svg"
   title: align
-  text: align all levels, functions, verticals, horizontals and geographies
+  text: effortlessly align all levels, functions, verticals, horizontals and geographies
 - icon: "/uploads/ico-engage.svg"
   title: engage
   text: achieve org-wide engagement at all levels and all geographies like never before
