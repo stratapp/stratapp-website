@@ -5,7 +5,7 @@ intro_text: |-
   {:.text-danger}
   {:.font-weight-bold}
 
-  ### we are experienced SaaS founders, with a compelling vision, backed by investors who are market leaders
+  ### we are experienced SaaS founders, with a compelling vision backed by investors who are market leaders
 
   For 30 years the process of strategy formation, documentation, communication and execution has been fundamentally flawed. The age old paradigms of static documents and top down control have been holding all of us all back.  It is a global problem, affecting most organizations regardless of size, sector or geography.
 
