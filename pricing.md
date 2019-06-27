@@ -34,6 +34,7 @@ menu:
 
 ---
 {:.font-weight-bold}
-### affordable org-wide strategy software that intuitively brings whole teams on the same journey
 
-##### minimise learning time and achieve org-wide adoption at a price that enables genuine whole-team collaboration
+### affordable so you can achieve genuine org-wide collaboration on both strategy and day to day work
+
+##### simple value-for-money pricing, with full features available to every employee
