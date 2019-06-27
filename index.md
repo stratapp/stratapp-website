@@ -31,8 +31,7 @@ columns_text_2: |-
 features:
 - icon: "/uploads/ico-articulate.svg"
   title: articulate
-  text: achieve undelineated clarity and understanding throughout every tier of your
-    organisation
+  text: bring everyone along the same journey
 - icon: "/uploads/ico-collaborate.svg"
   title: collaborate
   text: a platform that connects teams to contribute to real and resource worthy outcomes
