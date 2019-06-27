@@ -27,7 +27,6 @@ seo_title: ''
 seo_description: ''
 footer_cta: |-
   {:.text-danger} {:.font-weight-bold}
-
   ### one-on-one first call, your CXO to our founder
 
   <a href="https://calendly.com/stratapp" target="_blank" class="btn btn-danger rounded-pill">book an event</a>
