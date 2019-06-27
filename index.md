@@ -44,7 +44,8 @@ features:
   text: achieve org-wide engagement at all levels and all geographies like never before
 - icon: "/uploads/ico-see.svg"
   title: see
-  text: line-of-sight real time transparency on strategy, KPIs, people and work
+  text: see line-of-sight transparency in real time on strategy, KPIs, people and
+    work
 - icon: "/uploads/ico-thrive.svg"
   title: thrive
   text: elevate local organization performance to global best practices
