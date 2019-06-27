@@ -37,8 +37,7 @@ features:
   text: collaborate in real time on strategy, KPIs, projects and day-to-day work
 - icon: "/uploads/ico-align.svg"
   title: align
-  text: align day-to-day efforts with organisational objectives to create meaningful
-    tasks that contribute to overall success
+  text: align all levels, functions, verticals, horizontals and geographies
 - icon: "/uploads/ico-engage.svg"
   title: engage
   text: genuine org-wide strategy that adds value to every employee, every day
