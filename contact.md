@@ -1,22 +1,11 @@
 ---
 title: contact
-date: 2017-11-01 03:00:00 +0000
-banner_image: "/uploads/2018/12/07/compass.jpg"
-heading: Contact Us
 layout: contact-us
-publish_date: 2017-12-01 04:00:00 +0000
-show_staff: false
-<!-- menu:
-  navigation:
-    identifier: _contact
-    weight: 4 -->
-
 ---
-## Hours of Operation
-Belkirk College of Engineering is available:
+{:.font-weight-bold}
 
-- **Monday-Friday**, 8:00am to 6:00pm EST
-- **Saturdays**, 8:00am to 5:00pm EST
-- **Sundays**, 9:00am to 12:00pm EST
+### Everything about #stratapp is unique, including our approach to first contact
 
-## Contact Information
+##### Leadership is essential when achieving a 10x impact client side. With that in mind, we’d like to personally invite you to a first call with one of our founders
+
+##### As #stratapp scales, our commitment to that initial dialogue will remain at our core - We will continue to make direct CEO/CXO to founder communication a priority by joining the back end of first calls and follow up sessions for leadership teams.
