@@ -97,8 +97,11 @@ layout: default
       </section>
       <section class="l-section bg-primary text-white text-center">
         <div class="container">
-          <div class="h2" data-aos="fade-up" data-aos-delay="100">“stratapp quote if applicable.”</div>
-          <p class="h5 mt-4" data-aos="fade-up" data-aos-delay="100">-thrilled CXO/ business owner-</p>
+
+          <div data-aos="fade-up" data-aos-delay="100">
+            {{ page.quote | markdownify }}
+          </div>
+
         </div>
       </section>
       
