@@ -15,4 +15,4 @@ menu:
 
 ### achieve org-wide alignment and engagement like never before
 
-##### no need to send employees to 10 different apps, this is 10 in 1
+##### no need to send employees to 10 different apps, this is 10-apps-in-1
