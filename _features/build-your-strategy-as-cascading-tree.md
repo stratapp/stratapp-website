@@ -1,8 +1,9 @@
 ---
 title: Build your strategy as a cascading tree
-hero_image: "/uploads/timj-310824-unsplash.jpg.jpg"
+hero_image: ''
 seo_title: Build your strategy as a cascading tree
 seo_description: ''
+date: 
 
 ---
 The strategic planning tree cascades as: goals > objectives > actions > projects. At each level in the tree you can assign different owners, teams, workboards, tasks and KPIs.
