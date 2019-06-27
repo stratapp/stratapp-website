@@ -7,7 +7,7 @@ intro_text: |-
 
   ### we are experienced SaaS founders, with a compelling vision, backed by investors who are market leaders across several industries
 
-  For 30 years, the process of strategy formation, documentation, communication and execution has been fundamentally flawed. The age old paradigms of static documents and top down control have been holding all of us all back.  And we all know it.
+  For 30 years the process of strategy formation, documentation, communication and execution has been fundamentally flawed. The age old paradigms of static documents and top down control have been holding all of us all back.  And we all know it.
 
   It is time to change. There is a much better way, that for us, has become obvious in hindsight.
 
