@@ -39,7 +39,7 @@ features:
     - without distraction
 - icon: "/uploads/ico-align.svg"
   title: align
-  text: align day-to-day efforts with organisational objectives to creating meaningful
+  text: align day-to-day efforts with organisational objectives to create meaningful
     tasks that contribute to overall success
 - icon: "/uploads/ico-engage.svg"
   title: engage
@@ -51,6 +51,8 @@ features:
   title: thrive
   text: develop a prosperous and connected organisation that achieves, every day,
     every quarter, every year, year on year
+seo_title: ''
+seo_description: ''
 menu:
   navigation:
     identifier: _index
