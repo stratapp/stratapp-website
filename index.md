@@ -23,11 +23,11 @@ columns_text_1: |-
 
   ### fortnightly <a href="https://calendly.com/stratapp" target="_blank">CxO Events</a> in Brisbane and Sydney, or a weekly Video Call most Fridays - see the product, meet a co-founder and hear from other CxOs and business owners
 columns_text_2: |-
-  Our CxO Events are the best way to learn how to take your organization to the next level - achieving org-wide alignment and collaboration like never before.
+  Our CxO Events for CEOs, business owners and C-level executives are the best way to learn how to take your organization to the next level on this new way of working.
 
-  Our Video Calls are for CxOs unable to get to Sydney or Brisbane, or for those of you based in international time zones.  We try to limit the Video Calls to 12 attendees, to allow plenty of opportunity for Q&A and sharing insights between attendees.
+  Our Video Calls are for CxOs and business owners unable to get to Sydney or Brisbane, or for those of you based in international time zones.  We limit these to 12 attendees, to allow plenty of opportunity for Q&A and sharing insights between attendees.
 
-  If you attended a CxO Event and now want to share #stratapp with other senior executives, these weekly Video Calls are an easy next step.
+  If you have already attended a CxO Event and now want to share #stratapp with other senior executives, the weekly Video Calls are an easy next step.
 features:
 - icon: "/uploads/ico-articulate.svg"
   title: articulate
