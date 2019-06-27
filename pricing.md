@@ -18,7 +18,7 @@ faqs:
     in advance.
 - question: is my data safe?
   answer: |-
-    Yes, we use the latest in data encryption and authentication technology.
+    yes, we use the latest in data encryption and authentication technology.
 
     \#stratapp is built on the secure and scalable Microsoft Azure Service Fabric of microservices.
 - question: 'what happens when I stop using #stratapp?'
