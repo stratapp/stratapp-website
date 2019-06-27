@@ -41,6 +41,6 @@ menu:
 ---
 {:.font-weight-bold}
 
-### we are changing the way leaders think about, share and collaborate on the execution of strategy and day-to-day work
+### we are changing the way leaders think about, share and collaborate on executing strategy and day-to-day work
 
 ##### imagine software that seamlessly brings everyone on the same journey
