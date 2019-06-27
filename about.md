@@ -17,11 +17,13 @@ intro_image: "/uploads/image-about-1.png"
 section_text: |-
   {:.font-weight-bold}
 
-  ### we imagined a software that seamlessly ensures that execution of strategy meets expectation
+  ### we are rethinking the B2B SaaS playbook, breaking the tradition of avoiding implementation
 
-  \#stratapp makes it easier for organisations and teams of all sizes to create, evolve and execute strategy. Aligning the day-to-day work outcomes to strategy.
+  B2B SaaS companies typically lock their clients into a prepaid contract, then leave the client to figure out the implementation by themselves, putting forward a list of 'preferred partners' offering different advice, methodologies, resources and pricing.
 
-  \#stratapp introduces a new way of working. A way forward for leaders who are serious. Serious about what they are trying to achieve and genuinely seeking to tap into the full potential of their current and next-generation workforce.
+  We are rewriting the SaaS playbook. We have developed the methodology for our partners, and we have laid out the expected cost ranges for each step.
+
+  Why? We genuinely care about our clients' success, and we have decided that should include removing stress, hassle and unforseen costs on implementation.
 section_image: "/uploads/strategic-illustration.svg"
 seo_title: ''
 seo_description: ''
