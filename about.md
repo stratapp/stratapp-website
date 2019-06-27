@@ -17,13 +17,13 @@ intro_image: "/uploads/image-about-1.png"
 section_text: |-
   {:.font-weight-bold}
 
-  ### we are rethinking the B2B SaaS playbook, breaking the tradition of avoiding implementation
+  ### we are rethinking the B2B SaaS playbook, breaking from traditional approaches to implementation
 
-  B2B SaaS companies typically lock their clients into a prepaid contract, then leave the client to figure out the implementation by themselves, putting forward a list of 'preferred partners' offering different advice, methodologies, resources and pricing.
+  B2B SaaS companies typically lock their clients into a prepaid contract, then leave the client to figure out the implementation by themselves; putting forward a list of 'preferred partners' offering different advice, methodologies, resources and pricing.
 
-  We are rewriting the SaaS playbook. We have developed the methodology for our partners, and we have laid out the expected cost ranges for each step.
+  We are rewriting the SaaS playbook. We havecarefully designed the methodology for our partners, and we have laid out the reasonable costs for each step.
 
-  Why? We genuinely care about our clients' success, and we have decided that should include removing stress, hassle and unforseen costs on implementation.
+  Why? We genuinely care about our clients' success, and have decided that should include removing the stress, hassle and unforseen costs of implementation.
 section_image: "/uploads/strategic-illustration.svg"
 seo_title: ''
 seo_description: ''
