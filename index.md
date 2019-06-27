@@ -48,7 +48,8 @@ features:
     work
 - icon: "/uploads/ico-thrive.svg"
   title: thrive
-  text: free the talent of all generations, and thrive on this new way of working
+  text: free the talent of all generations, and thrive on this new way of thinking
+    and working
 seo_title: "#stratapp - strategy + execution + collaboration"
 seo_description: seamlessly execute strategy and day to day work in one place
 menu:
