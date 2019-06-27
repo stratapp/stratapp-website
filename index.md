@@ -43,7 +43,7 @@ features:
   text: achieve org-wide engagement like never before
 - icon: "/uploads/ico-see.svg"
   title: see
-  text: work cohesively on priority projects allowing organisations to move forward
+  text: line-of-sight real time transparency on strategy, KPIs, people and work
 - icon: "/uploads/ico-thrive.svg"
   title: thrive
   text: develop a prosperous and connected organisation that achieves, every day,
