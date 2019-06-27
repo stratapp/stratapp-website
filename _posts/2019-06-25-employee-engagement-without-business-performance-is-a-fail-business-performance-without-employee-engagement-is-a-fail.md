@@ -9,7 +9,7 @@ author: Anthony Moorhouse
 banner_image: "/uploads/cfhbsyohnead6_mtvbanrw.jpg"
 
 ---
-Anthony Moorhouse is the founder of <a href="http://coherentstrat.com/" target=_blank">Coherent Strategy</a>, the first boutique advisory firm established to coach and support #stratapp clients on implementation.
+Anthony Moorhouse is the founder of [Coherent Strategy](http://coherentstrat.com/ "Coherent Strategy"){:target="_blank"}, the first boutique advisory firm established to coach and support #stratapp clients on implementation.
 
 Coherent Strategy apply the Gallup Q12 Index to measure employee engagement over time.
 
