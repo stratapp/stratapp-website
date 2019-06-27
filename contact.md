@@ -5,7 +5,7 @@ layout: contact-us
 ---
 {:.font-weight-bold}
 
-### as a question or learn how to become a partner
+### ask a question or learn how to become a partner
 
 ##### We run fortnightly CxO Events in Brisbane and Sydney, and weekly Video Calls most Fridays for international time zones.
 
