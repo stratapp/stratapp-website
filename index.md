@@ -40,7 +40,7 @@ features:
   text: align all levels, functions, verticals, horizontals and geographies
 - icon: "/uploads/ico-engage.svg"
   title: engage
-  text: genuine org-wide strategy that adds value to every employee, every day
+  text: achieve org-wide engagement like never before
 - icon: "/uploads/ico-see.svg"
   title: see
   text: work cohesively on priority projects allowing organisations to move forward
