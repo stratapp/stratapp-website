@@ -1,10 +1,9 @@
 ---
-title: Fair Usage
+title: fair usage
 seo_title: ''
 seo_description: ''
 
 ---
-
 **Fair Use Policy**
 
 The Service, as defined under the Terms page on [https://stratapp.ai](https://stratapp.ai), is operated by #stratapp Tradings Pty Ltd (&quot;#stratapp&quot;, &quot;us&quot;, &quot;we&quot;, or &quot;our&quot;) on behalf of its clients and partners. To ensure the continued availability of our services, we have a &#39;Fair Use Policy&#39; to make sure our services are not subject to misuse.
