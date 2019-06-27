@@ -52,4 +52,4 @@ menu:
 
 ### affordable to achieve org-wide collaboration
 
-##### simple value-for-money pricing, with full features available to every employee
+##### simple value-for-money pricing, full features available to every employee
