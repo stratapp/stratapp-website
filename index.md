@@ -7,7 +7,8 @@ hero_intro: |-
   # seamlessly execute strategy and day to day work in one place
 
   ##### a collaborative experience that aligns and engages your whole organisation
-
+  
+  {:.text-center}
   <a href="https://calendly.com/stratapp" target="_blank" class="btn btn-danger rounded-pill">Book an event</a>
 hero_image: "/uploads/hero-flag-man.svg"
 intro_text: |-
@@ -16,7 +17,6 @@ intro_text: |-
   # book a CxO Event or Video Call
 
   ## open to CEOs, business owners and C-level executives <span>(limited availability)</span>
-
   <a href="https://calendly.com/stratapp" target="_blank" class="btn btn-danger rounded-pill mt-3">Book an event</a>
 columns_text_1: |-
   {:.font-weight-bold}
