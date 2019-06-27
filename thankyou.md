@@ -1,5 +1,5 @@
 ---
-title: Thankyou
+title: thank you
 seo_title: ''
 seo_description: ''
 
