@@ -1,10 +1,10 @@
 ---
-title: Hover on Live Org Chart to see who works for who, and who is working on what
+title: hover on Live Org Chart to see who works for who, and who is working on what
   right now
 seo_title: ''
 seo_description: ''
 hero_image: ''
-date: 2019-06-18 08:00:00 +0000
+date: 2019-06-18T08:00:00.000+00:00
 
 ---
 “_I wonder why Sam is not getting back to me, I sent him that over a week ago?_”
