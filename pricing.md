@@ -46,6 +46,6 @@ menu:
 ---
 {:.font-weight-bold}
 
-### affordable so you can achieve genuine org-wide collaboration on both strategy and day to day work
+### affordable so you can achieve genuine org-wide collaboration
 
-##### simple, value-for-money pricing, with full features available to every employee ... 10 apps for the price of 1
+##### simple, value-for-money pricing, with full features available to every employee
