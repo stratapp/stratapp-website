@@ -31,8 +31,8 @@ columns_text_2: |-
 features:
 - icon: "/uploads/ico-articulate.svg"
   title: articulate
-  text: bring everyone along the same journey, with a healthy mix of bottom up and
-    top down inspiration
+  text: bring everyone on the same journey, with a healthy mix of bottom up and top
+    down inspiration
 - icon: "/uploads/ico-collaborate.svg"
   title: collaborate
   text: collaborate in real time on strategy, KPIs, projects and day-to-day work
