@@ -32,4 +32,4 @@ At #stratapp, we’re walking the same talk. #stratapp is designed, built, suppo
 
 Australians love to innovate and solve problems, rather than get bogged down in repetitive tasks or process detail, so at #stratapp we make these attributes the focus of our onshore resources.
 
-Source: [https://www.amazon.com/The-Third-Wave-Micro-globalism-employment/dp/1482088231](https://www.amazon.com/The-Third-Wave-Micro-globalism-employment/dp/1482088231 "https://www.amazon.com/The-Third-Wave-Micro-globalism-employment/dp/1482088231"){:target="_blank"}
+Source: [https://www.amazon.com/The-Third-Wave-Micro-globalism-employment/dp/1482088231](https://www.amazon.com/The-Third-Wave-Micro-globalism-employment/dp/1482088231 "https://www.amazon.com/The-Third-Wave-Micro-globalism-employment/dp/1482088231")"{:target="_blank"}"
