@@ -3,6 +3,7 @@ title: Enjoy a mobile version that adds real value, keeping you effective on the
 seo_title: ''
 seo_description: ''
 hero_image: ''
+date: 2019-06-11 08:00:00 +0000
 
 ---
 \#stratapp puts “your company in your pocket!”

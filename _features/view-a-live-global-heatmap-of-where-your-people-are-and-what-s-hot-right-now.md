@@ -3,6 +3,7 @@ title: View a live global heatmap of where your people are and what’s hot righ
 seo_title: ''
 seo_description: ''
 hero_image: ''
+date: 2019-06-12 08:00:00 +0000
 
 ---
 Imagine if you could see in real time what is happening across the whole organization.

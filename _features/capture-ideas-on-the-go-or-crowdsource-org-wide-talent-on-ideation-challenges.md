@@ -3,6 +3,7 @@ title: Capture ideas on the go, or crowdsource org-wide talent on ideation chall
 seo_title: ''
 seo_description: ''
 hero_image: ''
+date: 2019-06-14 08:00:00 +0000
 
 ---
 When do the best ideas hit us?  Certainly not during quarterly or annual surveys! 

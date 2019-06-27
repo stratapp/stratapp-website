@@ -3,6 +3,7 @@ title: Take comfort that Tasks from Notes and all modules will appear in your Wo
 seo_title: ''
 seo_description: ''
 hero_image: ''
+date: 2019-06-20 08:00:00 +0000
 
 ---
 Eliminate double handling and deliver on accountability.

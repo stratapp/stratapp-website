@@ -1,9 +1,9 @@
 ---
-title: Rather than adding more noise, enjoy social collaboration with context and
-  structure
+title: Rather than adding more noise, enjoy social collaboration with context and15 structure
 seo_title: ''
 seo_description: ''
 hero_image: ''
+date: 2019-06-15 08:00:00 +0000
 
 ---
 Social apps without context or structure, just add more noise. Especially as you move above 50 employees into mid-market and corporates. Social fast becomes a twitter-style fire hose of notifications, or like being on the end of hundreds of reply-all emails per day.

@@ -3,6 +3,7 @@ title: Collaborate effectively with clients, partners and suppliers
 seo_title: ''
 seo_description: ''
 hero_image: ''
+date: 2019-06-21 08:00:00 +0000
 
 ---
 \#stratapp allows you to add, for free, guest users who are external to your organization.

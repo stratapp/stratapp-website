@@ -13,8 +13,8 @@ layout: default
 
         </div>
       </section>
-
-      {% for feature in site.features %}
+      
+      {% for feature in site.features | reversed %}
 		
       {% case forloop.index %}
       {% when 1 or 5 or 9 or 13 %}

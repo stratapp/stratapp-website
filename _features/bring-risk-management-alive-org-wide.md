@@ -3,7 +3,7 @@ title: Bring risk management alive, org-wide
 seo_title: ''
 seo_description: ''
 hero_image: ''
-
+date: 2019-06-22 08:00:00 +0000
 ---
 In theory, boards of directors, CEOs and company officers are to track and manage risks.
 
