@@ -8,4 +8,4 @@ linkedin: https://www.linkedin.com/in/ashrichardson/
 layout: person
 
 ---
-20 years digital tech and strategy experience, including co-founding #team, Accenture, MP of Oyster Partners (now DigitasLBi) and ex-VC investing in technology startups. Unique skills on product strategy and design, and scalable offshoring.
+20 years digital tech and strategy experience, including co-founding #team, Accenture, MP of Oyster Partners (now DigitasLBi) and ex-VC investing in technology startups. Unique skills on product strategy, design and scalable offshoring.
