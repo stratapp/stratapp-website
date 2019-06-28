@@ -5,13 +5,10 @@ faqs:
 - question: Do you offer a free trial?
   answer: 'We offer a free 15-day trial. Plenty of time to get started and familiar
     with #stratapp. There are no set-up fees, integrations or hardware costs.'
-- question: Do you offer implementation support?
-  answer: |-
-    Yes, we have partnered with [Coherent Strategy](http://coherentstrat.com/ "Coherent Strategy") to coach and support our clients on implementation.
-
-    As far as we know, we are the world's first B2B SaaS company to design the implementation methodology for our partners AND we have prescribed reasonable cost budgets for each and every step.
-
-    Why? We genuinely care about our clients’ success, and that includes removing the stress, hassle and unforseen costs of implementation.
+- question: How does annual billing work and what is the contract term?
+  answer: You can choose from monthly or annual billing. There is no contract term
+    beyond the billing cycle. Annual billing is discounted 22-29% and billed yearly
+    in advance.
 - question: What payment methods do you accept?
   answer: |-
     We accept all major credit and debit cards, including American Express, Visa, Mastercard and Diners Club.
@@ -21,10 +18,13 @@ faqs:
   answer: Our billing engine runs on the secure Chargebee platform, which provides
     you with a client portal to access your subscription status, payment methods,
     billing information, payment history and invoices.
-- question: How does annual billing work and what is the contract term?
-  answer: You can choose from monthly or annual billing. There is no contract term
-    beyond the billing cycle. Annual billing is discounted 22-29% and billed yearly
-    in advance.
+- question: Do you offer implementation support?
+  answer: |-
+    Yes, we have partnered with [Coherent Strategy](http://coherentstrat.com/ "Coherent Strategy") to coach and support our clients on implementation.
+
+    As far as we know, we are the world's first B2B SaaS company to design the implementation methodology for our partners AND we have prescribed reasonable cost budgets for each and every step.
+
+    Why? We genuinely care about our clients’ success, and that includes removing the stress, hassle and unforseen costs of implementation.
 - question: Is our data safe?
   answer: |-
     Yes, we use the latest in data encryption and authentication technology.
