@@ -45,4 +45,4 @@ menu:
 
 ### we are changing the way leaders think about, share and collaborate on executing strategy and day-to-day work
 
-##### bring all levels, roles and generations on the same journey
+##### bringing all levels, roles and generations on the same journey
