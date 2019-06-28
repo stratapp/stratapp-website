@@ -1,5 +1,5 @@
 ---
-title: bring risk management alive, org-wide
+title: bring risk management alive
 seo_title: ''
 seo_description: ''
 hero_image: ''
