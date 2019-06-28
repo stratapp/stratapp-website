@@ -1,5 +1,5 @@
 ---
-title: rather than adding more noise, enjoy social collaboration with context and15
+title: rather than adding more noise, enjoy social collaboration with context and
   structure
 seo_title: ''
 seo_description: ''
