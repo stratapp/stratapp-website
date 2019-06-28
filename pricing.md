@@ -3,9 +3,8 @@ title: pricing
 layout: pricing
 faqs:
 - question: Do you offer a free trial?
-  answer: 'We offer a free 15-day trial. Plenty of time to get started and begin using
-    #stratapp. There are no set-up fees, integrations or hardware costs. The user
-    experience is immediately intuitive, allowing you to move quickly.'
+  answer: 'We offer a free 15-day trial. Plenty of time to get started and familiar
+    with #stratapp. There are no set-up fees, integrations or hardware costs.'
 - question: Do you offer implementation support?
   answer: |-
     Yes, we have partnered with [Coherent Strategy](http://coherentstrat.com/ "Coherent Strategy") to coach and support our clients on implementation.
