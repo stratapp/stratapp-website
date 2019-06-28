@@ -9,11 +9,11 @@ intro_text: |-
 
   For 30 years the process of strategy formation, documentation, communication and execution has been fundamentally flawed. The age old paradigms of static documents and top down control are holding all of us all back.  It is a global problem, affecting most organizations regardless of size, sector, culture or geography.
 
-  It is time to fix this. We have embraced the most progressive thinking in work and social collaboration of the last 10 years, and applied those to create a seamless org-wide experience for executing both strategy and day-to-day work.
+  It is time to fix this. We have embraced the most progressive thinking in work and social collaboration of the last 10 years, and created a seamless org-wide experience for executing both strategy and day-to-day work.
 
-  We've done this without inventing new management terms or methods. #stratapp is designed around what executives, managers and team leaders already know.
+  We haven't invented new management buzz words or proprietory methods. #stratapp is designed around what CEOs, executives, managers and team leaders already know.
 
-  Therefore, we make your time to value days, not months or years.
+  Therefore, we make your time-to-value days, not months or years.
 intro_image: "/uploads/image-about-1.png"
 section_text: |-
   {:.font-weight-bold}
