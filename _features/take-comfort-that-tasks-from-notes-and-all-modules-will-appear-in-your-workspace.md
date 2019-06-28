@@ -1,5 +1,5 @@
 ---
-title: take comfort that tasks from totes and all modules will appear in your workspace
+title: take comfort that tasks from notes and all modules will appear in your workspace
 seo_title: ''
 seo_description: ''
 hero_image: ''
