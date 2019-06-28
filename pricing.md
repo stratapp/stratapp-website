@@ -52,6 +52,6 @@ menu:
 ---
 {:.font-weight-bold}
 
-### achieve org-wide collaboration
+### achieve genuine org-wide collaboration
 
 ##### affordable pricing, with full features available to every employee
