@@ -8,7 +8,8 @@ hero_intro: |-
 
   ##### a collaborative experience that aligns and engages your whole organisation
 
-  {:.text-center}
+
+  {:.text-center .mt-4 .mb-0}
   <a href="https://calendly.com/stratapp" target="_blank" class="btn btn-danger rounded-pill">Book an event</a>
 hero_image: "/uploads/hero-flag-man.svg"
 intro_text: |-
