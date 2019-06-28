@@ -14,7 +14,7 @@ intro_text: |-
   We haven't invented new management buzz words or proprietory methods. #stratapp is designed around what CEOs, executives, managers and team leaders already know.
 
   Therefore, we make your time-to-value days, not months or years.
-intro_image: "/uploads/image-about-1.png"
+intro_image: "/uploads/SaaS for all generations.jpg"
 section_text: |-
   {:.font-weight-bold}
 
