@@ -26,7 +26,7 @@ section_text: |-
 
   Why? We genuinely care about our clients' success, and that includes removing the stress, hassle and unforseen costs of implementation.
 
-  Your time-to-value is days, not months or years.
+  Your time-to-value on #stratapp is days, not months or years.
 section_image: "/uploads/strategic-illustration.svg"
 seo_title: ''
 seo_description: ''
