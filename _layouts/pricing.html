@@ -108,7 +108,7 @@ layout: default
 
       <section class="l-section-sm">
         <div class="container container--small">
-          <div class="h3 font-weight-bold text-center mb-xxl" data-aos="fade-up" data-aos-delay="100">pricing FAQ’s</div>
+          <div class="h3 font-weight-bold text-center mb-xxl" data-aos="fade-up" data-aos-delay="100">FAQ’s</div>
           <div id="accordionFaq" class="mb-xxl accordion">
 
             {% for faq in page.faqs %}
@@ -117,7 +117,7 @@ layout: default
               <h2 id="heading{{ forloop.index }}" data-toggle="collapse" data-target="#collapse{{ forloop.index }}" aria-expanded="false" aria-controls="collapseOne" class="h5 card-header">{{ faq.question }}</h2>
               <div id="collapse{{ forloop.index }}" aria-labelledby="heading{{ forloop.index }}" data-parent="#accordionFaq" class="collapse {% if forloop.index ==1 %}show{% endif %}">
                 <div class="card-body">
-                  <div class="h6 my-0">{{ faq.answer }}</div>
+                  <div class="h6 my-0">{{ faq.answer | markdownify }}</div>
                 </div>
               </div>
             </div>
