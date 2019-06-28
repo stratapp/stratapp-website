@@ -54,4 +54,4 @@ menu:
 
 ### achieve org-wide collaboration
 
-##### affordable pricing model, full features available to every employee
+##### affordable pricing, with full features available to every employee
