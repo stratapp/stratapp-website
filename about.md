@@ -18,13 +18,15 @@ intro_image: "/uploads/image-about-1.png"
 section_text: |-
   {:.font-weight-bold}
 
-  ### we are rethinking the B2B SaaS playbook on the client's time-to-value
+  ### we are rethinking the B2B SaaS playbook on time-to-value
 
   B2B SaaS companies typically lock their clients into a prepaid contract, then leave the client to figure out the implementation by themselves; putting forward a list of 'preferred partners' offering different advice, methodologies, resources and pricing.
 
   We are rethinking the SaaS playbook. We have designed the methodology for our partners AND we have prescribed reasonable cost budgets for each and every step.
 
   Why? We genuinely care about our clients' success, and that includes removing the stress, hassle and unforseen costs of implementation.
+
+  We make your time-to-value days, not months or years.
 section_image: "/uploads/strategic-illustration.svg"
 seo_title: ''
 seo_description: ''
