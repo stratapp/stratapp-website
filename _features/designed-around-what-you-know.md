@@ -6,7 +6,7 @@ seo_description: ''
 date: 2019-06-26T14:00:00.000+00:00
 
 ---
-With #stratapp, you don’t need to learn new management practices, methodologies or terms.
+With #stratapp, you do not need to learn new management practices, methodologies or terms.
 
 \#stratapp applies what most CEOs, executives, managers and team leaders already know.
 
