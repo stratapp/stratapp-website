@@ -31,9 +31,9 @@ faqs:
   answer: |-
     Yes, we use the latest in data encryption and authentication technology.
 
-        &#x23;stratapp supports SAML.
+    \#stratapp supports SAML.
 
-        &#x23;stratapp is built on Microservices on top of Microsoft Service Fabric, hosted on Micrsoft Azure.
+    \#stratapp is built on Microservices on top of Microsoft Service Fabric, hosted on Microsoft Azure.
 - question: 'What happens when I stop using #stratapp?'
   answer: |-
     No problem, there are no termination fees.
