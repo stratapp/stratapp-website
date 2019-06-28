@@ -62,7 +62,7 @@ layout: default
               <div class="c-article bg-white d-md-flex align-items-md-center rounded-lg overflow-hidden shadow-lg mb-5">
 
 				{% if post.banner_image and post.banner_image != "" %}
-					<img src="{{ post.banner_image | absolute_url }}" alt="{{ post.title }}" class="w-25 c-article__img-sm">
+					<img src="{{ post.banner_image | absolute_url }}" alt="{{ post.title }}" class="c-article__img-sm">
 				{% else %}
 				    <img src="{{ "/img/placeholder.png" | absolute_url }}" alt="{{ post.title }}">
 				{% endif %}
