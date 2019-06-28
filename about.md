@@ -43,4 +43,4 @@ menu:
 
 ### we are changing the way leaders think about, share and collaborate on executing strategy and day-to-day work
 
-##### imagine software that seamlessly brings everyone on the same journey
+##### imagine bringing everyone at all levels on the same journey
