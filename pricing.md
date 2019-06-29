@@ -4,9 +4,9 @@ layout: pricing
 faqs:
 - question: Do you offer a free trial?
   answer: |-
-    We offer a free 15 day trial. Plenty of time to get started and familiar with #stratapp.
+    We offer a 15 day free trial, plenty of time to get started and familiar with #stratapp.
 
-    There are no set-up fees or hardware costs.
+    There are no set-up fees or hardware costs.  We do recommend engaging a coach (see FAQ below on implementation support).
 - question: How does annual billing work and what is the contract term?
   answer: You can choose from monthly or annual billing. There is no contract term
     beyond the billing cycle. Annual billing is discounted 22-29% and billed yearly
