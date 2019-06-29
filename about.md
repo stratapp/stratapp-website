@@ -9,7 +9,7 @@ intro_text: |-
 
   For 30 years strategy formation, documentation, communication and execution has been fundamentally flawed. The age old paradigms of static documents and top down control are holding all of us back.  It is a global problem, affecting most organizations regardless of size, sector, culture or country.
 
-  It is time to fix this.
+  It is time we fixed this.
 
   We have embraced the most progressive thinking in social and work collaboration tech of the last 10 years, and created a seamless experience for executing both strategy and day-to-day work in one place.
 
