@@ -22,7 +22,7 @@ section_text: |-
 
   ### we are rethinking SaaS playbooks on time-to-value
 
-  B2B SaaS companies typically lock their clients into a prepaid contract, then leave the client to figure out implementation by themselves; often putting forward a list of 'preferred partners' offering different advice, methodologies, resources and pricing.
+  B2B SaaS companies typically lock their clients into a prepaid contract, then leave the clients to figure out implementation by themselves; often putting forward a list of 'preferred partners' offering different advice, methodologies, resources and pricing.
 
   We are rethinking the SaaS playbook. We designed the methodology for our partners AND we prescribed reasonable cost budgets for each and every step.
 
