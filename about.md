@@ -11,7 +11,7 @@ intro_text: |-
 
   It is time to fix this. We have embraced the most progressive thinking in social and work collaboration tech of the last 10 years, and created a seamless experience for executing both strategy and day-to-day work in one place.
 
-  We have not invented new management buzz words or proprietory methods. #stratapp is carefully designed around what you already know.
+  We did not invent new management buzz words, theory or methods. #stratapp is carefully designed around what you already know.
 
   As a result, your time-to-value on #stratapp is days, not months, quarters or years.
 intro_image: "/uploads/all generations.jpg"
