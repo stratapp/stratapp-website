@@ -43,6 +43,6 @@ menu:
 ---
 {:.font-weight-bold}
 
-### we are changing the way leaders think about, share and collaborate on executing strategy and day-to-day work
+### we are changing how leaders think about, share and collaborate on executing strategy and day-to-day work
 
 ##### bringing all levels, roles and generations on the same journey
