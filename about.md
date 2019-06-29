@@ -11,11 +11,11 @@ intro_text: |-
 
   It is time we fixed this.
 
-  We embraced the progressive thinking in social and work collaboration tech of the last 10 years, to create a seamless experience for executing both strategy and day-to-day work, in one place.
+  We embraced the progressive thinking in social and work collaboration tech of the last 11 years, to create a seamless experience for executing both strategy and day-to-day work, in one place.
 
-  We did not invent new management buzz words, theory or methods. We have carefully designed #stratapp around what you already know.
+  We did not invent new management buzz words, theory or methods. We carefully designed #stratapp around what you already know.
 
-  Your time-to-value on #stratapp is days - not months, quarters or years.
+  Therefore, your time-to-value on #stratapp is days - not months, quarters or years.
 intro_image: "/uploads/all generations.jpg"
 section_text: |-
   {:.font-weight-bold}
@@ -28,7 +28,7 @@ section_text: |-
 
   Why? We genuinely care about our clients' success, and that includes removing the stress, hassle and unforseen costs of implementation.
 
-  Your time-to-value on #stratapp is days - not months, quarters or years.
+  Another reason your time-to-value on #stratapp is days - not months, quarters or years.
 section_image: "/uploads/collaborating.jpg"
 seo_title: ''
 seo_description: ''
