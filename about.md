@@ -5,9 +5,9 @@ intro_text: |-
   {:.text-danger}
   {:.font-weight-bold}
 
-  ### we are experienced SaaS founders, with a compelling vision backed by investors who are market leaders
+  ### we are experienced SaaS founders, with a 10 year vision backed by investors who are market leaders
 
-  For 30 years the process of strategy formation, documentation, communication and execution has been fundamentally flawed. The age old paradigms of static documents and top down control are holding all of us back.  It is a global problem, affecting most organizations regardless of size, sector, culture or geography.
+  For 30 years the process of strategy formation, documentation, communication and execution has been fundamentally flawed. The age old paradigms of static documents and top down control are holding all of us back.  It is a global problem, affecting most organizations regardless of size, sector, culture or country.
 
   It is time to fix this. We have embraced the most progressive thinking in work and social collaboration tech of the last 10 years, and created a seamless experience for executing both strategy and day-to-day work in one place.
 
