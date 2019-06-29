@@ -14,4 +14,4 @@ Professor Roger Martin is a legend on strategy.  His thinking plays well to #str
 
 \#stratapp tightens this process of evolving strategic choices and progressively learning from execution, providing a real-time line-of-sight through strategy, KPIs, day to day work and culture.  This elevates collective performance by keeping everyone aligned; from board, CEO and senior executives, through to middle management, team leaders and front line employees.
 
-source: https://hbr.org/2017/11/ceos-should-leave-strategy-to-their-team-and-save-their-focus-for-execution
+source: https://hbr.org/2017/11/ceos-should-leave-strategy-to-their-team-and-save-their-focus-for-execution 
