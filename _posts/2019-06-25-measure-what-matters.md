@@ -1,7 +1,7 @@
 ---
-date: 2019-06-20 05:18:37 +0000
+date: 2019-06-20T05:18:37.000+00:00
 layout: post
-title: Measure what matters
+title: measure what matters
 seo_title: ''
 seo_description: ''
 author: John Doerr
