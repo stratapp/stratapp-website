@@ -1,7 +1,7 @@
 ---
 date: 2019-06-15T05:30:25.000+00:00
 layout: post
-title: Accelerating x-border performance
+title: accelerating x-border performance
 seo_title: ''
 seo_description: ''
 author: Ash Richardson
