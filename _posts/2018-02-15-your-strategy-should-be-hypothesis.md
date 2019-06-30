@@ -1,5 +1,5 @@
 ---
-title: Your strategy should be a hypothesis you constantly adjust
+title: your strategy should be a hypothesis you constantly adjust
 date: 2019-06-24T05:16:06.000+00:00
 layout: post
 banner_image: "/uploads/nov17-09-684790642-Jonathan-Knowles-1024x576.jpg"
