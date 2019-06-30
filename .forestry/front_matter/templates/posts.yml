@@ -25,5 +25,3 @@ fields:
   label: layout
   hidden: true
   default: post
-pages:
-- _posts/many-strategies-fail-because-they-re-not-actually-strategies.md
