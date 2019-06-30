@@ -1,5 +1,5 @@
 ---
-title: "#stratapp"
+title: Home
 layout: homepage
 hero_intro: |-
   {:.font-weight-bold}
