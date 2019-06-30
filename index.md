@@ -6,8 +6,7 @@ hero_intro: |-
 
   # seamlessly execute strategy and day to day work in one place
 
-  ##### a collaborative experience that aligns and engages your whole organisation
-
+  ##### a collaborative experience that aligns and engages everyone
 
   {:.text-center .mt-4 .mb-0}
   <a href="https://calendly.com/stratapp" target="_blank" class="btn btn-danger rounded-pill">Book an event</a>
