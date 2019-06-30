@@ -1,7 +1,7 @@
 ---
-date: 2019-06-20 05:21:50 +0000
+date: 2019-06-20T05:21:50.000+00:00
 layout: post
-title: How to run a company with (almost) no rules
+title: how to run a company with (almost) no rules
 seo_title: ''
 seo_description: ''
 author: Ricardo Semler

@@ -1,7 +1,7 @@
 ---
-date: 2019-06-17 05:27:40 +0000
+date: 2019-06-17T05:27:40.000+00:00
 layout: post
-title: How great leaders inspire action
+title: how great leaders inspire action
 seo_title: ''
 seo_description: ''
 author: Simon Sinek
