@@ -30,7 +30,7 @@ section_text: |-
 
   Your time-to-value on #stratapp is days - not months, quarters or years.
 section_image: "/uploads/collaborating.jpg"
-seo_title: ''
+seo_title: 'sd'
 seo_description: ''
 footer_cta: |-
   ### **join us and other CxOs**

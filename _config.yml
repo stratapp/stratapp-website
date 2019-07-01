@@ -1,6 +1,6 @@
-title: Stratapp Website
+title: stratapp
 short_title: stratapp
-description: Stratapp Site for Forestry
+description: seamlessly execute strategy and day to day work in one place
 baseurl:
 permalink: "/:title/"
 defaults:
