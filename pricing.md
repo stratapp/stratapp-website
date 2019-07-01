@@ -39,13 +39,13 @@ faqs:
     No problem, there are no termination fees.
 
     In future releases we will be adding APIs for you to link your data to BI tools.
-seo_title: ''
-seo_description: ''
+seo_title: "#stratapp pricing | achieve org-wide collaboration"
+seo_description: affordable SaaS pricing, with full features available to every employee
 quote: |-
   #### "Our industry is going through massive change.  #stratapp is at the core of our response, connecting our talent across four countries, aligning all of us in real time."
 
   ##### - Renato Domini, CEO Panorama Destination
-feature_image: ''
+feature_image: "/uploads/feature image - pricing page.JPG"
 menu:
   navigation:
     identifier: _pricing
