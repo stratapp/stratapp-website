@@ -1,5 +1,5 @@
 ---
-title: Home
+title: home
 layout: homepage
 hero_intro: |-
   {:.font-weight-bold}
