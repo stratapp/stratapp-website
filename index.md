@@ -50,6 +50,7 @@ features:
     working
 seo_title: "#stratapp - strategy + execution + collaboration"
 seo_description: seamlessly execute strategy and day to day work in one place
+feature_image: "/uploads/feature image - home page.JPG"
 menu:
   navigation:
     identifier: _index
