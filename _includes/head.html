@@ -5,7 +5,6 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
   
-
   <title>{% if page.seo_title and page.seo_title != "" %}{{ page.seo_title }}{% else %}{{ page.title }} - {{ site.title }}{% endif %}</title>
 
   <meta name="description" content="{% if page.seo_description and page.seo_description != '' %}{{ page.seo_description }}{% else %}{{ site.description }}{% endif %}">
@@ -15,7 +14,7 @@
   <meta name="robots" content="index, follow"> 
 
   <meta name="og:title" property="og:title" content="{% if page.seo_title and page.seo_title != '' %}{{ page.seo_title }}{% else %}{{ page.title }} - {{ site.title }}{% endif %}">
-  {% if page.feature_image and page.feature_image != "" %}<meta property="og:image" content="{{ page.feature_image | absolute_url }}">{% endif %}
+  {% if page.feature_image and page.feature_image != "" %}<meta property="og:image" content="{{ page.feature_image | relative_url }}">{% endif %}
   <meta property="og:description" content="{% if page.seo_description and page.seo_description != '' %}{{ page.seo_description }}{% else %}{{ site.description }}{% endif %}">
   <meta property="og:url" content="{{ site.url }}{{ page.url | replace:'index.html',''}}">
 
