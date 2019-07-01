@@ -2,6 +2,7 @@ title: stratapp
 short_title: stratapp
 description: seamlessly execute strategy and day to day work in one place
 baseurl:
+url: https://stratapp.ai
 permalink: "/:title/"
 defaults:
   - scope:
