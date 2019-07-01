@@ -45,6 +45,7 @@ quote: |-
   #### "Our industry is going through massive change.  #stratapp is at the core of our response, connecting our talent across four countries, aligning all of us in real time."
 
   ##### - Renato Domini, CEO Panorama Destination
+feature_image: ''
 menu:
   navigation:
     identifier: _pricing
