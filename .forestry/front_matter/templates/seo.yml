@@ -16,3 +16,9 @@ fields:
     schema:
       format: markdown
   label: SEO Description
+- name: feature_image
+  type: file
+  config:
+    maxSize: 250
+  label: Feature Image
+  description: Image used on social media previews
