@@ -49,7 +49,8 @@ features:
   text: free the talent of all generations to thrive on this new way of thinking and
     working
 seo_title: "#stratapp | strategy execution software"
-seo_description: seamlessly execute strategy and day to day work in one place
+seo_description: seamlessly execute strategy and day to day work in one place; strategy
+  execution SaaS application for all roles, levels and generations
 feature_image: "/uploads/feature image - home page.JPG"
 menu:
   navigation:
