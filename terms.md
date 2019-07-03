@@ -1,7 +1,9 @@
 ---
 title: terms
-seo_title: ''
-seo_description: ''
+seo_title: "#stratapp Terms and Conditions"
+seo_description: 'These Terms apply to all visitors, users and others who access or
+  use the Service. '
+feature_image: ''
 
 ---
 Please read these Terms and Conditions (&quot;Terms&quot;, &quot;Terms and Conditions&quot;) carefully before using the [https://stratapp.ai](https://stratapp.ai) website and the #stratapp applications (the &quot;Service&quot;) operated by #stratapp Tradings Pty Ltd (&quot;#stratapp&quot;, &quot;us&quot;, &quot;we&quot;, or &quot;our&quot;).
