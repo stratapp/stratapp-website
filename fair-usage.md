@@ -1,7 +1,9 @@
 ---
 title: fair usage
-seo_title: ''
-seo_description: ''
+seo_title: "#stratapp fair usage policy"
+seo_description: To ensure the continued availability of our services, we have a 'Fair
+  Use Policy' to make sure our services are not subject to misuse.
+feature_image: ''
 
 ---
 **Fair Use Policy**
