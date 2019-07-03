@@ -1,7 +1,10 @@
 ---
-seo_title: Privacy Policy
-seo_description: ''
+seo_title: "#stratapp Privacy Policy"
+seo_description: This page informs you of our policies regarding the collection, use
+  and disclosure of personal data when you use our Service and the choices you have
+  associated with that data.
 title: privacy
+feature_image: ''
 
 ---
 #stratapp Tradings Pty Ltd (&quot;#stratapp&quot;, &quot;us&quot;, &quot;we&quot;, or &quot;our&quot;) operates the https://stratapp.ai website and the #stratapp applications (hereinafter referred to as the &quot;Service&quot;).
