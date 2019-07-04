@@ -26,7 +26,7 @@ section_text: |-
 
   In contrast, we have actually designed the methodology for our partners AND we prescribed reasonable cost budgets for each and every step.
 
-  Why? We genuinely care about our clients' success, and that includes removing the stress, hassle and unforseen costs of implementation.
+  Why?  We genuinely care about our clients' success, and that includes removing the stress, hassle and unforseen costs of implementation.
 
   Your time-to-value on #stratapp is days - not months, quarters or years.
 section_image: "/uploads/collaborating.jpg"
