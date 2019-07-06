@@ -7,10 +7,13 @@ faqs:
     We offer a 15 day free trial, plenty of time to get started and familiar with #stratapp.
 
     There are no set-up fees or hardware costs.  We do recommend engaging a coach (see FAQ below on implementation support).
-- question: How does annual billing work and what is the contract term?
-  answer: You can choose from monthly or annual billing. There is no contract term
-    beyond the billing cycle. Annual billing is discounted 22-29% and billed yearly
-    in advance.
+- question: How does annual billing work? What is the currency and contract term?
+  answer: |-
+    You can choose from monthly or annual billing.
+
+    Pricing above is US$.
+
+    There is no contract term beyond the billing cycle. Annual billing is discounted 22-29% and billed yearly in advance.
 - question: What payment methods do you accept?
   answer: |-
     We accept all major credit and debit cards, including American Express, Visa, Mastercard and Diners Club.
