@@ -7,9 +7,9 @@ faqs:
     We offer a 15 day free trial, plenty of time to get started and familiar with #stratapp.
 
     There are no set-up fees or hardware costs.  We do recommend engaging a coach (see FAQ below on implementation support).
-- question: How does annual billing work? What is the currency and contract term?
+- question: How does annual billing work?  What is the currency and contract term?
   answer: |-
-    You can choose from monthly or annual billing, payable in advance. Annual pricing is discounted 22-29% on monthly pricing.
+    You can choose from monthly or annual billing, payable in advance.  Annual pricing is discounted 22-29% on monthly pricing.
 
     Pricing shown above is US$.
 
