@@ -9,11 +9,11 @@ faqs:
     There are no set-up fees or hardware costs.  We do recommend engaging a coach (see FAQ below on implementation support).
 - question: How does annual billing work? What is the currency and contract term?
   answer: |-
-    You can choose from monthly or annual billing.
+    You can choose from monthly or annual billing, payable in advance. Annual pricing is discounted 22-29% on monthly pricing.
 
-    Pricing above is US$.
+    Pricing shown above is US$.
 
-    There is no contract term beyond the billing cycle. Annual billing is discounted 22-29% and billed yearly in advance.
+    There is no contract term beyond the billing cycle chosen by the client.
 - question: What payment methods do you accept?
   answer: |-
     We accept all major credit and debit cards, including American Express, Visa, Mastercard and Diners Club.
