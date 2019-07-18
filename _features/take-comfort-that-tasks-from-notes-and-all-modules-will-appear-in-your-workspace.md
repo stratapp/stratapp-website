@@ -2,8 +2,9 @@
 title: take comfort that tasks from notes and all modules will appear in your workspace
 seo_title: ''
 seo_description: ''
-hero_image: ''
+hero_image: "/uploads/08.png"
 date: 2019-06-20T08:00:00.000+00:00
+feature_image: ''
 
 ---
 Eliminate double handling and deliver on accountability.

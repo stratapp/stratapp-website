@@ -26,9 +26,9 @@ fields:
     maxSize: 250
   label: Hero Image
 pages:
+- _features/take-comfort-that-tasks-from-notes-and-all-modules-will-appear-in-your-workspace.md
 - _features/10-apps-in-1.md
 - _features/designed-around-what-you-know.md
-- _features/take-comfort-that-tasks-from-notes-and-all-modules-will-appear-in-your-workspace.md
 - _features/capture-ideas-on-the-go-or-crowdsource-org-wide-talent-on-ideation-challenges.md
 - _features/bring-risk-management-alive-org-wide.md
 - _features/collaborate-effectively-with-clients-partners-and-suppliers.md
