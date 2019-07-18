@@ -4,6 +4,7 @@ hero_image: ''
 seo_title: 10-apps-in-1
 seo_description: ''
 date: 2019-06-26T08:00:00.000+00:00
+feature_image: "/uploads/02.png"
 
 ---
 Up until about 2010, there was an enthusiastic rush to add as many consumer apps to your smartphone as possible. At almost every pub or restaurant gathering you’d hear someone say: “_So, what cool new apps have you discovered this week?_”
