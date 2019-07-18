@@ -3,8 +3,9 @@ title: create and assign your KPIs as a cascading tree - both strategic and day 
   day KPIs
 seo_title: ''
 seo_description: ''
-hero_image: ''
+hero_image: "/uploads/05.png"
 date: 2019-06-23T08:00:00.000+00:00
+feature_image: ''
 
 ---
 KPIs can be strategic or day to day, quantitative or qualitative.  KPIs can be viewed as their own hierarchical tree (which automatically overlay onto a Live Org Chart), indented list or balanced scorecard.
