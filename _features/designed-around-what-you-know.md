@@ -1,10 +1,10 @@
 ---
 title: designed around what you already know
-hero_image: ''
+hero_image: "/uploads/01-1.png"
 seo_title: Designed around what you already know
 seo_description: ''
 date: 2019-06-26T14:00:00.000+00:00
-feature_image: "/uploads/01.png"
+feature_image: ''
 
 ---
 With #stratapp, you do not need to learn new management practices, methodologies or terms.
