@@ -2,8 +2,9 @@
 title: watercooler conversations are great, but org-wide social has 10x impact
 seo_title: ''
 seo_description: ''
-hero_image: ''
+hero_image: "/uploads/12.png"
 date: 2019-06-13T08:00:00.000+00:00
+feature_image: "/uploads/12-1.png"
 
 ---
 There are so many great case studies on the positive impact for employee engagement, when CEOs and senior leaders drop into social conversations to offer encouragement, support and recognition.  
