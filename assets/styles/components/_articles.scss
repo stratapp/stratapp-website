@@ -1,0 +1,33 @@
+.c-article {
+
+	&__img-sm {
+	    width: 100%;
+	    height: 153px;
+	    object-fit: cover;
+	}
+	&__img-md {
+	    width: 100%;
+	    height: 142px;
+	    object-fit: cover;
+	}
+
+	&__img-lg {
+		width: 100%;
+	    height: 272px;
+	    object-fit: cover;
+	}
+}
+@include media-breakpoint-up(md) {
+	.c-article {
+
+		&__img-sm {
+		    width: 25%;
+		}
+		&__img-lg {
+		    width: 285px;
+		}
+	}
+}
+
+
+
