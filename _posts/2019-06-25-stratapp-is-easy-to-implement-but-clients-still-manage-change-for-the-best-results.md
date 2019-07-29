@@ -1,11 +1,11 @@
 ---
-date: 2019-06-19 05:23:45 +0000
+date: 2019-06-19T05:23:45.000+00:00
 layout: post
 title: "#stratapp is easy to implement, but clients still manage change for the best
   results"
 seo_title: ''
 seo_description: ''
-author: 'Ash Richardson '
+author: ''
 banner_image: "/uploads/helloquence-61189-unsplash.jpg"
 
 ---
