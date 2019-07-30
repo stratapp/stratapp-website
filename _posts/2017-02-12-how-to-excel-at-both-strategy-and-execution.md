@@ -3,7 +3,7 @@ title: how to excel at both strategy and execution
 date: 2019-06-23T05:16:06.000+00:00
 banner_image: "/uploads/nov17-17-481661418-Adam-Pretty-1024x576.jpg"
 layout: post
-author: Paul Leinwand and Joachim Rotering
+author: ''
 seo_title: ''
 seo_description: ''
 
@@ -18,4 +18,4 @@ This is exactly why #stratapp is not a strategy-only application.
 
 \#stratapp enables all leaders, regardless of their underlying skill orientation, to deliver on both strategy and execution.
 
-Source: https://hbr.org/2017/11/how-to-excel-at-both-strategy-and-execution 
+Source: https://hbr.org/2017/11/how-to-excel-at-both-strategy-and-execution
