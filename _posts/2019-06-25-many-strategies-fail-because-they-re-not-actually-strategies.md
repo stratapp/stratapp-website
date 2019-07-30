@@ -1,10 +1,10 @@
 ---
-date: 2019-06-25 05:16:06 +0000
+date: 2019-06-25T05:16:06.000+00:00
 layout: post
 title: many strategies fail because they’re not actually strategies
 seo_title: ''
 seo_description: ''
-author: Freek Vermeulen
+author: Ash Richardson
 banner_image: "/uploads/nov17-08-135629213-Lobo-Press-1024x576.jpg"
 
 ---
