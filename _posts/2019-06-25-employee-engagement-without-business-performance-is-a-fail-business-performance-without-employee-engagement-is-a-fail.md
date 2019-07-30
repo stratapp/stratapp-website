@@ -5,7 +5,7 @@ title: employee engagement without business performance is a fail; business perf
   without employee engagement is a fail.
 seo_title: ''
 seo_description: ''
-author: Anthony Moorhouse
+author: ''
 banner_image: "/uploads/Catalan human tower.jpg"
 
 ---

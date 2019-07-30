@@ -4,7 +4,7 @@ layout: post
 title: measure what matters
 seo_title: ''
 seo_description: ''
-author: John Doerr
+author: ''
 banner_image: "/uploads/measurewhatmatters-book.jpg"
 
 ---
