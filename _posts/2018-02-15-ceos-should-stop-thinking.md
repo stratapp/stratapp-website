@@ -3,7 +3,7 @@ title: CEOs should stop thinking that execution is somebody else’s job; it is 
 date: 2019-06-25T05:16:06.000+00:00
 layout: post
 banner_image: "/uploads/rogermartin.jpg"
-author: ''
+author: Ash Richardson
 seo_title: ''
 seo_description: ''
 

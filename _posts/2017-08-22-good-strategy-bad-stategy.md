@@ -3,7 +3,7 @@ title: good strategy | bad strategy
 date: 2019-06-25T05:20:06.000+00:00
 banner_image: "/uploads/good strategy bad strategy.jpg"
 layout: post
-author: ''
+author: Ash Richardson
 seo_title: ''
 seo_description: ''
 

@@ -4,7 +4,7 @@ layout: post
 title: how great leaders inspire action
 seo_title: ''
 seo_description: ''
-author: ''
+author: Ash Richardson
 banner_image: "/uploads/TED-Talks-for-Small-Business-and-Entrepreneurs.jpg"
 
 ---

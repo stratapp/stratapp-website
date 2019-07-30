@@ -5,7 +5,7 @@ title: employee engagement without business performance is a fail; business perf
   without employee engagement is a fail.
 seo_title: ''
 seo_description: ''
-author: ''
+author: Ash Richardson
 banner_image: "/uploads/Catalan human tower.jpg"
 
 ---

@@ -3,7 +3,7 @@ title: how to excel at both strategy and execution
 date: 2019-06-23T05:16:06.000+00:00
 banner_image: "/uploads/nov17-17-481661418-Adam-Pretty-1024x576.jpg"
 layout: post
-author: ''
+author: Ash Richardson
 seo_title: ''
 seo_description: ''
 

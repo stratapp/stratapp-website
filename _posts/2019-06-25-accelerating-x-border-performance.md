@@ -4,7 +4,7 @@ layout: post
 title: accelerating x-border performance
 seo_title: ''
 seo_description: ''
-author: ''
+author: Ash Richardson
 banner_image: "/uploads/thirdwave-book.jpg"
 
 ---
