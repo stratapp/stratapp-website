@@ -1,9 +1,9 @@
 ---
-title: CxO Event
-sub_heading: Brisbane
-layout: event
+title: CxO Events
+sub_heading: open to CEOs, business owners and C-level executives
+layout: event-cxo
 date: 2017-12-14T10:00:44.000+00:00
-hero_image: "/uploads/shutterstock_1015018927.jpg"
+hero_image: "/uploads/consultant_events.png"
 length: 2 hrs
 location: Verity Consulting - Verity House, 132 Wickham St, Fortitude Valley
 testimonial: "Quote Here"
@@ -14,4 +14,4 @@ quote: |-
   ##### - Renato Domini, CEO Panorama Destination
 
 ---
-Our CxO Events are the best way to learn how to take your organization to the next level: achieving org-wide alignment and collaboration like never before.
+learn about this new way of thinking and working, whilst sharing ideas with other CxOs

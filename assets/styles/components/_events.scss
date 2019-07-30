@@ -16,3 +16,188 @@
 		background-image: url('../../images/general/icon-mapmarker.svg');
 	}
 }
+.events-section {
+	&:after {
+		display: block;
+		content: " ";
+		position: absolute;
+		width: 100%;
+		height: 49%;
+		background: $bg-lightest;
+		left: 0;
+	    bottom: 0;
+	    z-index: -1;
+	    @include media-breakpoint-down(md) {
+			height: 50%;
+	    }
+	}
+}
+.events {
+    display: flex;
+    flex-direction: column;
+
+    .event-teaser {
+    	min-width: 220px;
+    	border: none;
+
+    	.card-header {
+    		border: none;
+    		padding-top: 2.125rem;
+    		padding-bottom: 2.125rem;
+    		background: $danger;
+    	}
+    	.card-body {
+    		padding: 2rem 2.5rem;
+    	}
+    	.btn {
+    		padding: 1em 2.5em;
+    	}
+    	&:nth-child(2) {
+			.card-header {
+				background: $primary;
+			}
+			.btn-danger {
+				@extend .btn-primary;
+			}
+    	}
+    
+    }
+}
+@include media-breakpoint-up(sm) {
+	.events {
+	    flex-flow: row wrap;
+	    margin-right: -15px;
+	    margin-left: -15px;
+
+		.event-teaser {
+		    display: flex;
+		    flex: 1 0 0%;
+		    flex-direction: column;
+		    margin-right: 15px;
+		    // margin-bottom: 0;
+		    margin-left: 15px;
+		}
+	}
+}
+
+
+
+.custom-list {
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+
+	&.tick {
+		margin-left: 3px;
+		li {
+			&:before{
+				content: " ";
+				display: inline-block;
+				margin-right: 3px;
+				width: 15px;
+				height: 11px;
+				color: $primary;
+				background-image: url('../../images/general/icon-tick.svg');
+				background-repeat: no-repeat;
+				background-size: 90%;
+				background-position: center center;
+			}
+		}
+	}
+	&.cross {
+		margin-left: 3px;
+		li {
+			&:before{
+				content: " ";
+				display: inline-block;
+				margin-right: 3px;
+				width: 15px;
+				height: 11px;
+				background-image: url('../../images/general/icon-cross.svg');
+				background-repeat: no-repeat;
+				background-size: 90%;
+				background-position: center center;
+			}
+		}
+	}
+	&.tick, &.cross {
+		li {
+			line-height: 1.75;
+		}
+	}
+}
+.c-numbers {
+        width: 45px;
+        height: 45px;
+        line-height: 45px;
+        margin-right: 0.4em;
+}
+
+@include media-breakpoint-up(lg) {
+	.events-hero-banner {
+		background: linear-gradient(100deg, lighten($primary, 5%) 46%, $primary 46%);
+
+		&__left {
+			padding-top: $hero-banner-section-left-padding-y;
+		    padding-bottom: $hero-banner-section-left-padding-y;
+		}
+	}
+	.arrow-left {
+		background-image: url('../../images/general/graphic-arrow.svg');
+		background-repeat: no-repeat;
+		background-size: contain;
+	    background-position: -290% center;
+	    padding-left: 15% !important;
+	}
+	.borders-left {
+		-webkit-border-top-left-radius: 20px;
+		-webkit-border-bottom-left-radius: 20px;
+		-moz-border-radius-topleft: 20px;
+		-moz-border-radius-bottomleft: 20px;
+		border-top-left-radius: 20px;
+		border-bottom-left-radius: 20px;
+	}
+	.borders-right {
+		-webkit-border-top-right-radius: 20px;
+		-webkit-border-bottom-right-radius: 20px;
+		-moz-border-radius-topright: 20px;
+		-moz-border-radius-bottomright: 20px;
+		border-top-right-radius: 20px;
+		border-bottom-right-radius: 20px;
+	}
+}
+.feature-event-image {
+	position: relative;
+	top: 120px;
+    max-width: 130%;
+    left: -100px;
+    margin-top: -60px;
+}
+
+.info-panels {
+	position: relative;
+	padding-left: 110px;
+	width: 95%;
+	&:before {
+		content: " ";
+	    display: block;
+	    width: 100px;
+	    height: 100%;
+	    position: absolute;
+	    left: 0;
+	    background-image: url('../../images/general/graphic-targets.svg');
+	    background-repeat: no-repeat;
+	    background-size: contain;
+	    background-position: center center;
+	}
+	.info-panel {
+		font-size: 1rem;
+		display: flex;
+		align-items: center;
+		justify-content: left;
+		border-radius: 20px;
+		span {
+			margin: 0;
+		}
+	}
+}

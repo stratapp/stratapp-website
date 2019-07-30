@@ -28,12 +28,19 @@ body {
 .bg-lightest {
 	background-color: $bg-lightest !important;
 }
+.bg-lightblue {
+	background: $bg-lightblue;
+}
+.bg-medblue {
+	background: $bg-mediumblue;
+}
 .bg-image {
 	// background-image: url(../images/general/header-banner-bg.png);
 	background-repeat: no-repeat;
 	background-position: 50% 50%;
 	background-size: cover;
 }
+
 .bg-primary-grad {
 	background: linear-gradient(100deg, $white 60%, rgba($primary, .2) 60%);
 }

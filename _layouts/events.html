@@ -6,64 +6,46 @@ layout: default
 {% endcomment %}
 
 
-    <section class="l-section">
+ <!--    <section class="l-section">
           <div class="container container--small text-center">
             {{ content }}
           </div>
-    </section>
+    </section> -->
     
     </div>
       
 
-     <section class="l-section" data-aos="fade-up" data-aos-delay="200">
+     <section class="l-section events-section" data-aos="fade-up" data-aos-delay="200">
 
         <div class="container">
+            
+            <div class="events text-center">
 
-          <div class="h3 text-center font-weight-bold mb-xxl">upcoming events</div>
-
-          <div class="row">
-
-           {% assign events = site.events | sort: 'date' %}
+            {% assign events = site.events | sort: 'date' %}
             {% for event in events %}
-         
-          
-                <div class="col-md-6">
-                    <div class="c-founder bg-white d-flex align-items-top rounded-sm shadow bg-primary-grad mb-5 mb-md-4">
-
-                      {% if event.hero_image and event.hero_image != "" %}
-                       <img src="{{ event.hero_image | relative_url }}" alt="{{ event.title }}" class="img-fluid rounded-circle shadow c-founder__ava">                        
-                      {% endif %}
-
-                      <div class="pl-3 pr-2 py-3 pl-lg-5 pr-lg-4 py-lg-5">
-
-                        <h6 class="font-weight-bold text-danger mb-1">{{ event.title }}</h6>
-                        
-                          <h6 class="text-primary mb-3">{{ event.sub_heading }}</h6>
-                        
-                          <div class="event-content">{{ event.content | truncatewords: 20 }}</div>
-
-                          <a class="btn btn-sm btn-primary mr-1" href="{{ event.url | absolute_url }}">More Information</a>
-
-                            <!-- Calendly link widget begin -->
-                            <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
-                            <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript"></script>
-                            <a class="btn btn-sm btn-danger event-register" href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/stratapp/{{ event.calendly }}?primary_color=056eb4'});return false;">Register Now</a>
-                            <!-- Calendly link widget end -->                        
-                        </p>
-                      </div>
+                
+                
+                  <div class="event-teaser card mb-4 shadow-lg">
+                    <div class="card-header text-white">
+                      <h2 class="my-0 mb-4 font-weight-bold">{{ event.title }}</h2>
+                      <div class="h3 mb-0 mt-2">{{ event.sub_heading }}</div>
                     </div>
-                  </div>          
+                    <div class="card-body">
+                      <p class="my-0 h5 card-title">{{ event.content }}</hp>
+                      <div class="h6 mb-0 mt-1"><a class="btn btn-sm btn-danger mr-1" href="{{ event.url | absolute_url }}">More Information</a></div>
+                    </div>
+                  </div>
 
 
               {% endfor %}
 
-              
+            </div>
 
         </div>
 
-      </div>
-
     </section>
+
+    {% include threebigchanges.html class="l-section bg-danger text-white" %}
 
 
     {% include signupform.html class="bg-dark text-white" %}
