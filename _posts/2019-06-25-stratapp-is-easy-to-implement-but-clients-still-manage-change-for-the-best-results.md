@@ -5,7 +5,7 @@ title: "#stratapp is easy to implement, but clients still manage change for the 
   results"
 seo_title: ''
 seo_description: ''
-author: ''
+author: Ash Richardson
 banner_image: "/uploads/helloquence-61189-unsplash.jpg"
 
 ---
