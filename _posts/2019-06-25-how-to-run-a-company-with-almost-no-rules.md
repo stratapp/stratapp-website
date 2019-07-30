@@ -4,7 +4,7 @@ layout: post
 title: how to run a company with (almost) no rules
 seo_title: ''
 seo_description: ''
-author: ''
+author: Ash Richardson
 banner_image: "/uploads/TED-Talks-for-Small-Business-and-Entrepreneurs.jpg"
 
 ---

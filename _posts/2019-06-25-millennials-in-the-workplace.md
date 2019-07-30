@@ -4,7 +4,7 @@ layout: post
 title: millennials in the workplace
 seo_title: ''
 seo_description: ''
-author: ''
+author: Ash Richardson
 banner_image: "/uploads/Screen Shot 2019-06-25 at 3.29.28 pm.png"
 
 ---

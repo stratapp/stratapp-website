@@ -4,7 +4,7 @@ layout: post
 title: many strategies fail because they’re not actually strategies
 seo_title: ''
 seo_description: ''
-author: ''
+author: Ash Richardson
 banner_image: "/uploads/nov17-08-135629213-Lobo-Press-1024x576.jpg"
 
 ---
