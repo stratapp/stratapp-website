@@ -32,6 +32,9 @@
 	    }
 	}
 }
+.text-caps {
+	text-transform: none !important;
+}
 .events {
     display: flex;
     flex-direction: column;
@@ -48,6 +51,9 @@
     	}
     	.card-body {
     		padding: 2rem 2.5rem;
+    		@include media-breakpoint-up(md) {
+				padding: 2rem 18%;
+    		}
     	}
     	.btn {
     		padding: 1em 2.5em;
