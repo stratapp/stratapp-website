@@ -36,7 +36,7 @@ seo_description: we are changing how leaders think about, share and collaborate 
 footer_cta: |-
   ### **join us and other CxOs**
 
-  <a href="https://calendly.com/stratapp" target="_blank" class="btn btn-danger rounded-pill">book an event</a>
+  <a href="/events" class="btn btn-danger rounded-pill">book an event</a>
 footer_image_background: "/uploads/bottom-banner-bg.png"
 feature_image: "/uploads/collaborating.jpg"
 menu:

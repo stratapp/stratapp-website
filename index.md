@@ -9,7 +9,7 @@ hero_intro: |-
   ##### a collaborative experience that aligns and engages everyone
 
   {:.mt-4 .mb-0}
-  <a href="https://calendly.com/stratapp" target="_blank" class="btn btn-danger rounded-pill">Book an event</a>
+  <a href="/events" class="btn btn-danger rounded-pill">Book an event</a>
 hero_image: "/uploads/hero-flag-man.svg"
 intro_text: |-
   {:.font-weight-bold}
@@ -17,17 +17,16 @@ intro_text: |-
   # book a CxO Event or Video Call
 
   ## open to CEOs, business owners and C-level executives <span>(limited availability)</span>
-  <a href="https://calendly.com/stratapp" target="_blank" class="btn btn-danger rounded-pill mt-3">Book an event</a>
+  <a href="/events" target="_blank" class="btn btn-danger rounded-pill mt-3">Book an event</a>
 columns_text_1: |-
   {:.font-weight-bold}
 
-  ### fortnightly <a href="https://calendly.com/stratapp" target="_blank">CxO Events</a> in Brisbane and Sydney, or a weekly Video Call most Fridays - see the product, meet a co-founder and hear from other CxOs and business owners
+  ### fortnightly <a href="/event/event-cxo/">CxO Events</a> and fortnightly <a href="/event/event-consultants/">Consultant Events</a> in Brisbane and Sydney - see the product, meet a co-founder and explore new ideas with other attendees
 columns_text_2: |-
-  Our CxO Events for CEOs, business owners and C-level executives are the best way to learn how to take your organization to the next level on this new way of thinking and working.
+  Our <a href="/event/event-cxo/">CxO Events</a> are the best way to learn how to take your organization to the next level on this new way of thinking and working.  CxO Events also provide a great forum for networking and exploring new ideas and market trends.
 
-  Our Video Calls are for CxOs and business owners unable to get to Sydney or Brisbane, or for those of you based in international time zones.  We limit these to 12 attendees, to allow plenty of opportunity for Q&A and sharing insights between attendees.
+  Our <a href="/event/event-consultants/">Consultant Events</a> zero in on how to grow your consulting practice by adding more value to clients and their employees: win more clients, on-sell more work per client and derisk the execution of what you deliver.
 
-  If you attended a CxO Event and now want to share #stratapp with other senior executives, the weekly Video Calls are an easy next step.
 features:
 - icon: "/uploads/ico-articulate.svg"
   title: articulate
