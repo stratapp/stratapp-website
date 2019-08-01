@@ -3,7 +3,7 @@ title: is anyone in your company paying attention to strategic alignment?
 date: 2019-06-22T05:16:06.000+00:00
 banner_image: "/uploads/Screen Shot 2019-06-25 at 3.15.38 pm.png"
 layout: post
-author: Ash Richardson
+author: Marten Jagers
 seo_title: ''
 seo_description: ''
 
