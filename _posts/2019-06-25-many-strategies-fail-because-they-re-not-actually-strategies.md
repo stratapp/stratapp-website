@@ -6,7 +6,7 @@ seo_title: ''
 seo_description: ''
 author: Ash Richardson
 banner_image: "/uploads/nov17-08-135629213-Lobo-Press-1024x576.jpg"
-feature_image: "/uploads/Many-Strategies-Fail.png"
+feature_image: ''
 
 ---
 _“The strategy consultants come in, do their work, and document the new strategy in a PowerPoint presentation and a weighty report. Town hall meetings are organized, employees are told to change their behavior, balanced scorecards are reformulated, and budgets are set aside to support initiatives that fit the new strategy. And then nothing happens.”_
