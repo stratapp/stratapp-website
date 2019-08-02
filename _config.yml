@@ -25,7 +25,7 @@ collections:
     permalink: "/features/:path/"
   events:
     output: true
-    permalink: "/event/:path/"
+    permalink: "/events/:path/"
 jekyll-archives:
   enabled: all
   layout: "archive"
