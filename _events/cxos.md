@@ -13,8 +13,8 @@ quote: |-
 
   ##### - Renato Domini, CEO Panorama Destination
 feature_image: "/uploads/consultant_events.png"
-seo_title: ''
-seo_description: ''
+seo_title: CxO Events
+seo_description: open to CEOs, business owners and C-level executives
 
 ---
 learn about this new way of thinking and working, whilst sharing ideas with other CxOs
