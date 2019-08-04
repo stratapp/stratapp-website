@@ -17,4 +17,4 @@ seo_title: "#stratapp CxO Events"
 seo_description: open to CEOs, business owners and C-level executives
 
 ---
-learn about this new way of thinking and working, whilst sharing ideas with other CxOs
+learn about this new way of thinking and working, whilst sharing ideas with other CxOs 
