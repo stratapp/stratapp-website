@@ -13,7 +13,7 @@ quote: |-
 
   ##### - Renato Domini, CEO Panorama Destination
 feature_image: "/uploads/consultant_events.png"
-seo_title: CxO Events
+seo_title: "#stratapp CxO Events"
 seo_description: open to CEOs, business owners and C-level executives
 
 ---
