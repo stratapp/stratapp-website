@@ -32,4 +32,5 @@ fields:
   hidden: false
   default: event
 pages:
+- _events/consultants.md
 - _events/cxos.md
