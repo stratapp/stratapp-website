@@ -31,3 +31,5 @@ fields:
   type: text
   hidden: true
   default: event
+pages:
+- _events/cxos.md
