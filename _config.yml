@@ -29,9 +29,8 @@ collections:
 jekyll-archives:
   enabled: all
   layout: "archive"
-gems:
+plugins:
   - jekyll-menus
   - jekyll-feed
   - jekyll-sitemap
-plugins:
-  - jekyll-sitemap
+  - jekyll-redirect-from
