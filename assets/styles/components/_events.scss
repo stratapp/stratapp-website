@@ -107,6 +107,10 @@
 				background-repeat: no-repeat;
 				background-size: 90%;
 				background-position: center center;
+				@include media-breakpoint-down(md) {
+					width: 20px;
+				    height: 16px;
+				}
 			}
 		}
 	}
@@ -123,12 +127,29 @@
 				background-repeat: no-repeat;
 				background-size: 90%;
 				background-position: center center;
+				@include media-breakpoint-down(md) {
+					width: 20px;
+				    height: 16px;
+				}
 			}
 		}
 	}
 	&.tick, &.cross {
 		li {
 			line-height: 1.75;
+
+		}
+	}
+	@include media-breakpoint-down(md) {
+		li {
+			min-height: 55px;
+			display: flex;
+			align-items: center;
+			.rounded-circle {
+				flex: none;
+				float: left;
+				margin: 0 0.4em 0 0 !important;
+			}
 		}
 	}
 }
@@ -137,6 +158,15 @@
         height: 45px;
         line-height: 45px;
         margin-right: 0.4em;
+}
+.row-agenda {
+	@include media-breakpoint-down(md) {
+		.rounded-circle {
+			flex: none;
+			float: left;
+			margin: 0 0.6em 0 0 !important;
+		}
+	}
 }
 
 @include media-breakpoint-up(lg) {
