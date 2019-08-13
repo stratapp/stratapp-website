@@ -10,7 +10,7 @@ hero_intro: |-
 
   {:.mt-4 .mb-0}
   <a href="/events" class="btn btn-danger rounded-pill">Book an event</a>
-hero_image: "/uploads/hero-flag-man.svg"
+hero_image: "/uploads/human_tower.svg"
 intro_text: |-
   {:.font-weight-bold}
 
