@@ -49,7 +49,7 @@ features:
 seo_title: "#stratapp | strategy execution software"
 seo_description: seamlessly execute strategy and day to day work in one place; strategy
   execution SaaS application for all roles, levels and generations
-feature_image: "/uploads/feature image - home page.JPG"
+feature_image: "/uploads/#stratapp home page.JPG"
 menu:
   navigation:
     identifier: _index
