@@ -15,4 +15,4 @@ Now, as we approach 2020, for both consumer and enterprise the trend is reversin
 
 In the small business segment, a great example of a consolidated SaaS approach is the impressive product [https://keap.com/keap](https://keap.com/keap "https://keap.com/keap"){:target="_blank"} - covering the whole cycle from managing leads, to doing the work, getting paid and staying connected, all in one app.
 
-Predicting this reversal some years ago, the founders of #stratapp planned from the outset to roll 10-apps-into-1, as the starting point. To achieve this we had to create a UX design construct that is visually and interactively consistent across the whole application. We then took it to the next level - making the 10 modules inside #stratapp seamlessly interact with each other.
+Predicting this reversal some years ago, the founders of #stratapp planned from the outset to roll 10-apps-into-1, as the starting point. To achieve this we had to create a UX design construct that is visually and interactively consistent across the whole application. We then took it to the next level - making the 10-apps-in-1 seamlessly interact with each other.
