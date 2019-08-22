@@ -6,7 +6,7 @@ seo_description: Align, engage and elevate like never before. Full features made
   for every employee.
 hero_image: ''
 date: 
-feature_image: ''
+feature_image: "/uploads/feature image - features page.JPG"
 menu:
   navigation:
     identifier: _features

@@ -26,6 +26,7 @@ fields:
     maxSize: 250
   label: Hero Image
 pages:
+- features.md
 - _features/enjoy-a-mobile-version-that-adds-real-value-keeping-you-effective-on-the-go.md
 - _features/view-a-live-global-heatmap-of-where-your-people-are-and-what-s-hot-right-now.md
 - _features/watercooler-conversations-are-great-but-org-wide-social-has-10x-impact.md
@@ -38,6 +39,5 @@ pages:
 - _features/build-your-strategy-as-cascading-tree.md
 - _features/10-apps-in-1.md
 - _features/build-kpis.md
-- features.md
 - _features/rather-than-adding-more-noise-enjoy-social-collaboration-with-context-and-structure.md
 - _features/create-and-assign-your-kpis-as-a-cascading-tree-both-strategic-and-day-to-day-kpis.md
