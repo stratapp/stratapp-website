@@ -3,8 +3,8 @@ layout: default
 ---
 
 {% comment %}
-  This layout is used to generate custom landing page layouts,
-  e.g index.md and about.md
+	This layout is used to generate custom landing page layouts,
+	e.g index.md and about.md
 {% endcomment %}
 
 
@@ -22,6 +22,9 @@ layout: default
           </div>
         </div>
       </section>
+
+     {% include explainer-video.html class="l-section bg-light video-section-front" %}
+
      {% include events.html class="l-section events-section-front" %}
       <section class="l-section bg-light c-about">
         <div class="container">
@@ -60,7 +63,9 @@ layout: default
       </section>
 
       {% include signupform.html class="bg-danger text-white" %}
+      
 
+      <a href="#explainervideo" id="introvid" class="introVid-fixed btn btn-white rounded-pill">how does it work?</a>
       
     </main>
 
