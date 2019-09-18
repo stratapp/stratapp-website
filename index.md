@@ -6,7 +6,7 @@ hero_intro: |-
 
   # seamlessly execute strategy and day to day work in one place
 
-  ##### a collaborative experience that aligns and engages everyone
+  ##### an easy to use affordable app, that aligns and engages every employee
 
   {:.mt-4 .mb-0}
   <a href="/events" class="btn btn-danger rounded-pill">Book an event</a>
