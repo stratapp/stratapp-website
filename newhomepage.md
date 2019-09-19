@@ -10,7 +10,7 @@ hero_intro: |-
 
   {:.mt-4 .mb-0}
   <a href="/events" class="btn btn-danger rounded-pill">Book an event</a> 
-  <a href="#explainervideo" class="ml-1 introVid btn btn-white rounded-pill" data-aos="fade-left" data-aos-delay="500">how does it work?</a>
+  <a href="#explainervideo" class="ml-1 introVid btn btn-white rounded-pill" data-aos="fade-left" data-aos-delay="500">how it works</a>
 hero_image: "/uploads/tower-hero.svg"
 intro_text: |-
   {:.font-weight-bold}
