@@ -1,15 +1,16 @@
 ---
-title: home
-layout: homepage
+title: newhomepage
+layout: homepage-new
 hero_intro: |-
   {:.font-weight-bold}
 
   # seamlessly execute strategy and day to day work in one place
 
-  ##### an easy to use affordable app, that aligns and engages every employee
+  ##### a collaborative experience that aligns and engages everyone
 
   {:.mt-4 .mb-0}
-  <a href="/events" class="btn btn-danger rounded-pill">Book an event</a>
+  <a href="/events" class="btn btn-danger rounded-pill">Book an event</a> 
+  <a href="#explainervideo" class="ml-1 introVid btn btn-white rounded-pill" data-aos="fade-left" data-aos-delay="500">how it works</a>
 hero_image: "/uploads/tower-hero.svg"
 intro_text: |-
   {:.font-weight-bold}
@@ -50,9 +51,5 @@ seo_title: "#stratapp | strategy execution software"
 seo_description: seamlessly execute strategy and day to day work in one place; strategy
   execution SaaS application for all roles, levels and generations
 feature_image: "/uploads/feature image - home page 2.JPG"
-menu:
-  navigation:
-    identifier: _index
-    weight: 1
 
 ---
