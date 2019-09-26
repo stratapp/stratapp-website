@@ -47,3 +47,12 @@
 		}
 	}
 }
+
+#explainervideo-popup {
+	iframe {
+		max-width: 100%;
+		@include media-breakpoint-down(md) {
+			height: 300px;
+		}
+	}
+}
