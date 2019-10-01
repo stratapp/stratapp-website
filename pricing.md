@@ -42,7 +42,7 @@ faqs:
     No problem, there are no termination fees.
 
     In future releases we will be adding APIs for you to link your data to BI tools.
-seo_title: "#stratapp pricing | achieve org-wide collaboration"
+seo_title: "#stratapp pricing | strategy software that achieves genuine org-wide collaboration"
 seo_description: affordable SaaS pricing, with full features available to every employee
 quote: |-
   #### "Our industry is going through massive change.  #stratapp is at the core of our response, connecting our talent across four countries, aligning all of us in real time."
@@ -57,6 +57,6 @@ menu:
 ---
 {:.font-weight-bold}
 
-### achieve genuine org-wide collaboration
+### strategy software that achieves genuine org-wide collaboration
 
-##### affordable pricing, with full features available to every employee
+##### affordable pricing, with full features available to every employee - start executing strategy sooner. 
