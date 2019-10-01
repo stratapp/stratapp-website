@@ -15,6 +15,6 @@ menu:
 ---
 {:.font-weight-bold}
 
-### align, engage and elevate like never before
+### build cascading strategies, engage employees and achieve OKRs like never before
 
-##### don't send employees to 10 different apps, #stratapp is 10-apps-in-1
+##### Streamlined strategy software delivering execution without the noise of 10 apps - #stratapp is 10-apps-in-1
