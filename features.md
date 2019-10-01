@@ -2,8 +2,8 @@
 title: features
 layout: features
 seo_title: "#stratapp features | 10 apps in 1"
-seo_description: Align, engage and elevate like never before. Full features made available
-  for every employee.
+seo_description: 'Software that seamlessly combines execution of strategy, goals,
+  kpis, OKRs, collaboration and day to day work. #stratapp is 10-apps-in-1'
 hero_image: ''
 date: 
 feature_image: "/uploads/feature image - features page-1.JPG"
