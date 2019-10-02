@@ -3,12 +3,14 @@ date: 2019-06-19T05:23:45.000+00:00
 layout: post
 title: "#stratapp is easy to implement, but clients still manage change for the best
   results"
-seo_title: ''
+seo_title: Stratapp makes Strategy execution and collaboration work out of the box
 seo_description: ''
 author: Ash Richardson
 banner_image: "/uploads/helloquence-61189-unsplash.jpg"
 
 ---
+**#stratapp makes Strategy execution and collaboration work out of the box**
+
 SaaS product companies typically lock their clients into a prepaid contract, then leave the client to figure out the implementation by themselves, or with ‘_preferred partners_’.
 
 Their approach is usually hands-off and justified as building a scalable operating model. That is, most SaaS companies see their core business as scaling lead generation, onboarding and viral growth, alongside ongoing development.
