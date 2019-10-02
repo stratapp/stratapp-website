@@ -31,8 +31,8 @@ section_text: |-
   Your time-to-value on #stratapp is days - not months, quarters or years.
 section_image: "/uploads/collaborating.jpg"
 seo_title: strategy software for all roles, levels and generations
-seo_description: we are changing how leaders think about, share and collaborate on
-  executing strategy and day-to-day work
+seo_description: "#stratapp is strategy software that’s changing how leaders think
+  about, share and collaborate on executing strategy and day-to-day work"
 footer_cta: |-
   ### **join us and other CxOs**
 
@@ -49,4 +49,4 @@ menu:
 
 ### we are changing how leaders think about, share and collaborate on executing strategy and day-to-day work
 
-##### bringing all levels, roles and generations on the same journey
+##### bringing all levels, roles and generations on the same journey - strategy execution software that achieves genuine org-wide collaboration and results
