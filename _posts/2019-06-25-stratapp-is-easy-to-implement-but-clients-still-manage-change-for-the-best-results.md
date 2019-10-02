@@ -9,7 +9,7 @@ author: Ash Richardson
 banner_image: "/uploads/helloquence-61189-unsplash.jpg"
 
 ---
-**#stratapp makes Strategy execution and collaboration work out of the box**
+**#stratapp makes Strategy execution and collaboration work out of the box.**
 
 SaaS product companies typically lock their clients into a prepaid contract, then leave the client to figure out the implementation by themselves, or with ‘_preferred partners_’.
 
