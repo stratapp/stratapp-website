@@ -4,7 +4,9 @@ layout: post
 title: "#stratapp is easy to implement, but clients still manage change for the best
   results"
 seo_title: Stratapp makes Strategy execution and collaboration work out of the box
-seo_description: ''
+seo_description: " \n#stratapp is configured to work ‘out of the box’. The client
+  can focus their energy and resources on proactively managing change and getting
+  their teams fully engaged on what’s possible."
 author: Ash Richardson
 banner_image: "/uploads/helloquence-61189-unsplash.jpg"
 
