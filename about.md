@@ -47,6 +47,6 @@ menu:
 ---
 {:.font-weight-bold}
 
-### we are changing how leaders think about, share and collaborate on executing strategy and day-to-day work
+### we are changing how leaders think about, share and collaborate on executing strategy and day-to-day work 
 
 ##### bringing all levels, roles and generations on the same journey - strategy execution software that achieves genuine org-wide collaboration and results
