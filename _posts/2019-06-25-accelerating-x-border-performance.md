@@ -2,12 +2,15 @@
 date: 2019-06-15T05:30:25.000+00:00
 layout: post
 title: accelerating x-border performance
-seo_title: ''
-seo_description: ''
+seo_title: empower offshoring and align global teams
+seo_description: "#stratapp empowers x-border strategic alignment and effective day
+  to day execution across different time zones, geographies and cultures"
 author: Ash Richardson
 banner_image: "/uploads/thirdwave-book.jpg"
 
 ---
+## #stratapp empowers offshoring and aligns everyone to the same strategy and goals.
+
 With so much hype on technology innovation, such as robotics and artificial intelligence, it is easy to overlook the massive ground shift taking place on org design and employment. Teams are fast becoming a mix of onshore and offshore resources, that work together as if they were sitting under the same roof.
 
 Historically offshoring was only accessible to large corporates, undertaken predominantly as outsourcing discrete functions and processes. Hence the rise of call centers and large IT support teams in India since the 1980s, with somewhat variable outcomes for end customers.
