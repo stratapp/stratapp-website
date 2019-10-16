@@ -2,12 +2,15 @@
 date: 2019-06-17T05:27:40.000+00:00
 layout: post
 title: how great leaders inspire action
-seo_title: ''
-seo_description: ''
+seo_title: stratapp incorporates the ‘why’ into strategy execution
+seo_description: 'Simon Senek’s ‘why’ TED talk really resonated with #stratapp to
+  the point where our strategy module includes a ''Why'' page. '
 author: Ash Richardson
 banner_image: "/uploads/TED-Talks-for-Small-Business-and-Entrepreneurs.jpg"
 
 ---
+## #stratapp incorporates the ‘why’ into strategy execution.
+
 _“People don’t buy what you do, they buy why you do it. And what you do simply proves what you believe.”_
 
 Simon Sinek has become a global phenomenon since this TED talk.
