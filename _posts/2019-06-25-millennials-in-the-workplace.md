@@ -2,12 +2,15 @@
 date: 2019-06-16T05:28:22.000+00:00
 layout: post
 title: millennials in the workplace
-seo_title: ''
-seo_description: ''
+seo_title: 'Gen-Y and #stratapp'
+seo_description: 'For Gen Y #stratapp makes it easy to contribute to the work of others
+  and to see exactly where they fit in with what the organization is trying to achieve.'
 author: Ash Richardson
 banner_image: "/uploads/Screen Shot 2019-06-25 at 3.29.28 pm.png"
 
 ---
+## #stratapp’s delivery of real-time objectives and key results are a boon to Gen-Y
+
 At the link below is an excellent interview with Simon Sinek on Inside Quest.
 
 In our view, the next generation workforce are just magic, a breath of fresh air. They are all about collaboration and interaction. They don’t mind sharing real time drafts of work in progress. They hate pretending to work and they don’t go looking for work that doesn’t make sense. Contrary to us older folks, they actually love transparency and accountability. They just want it to be real. Not vague goals or ambiguous roles. They want clarity.
