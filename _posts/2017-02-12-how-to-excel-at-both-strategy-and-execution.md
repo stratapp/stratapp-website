@@ -4,10 +4,14 @@ date: 2019-06-23T05:16:06.000+00:00
 banner_image: "/uploads/nov17-17-481661418-Adam-Pretty-1024x576.jpg"
 layout: post
 author: Ash Richardson
-seo_title: ''
-seo_description: ''
+seo_title: "#stratapp enables strategic vision"
+seo_description: 'a bold vision needs to include both a very ambitious destination
+  and a well-conceived path for execution that will get you there. #stratapp enables
+  this vision.'
 
 ---
+## Strategy planning software that connects people to goals & closes the strategy-to-execution gap.
+
 “According to a global survey of 700 executives across a variety of industries, conducted by the strategy consulting division of PwC, only 8% of company leaders were said to excel at both strategy and execution.”
 
 “...a bold vision needs to include both a very ambitious destination and a well-conceived path for execution that will get you there.“
