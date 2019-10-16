@@ -2,13 +2,17 @@
 date: 2019-06-25T05:16:06.000+00:00
 layout: post
 title: many strategies fail because they’re not actually strategies
-seo_title: ''
-seo_description: ''
+seo_title: drive clarity in strategic choices
+seo_description: 'static strategy docs are relics of the past. When you start to articulate
+  your strategy inside #stratapp, the transparency and tree hierarchy naturally drives
+  clarity in strategic choices.'
 author: Ash Richardson
 banner_image: "/uploads/nov17-08-135629213-Lobo-Press-1024x576.jpg"
 feature_image: ''
 
 ---
+## #stratapp connects your goals, okrs and strategy to people, delivering a clear strategic direction.
+
 _“The strategy consultants come in, do their work, and document the new strategy in a PowerPoint presentation and a weighty report. Town hall meetings are organized, employees are told to change their behavior, balanced scorecards are reformulated, and budgets are set aside to support initiatives that fit the new strategy. And then nothing happens.”_
 
 That’s been the way for the last 30 years. Static strategy documents that tend to be communicated top-down and tied to stretch, reasonable or conservative measures/KPIs.
