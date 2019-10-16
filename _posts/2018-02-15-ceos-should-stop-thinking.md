@@ -4,10 +4,14 @@ date: 2019-06-25T05:16:06.000+00:00
 layout: post
 banner_image: "/uploads/rogermartin.jpg"
 author: Ash Richardson
-seo_title: ''
-seo_description: ''
+seo_title: enable strategic thinking and decisions daily
+seo_description: "#stratapp enables the process of strategic decisions, evolving strategy
+  and learning from execution with real-time line-of-sight of strategy, KPIs, day
+  to day work and  culture. "
 
 ---
+## Cascading strategy throughout an organisation is easy to implement with #stratapp
+
 Professor Roger Martin is a legend on strategy.  His thinking plays well to #stratapp, the world’s first org-wide strategy application; that includes execution of both strategy and day to day work, alongside social collaboration with context and structure.
 
 “In my 36 years of working with companies, I still haven’t seen an example of a strategy that was so tightly specified that the people “executing” it didn’t have to make major choices—choices as tricky and important as the so-called “strategy choices” themselves.”
