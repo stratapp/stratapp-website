@@ -2,12 +2,17 @@
 date: 2019-06-20T05:18:37.000+00:00
 layout: post
 title: measure what matters
-seo_title: ''
-seo_description: ''
+seo_title: Easily track and Implement OKR's
+seo_description: 'With #stratapp, leaders deliver org-wide clarity on the why, direction
+  and goals, coupled with real-time collaboration and transparency on execution. This
+  helps the CEO to bring everyone at all levels in the organization along the same
+  journey.'
 author: Ash Richardson
 banner_image: "/uploads/measurewhatmatters-book.jpg"
 
 ---
+## Objective and key results (OKRs) can be easily implemented within #stratapp
+
 John Doerr’s book and life’s work have given all of us access to the clear thinking and progressive management practices of Intel’s Andy Grove, who was decades ahead of his time.
 
 Google has applied the OKR methodology every quarter since 1999, evolving it to two types of OKRs - committed and aspirational. Google expects 100% results on Committed OKRs and about 70% on Aspirational OKRs, the latter deliberately stretching the capabilities of individuals and the organization.
