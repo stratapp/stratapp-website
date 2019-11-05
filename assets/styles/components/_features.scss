@@ -70,3 +70,19 @@ $feature-img-size: 220px;
 		padding-bottom: $feature-section-padding-y;
 	}
 }
+
+
+.stratappfeatures {
+	.feature-single {
+		ul {
+			margin-left: 0;
+			padding-left: 1em;
+			li {
+				margin-bottom: 0.5em;
+			}
+		}
+		.card-body {
+			border-radius: 0 0 calc(.9375rem - 0px) calc(.9375rem - 0px);
+		}
+	}
+}

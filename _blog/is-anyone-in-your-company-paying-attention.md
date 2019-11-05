@@ -4,6 +4,9 @@ date: 2019-06-22T05:16:06.000+00:00
 banner_image: "/uploads/Screen Shot 2019-06-25 at 3.15.38 pm.png"
 layout: blog
 author: Marten Jagers
+category:
+- tutorials
+- explainers
 seo_title: 'Real Time Strategy & Transparency with #stratapp'
 seo_description: "#stratapp delivers real-time transparency and collaboration at all
   levels of the organisation, within a context of strategy and day to day execution.

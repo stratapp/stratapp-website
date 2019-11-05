@@ -2,85 +2,105 @@
 layout: default
 ---
 {% comment %}
-    A general page layout. Used by default for all content on the site.
+	This layout is used by the documents in the _posts/ collection
 {% endcomment %}
 
+</div>
+<section class="l-section pt-5">
+  
+    <div class="container container--extra-small"><a href="/blog" class="text-dark d-inline-block mb-4">< back to blog</a>
 
- 		<section class="l-section">
-          <div class="container container--small text-center">
-            {{ content }}
-          </div>
-        </section>
-		
-		</div>
+          <h1 class="h3 text-primary font-weight-bold mb-3">{{ page.title }}</h1>
+          
+          <h2 class="h4 mb-3">{{ page.sub_heading }}</h2>
 
-		<section class="l-section l-section-mt-n pt-0">
-        	<div class="container container--small">
-		
-		<!-- Hero Article ---> 
-		{% for post in site.blog limit:1 %}
-		<div class="c-article bg-white d-md-flex align-items-md-center rounded-lg overflow-hidden shadow-lg mb-5" data-aos="flip-up" data-aos-delay="100">
-			
-			{% if post.banner_image and post.banner_image != "" %}
-                <img src="{{ post.banner_image | absolute_url }}" alt="{{ post.title }}" class="c-article__img-lg">
-            {% else %}
-                <img src="{{ "/img/placeholder.png" | absolute_url }}" alt="{{ post.title }}">
-            {% endif %}
+          {% if page.video_id and page.video_id != "" %}
 
-			<div class="px-4 px-lg-5 py-3">
-		          <h4 class="font-weight-bold text-primary mb-3"><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h4>
-		          <p class="h6 mb-1">{{ post.content | strip_html | truncatewords: 40 }}</p>
-		          <a class="text-primary" href="{{ post.url | absolute_url }}">keep reading</a>
-		    </div>
-		</div>
-		{% endfor %}
+              <div class="video text-center mb-4">
 
-		<!-- 3 Col Section ---> 
-		<div class="row flex-column flex-md-row">
-		{% for post in site.blog offset:1 limit:3 %}
-		<div class="col" data-aos="flip-up" data-aos-delay="150">
-			<div class="c-article bg-white rounded-lg overflow-hidden shadow-lg mb-5">
+                      <div id="videoContainer">
+                        <iframe id="explainer-video" class="video" width="850" height="483" src="https://www.youtube.com/embed/{{ page.video_id }}?wmode=transparent&rel=0" frameborder="0" allowfullscreen wmode="Opaque"></iframe>
+                      </div>
+                      
+            </div>
+        
+          {% else %}
 
-				{% if post.banner_image and post.banner_image != "" %}
-					<img src="{{ post.banner_image | absolute_url }}" alt="{{ post.title }}" class="c-article__img-md">
-				{% else %}
-				    <img src="{{ "/img/placeholder.png" | absolute_url }}" alt="{{ post.title }}">
-				{% endif %}
-				<div class="px-4 py-3">
-			          <h5 class="font-weight-bold text-primary mb-3"><a href="{{ post.url | absolute_url }}">{{ post.title | truncate: 50 }}</a></h5>
-			          <p class="mb-0">{{ post.content | strip_html | truncatewords: 20 }}... <a class="text-primary" href="{{ post.url | absolute_url }}">keep reading</a></p>
-			          
-			    </div>
-			</div>
-		</div>
-		{% endfor %}
-		</div>
+          {% if page.banner_image and page.banner_image != "" %}
+              <img src="{{ page.banner_image | absolute_url }}" alt="{{ page.title }}" class="img-fluid rounded-lg mb-4 mb-sm-5">
+          {% else %}
+              <img src="{{ "/img/placeholder.png" | absolute_url }}" alt="{{ page.title }}" class="img-fluid rounded-lg mb-4 mb-sm-5">
+          {% endif %}
+          
+          {% endif %}
 
-		<div class="row flex-column flex-sm-row">
-		{% for post in site.blog offset:4 %}
-		<div class="col-lg-6" data-aos="flip-up" data-aos-delay="200">
-              <div class="c-article bg-white d-md-flex align-items-md-center rounded-lg overflow-hidden shadow-lg mb-5">
+          {{ content }}
+          
+          <hr>
 
-				{% if post.banner_image and post.banner_image != "" %}
-					<img src="{{ post.banner_image | absolute_url }}" alt="{{ post.title }}" class="c-article__img-sm">
-				{% else %}
-				    <img src="{{ "/img/placeholder.png" | absolute_url }}" alt="{{ post.title }}">
-				{% endif %}
+           {% for item in page.author %}
 
-				<div class="px-4 py-3">
-			          <h6 class="font-weight-bold text-primary mb-3"><a href="{{ post.url | absolute_url }}">{{ post.title | truncate: 60 }}</a></h6>
-			          <p class="mb-0">{{ post.content | strip_html | truncatewords: 12 }}... <a class="text-primary" href="{{ post.url | absolute_url }}">keep reading</a></p>
-			          
-			    </div>
-			</div>
-		</div>
-		{% endfor %}
-		</div>
-	</div>
-	</section>
-	
-	{% include events.html class="l-section bg-light events-section-front" %}
+            {% assign people = site.people | where:"path", item %}
+                {% for person in people %}
 
-	{% include signupform.html class="bg-dark text-white" %}
+                  <div class="col-md-12" >
+                    <div class="c-founder bg-white d-flex align-items-top rounded-sm shadow bg-primary-grad mb-5 mb-md-0">
+                      <img alt="{{ person.title }}" src="{{ person.thumbnail | absolute_url }}" class="img-fluid rounded-circle shadow c-founder__ava">
+                      <div class="pl-3 pr-2 py-3 pl-lg-5 pr-lg-4 py-lg-5">
+                        <h5 class="font-weight-bold text-danger mb-1">Author: {{ person.title }}</h5>
+                        {% if person.sub_heading %}
+                          <h6 class="text-primary mb-3">{{ person.sub_heading }}</h6>
+                        {% endif %}
+                        <p>{{ person.content }}</p>
+                        <p class="mb-0">
+                         {% if person.linkedin %}
+                          <a href="{{ person.linkedin }}" target="_blank"><img src="/images/content/ico-linkedin.svg" alt="" class="mr-2"></a>
+                         {% endif %}
+                         {% if person.email %}
+                          <a href="mailto:{{ person.email }}" target="_blank"><img src="/images/content/ico-email.svg" alt=""></a>
+                        {% endif %}
+                        </p>
+                      </div>
+                    </div>
+                  </div>
 
-	{% include explainer-video-popup.html class="explainer-video-popup" %}
+               {% endfor %}
+            {% endfor %}         
+
+        </div>
+
+</section>
+{% if page.related_posts.size > 0 %}
+<section class="l-section bg-light">
+  <div class="container container--small">
+    <div class="h3 text-center font-weight-bold mb-xxl">related articles</div>
+    <div class="row flex-column flex-sm-row">
+      {% for item in page.related_posts %}
+            {% assign posts = site.posts | where:"path", item %}
+              {% for post in posts %}
+              <div class="col-lg-6">
+                <div class="c-article bg-white d-md-flex align-items-md-center rounded-lg overflow-hidden shadow-lg mb-5">
+                   {% if post.banner_image and post.banner_image != "" %}
+                    <img src="{{ post.banner_image | absolute_url }}" alt="{{ post.title }}" class="c-article__img-sm">
+                  {% else %}
+                    <img src="{{ "/img/placeholder.png" | absolute_url }}" alt="{{ post.title }}">
+                  {% endif %}
+                  <div class="px-4 py-3">
+                    <h6 class="font-weight-bold text-primary mb-3">{{ post.title }}</h6>
+                    <p class="mb-0">{{ post.content | truncatewords: 15 }}... <a class="text-primary" href="{{ post.url | absolute_url }}">keep reading</a></p>
+                  </div>
+                </div>
+              </div>
+            {% endfor %}
+      {% endfor %}
+    </div>
+  </div>
+</section>
+{% endif %}
+
+{% include events.html class="l-section bg-light events-section-front" %}
+
+{% include signupform.html class="bg-dark text-white" %}
+
+{% include explainer-video-popup.html class="explainer-video-popup" %}
+      

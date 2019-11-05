@@ -4,6 +4,9 @@ date: 2019-06-25T05:20:06.000+00:00
 banner_image: "/uploads/good strategy bad strategy.jpg"
 layout: blog
 author: Ash Richardson
+category:
+- tutorials
+- videos
 seo_title: ''
 seo_description: ''
 
