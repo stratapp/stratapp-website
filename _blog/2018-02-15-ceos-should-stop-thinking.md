@@ -3,11 +3,15 @@ title: CEOs should stop thinking that execution is somebody else’s job; it is 
 date: 2019-06-25T05:16:06.000+00:00
 layout: blog
 banner_image: "/uploads/rogermartin.jpg"
-author: Ash Richardson
+author: _people/ash-richardson.md
 seo_title: enable strategic thinking and decisions daily
 seo_description: "#stratapp enables the process of strategic decisions, evolving strategy
   and learning from execution with real-time line-of-sight of strategy, KPIs, day
   to day work and  culture. "
+category:
+- tutorials
+- explainers
+video_id: U30Yx4H3ctM
 
 ---
 ## Cascading strategy throughout an organisation is easy to implement with #stratapp
