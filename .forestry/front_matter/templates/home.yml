@@ -81,5 +81,27 @@ fields:
     max: 
     labelField: 
   label: Features
+- name: stratapp_features
+  type: field_group_list
+  fields:
+  - name: feature_title
+    type: text
+    config:
+      required: false
+    label: Feature Title
+  - name: feature_text
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: true
+      schema:
+        format: markdown
+    label: Feature Text
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Stratapp Features
 pages:
 - index.md
