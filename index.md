@@ -1,16 +1,11 @@
 ---
 title: newhomepage
 layout: homepage-new
-hero_intro: |-
-  {:.font-weight-bold}
-
-  # seamlessly execute strategy and day to day work in one place
-
-  ##### a collaborative experience that aligns and engages everyone
-
-  {:.mt-4 .mb-0}
-  <a href="/events" class="btn btn-danger rounded-pill">Book an event</a> 
-  <a href="#explainervideo" class="ml-1 introVid btn btn-white rounded-pill" data-aos="fade-left" data-aos-delay="500">how it works</a>
+hero_intro: "{:.font-weight-bold}\n\n# seamlessly execute strategy and day to day
+  work in one place\n\n##### a collaborative experience that aligns and engages everyone\n\n{:.mt-4
+  .mb-0}\n<a href=\"/events\" class=\"btn btn-danger rounded-pill\">Book an event</a>
+  \n<a href=\"#explainervideo\" class=\"ml-1 introVid btn btn-white rounded-pill\"
+  data-aos=\"fade-left\" data-aos-delay=\"500\">how it works</a>"
 hero_image: "/uploads/tower-hero.svg"
 intro_text: |-
   {:.font-weight-bold}
@@ -51,5 +46,25 @@ seo_title: "#stratapp | strategy execution software"
 seo_description: seamlessly execute strategy and day to day work in one place; strategy
   execution SaaS application for all roles, levels and generations
 feature_image: "/uploads/feature image - home page 2.JPG"
+stratapp_features:
+- feature_title: culture elevation
+  feature_text: |-
+    * radical transparency and trust
+    * real-time org-wide collaboration
+    * way more than just a job, at all levels
+- feature_title: next gen ready
+  feature_text: |-
+    * by 2025, 75% of employees are y-gen
+    * asking y-gen to collaborate via email, is like asking the rest of us to go back to using fax machines
+- feature_title: employee productivity
+  feature_text: |-
+    * 15-30% increase in productivity
+    * provide employees tools to succeed
+    * attract and retain the best talent
+- feature_title: business performance
+  feature_text: |-
+    * 15-50% increase in business valuation
+    * de-risk and make the business agile
+    * execute strategy above expectations
 
 ---
