@@ -19,6 +19,12 @@ sections:
   create: all
   templates:
   - posts
+- type: jekyll-posts
+  path: _blog
+  label: Blog
+  create: all
+  templates:
+  - blog
 - type: directory
   path: _people
   label: People

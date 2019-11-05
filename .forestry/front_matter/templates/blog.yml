@@ -1,0 +1,27 @@
+---
+label: Blog
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: Title
+- name: seo
+  type: include
+  config: {}
+  template: seo
+  label: 'SEO '
+- type: datetime
+  name: date
+  label: Date
+  default: now
+- type: text
+  name: author
+  label: Author
+- type: file
+  name: banner_image
+  label: Hero Image
+- type: text
+  name: layout
+  label: layout
+  hidden: true
+  default: post
