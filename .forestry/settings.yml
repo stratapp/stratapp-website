@@ -15,12 +15,6 @@ sections:
   templates:
   - features
 - type: jekyll-posts
-  label: Posts
-  create: all
-  templates:
-  - posts
-- type: jekyll-posts
-  path: _blog
   label: Blog
   create: all
   templates:
