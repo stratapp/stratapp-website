@@ -19,10 +19,11 @@ sections:
   create: all
   templates:
   - posts
-- type: jekyll-posts
+- type: directory
   path: _blog
   label: Blog
   create: all
+  match: "**/*"
   templates:
   - blog
 - type: directory
