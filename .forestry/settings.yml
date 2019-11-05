@@ -23,7 +23,6 @@ sections:
   path: _blog
   label: Blog
   create: all
-  match: "**/*"
   templates:
   - blog
 - type: directory
