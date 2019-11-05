@@ -13,12 +13,10 @@ category:
 - explainers
 video_id: U30Yx4H3ctM
 feature_image: "/uploads/shutterstock_1037552143.jpg"
+sub_heading: 'Cascading strategy throughout an organisation is easy to implement with
+  #stratapp'
 
 ---
-## Cascading strategy throughout an organisation is easy to implement with #stratapp
-
-![](/uploads/shutterstock_1015018927.jpg)
-
 Professor Roger Martin is a legend on strategy.  His thinking plays well to #stratapp, the world’s first org-wide strategy application; that includes execution of both strategy and day to day work, alongside social collaboration with context and structure.
 
 “In my 36 years of working with companies, I still haven’t seen an example of a strategy that was so tightly specified that the people “executing” it didn’t have to make major choices—choices as tricky and important as the so-called “strategy choices” themselves.”
