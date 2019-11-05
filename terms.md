@@ -6,7 +6,7 @@ seo_description: 'These Terms apply to all visitors, users and others who access
 feature_image: ''
 
 ---
-Please read these Terms and Conditions (&quot;Terms&quot;, &quot;Terms and Conditions&quot;) carefully before using the [https://stratapp.ai](https://stratapp.ai) website and the #stratapp applications (the &quot;Service&quot;) operated by #stratapp Tradings Pty Ltd (&quot;#stratapp&quot;, &quot;us&quot;, &quot;we&quot;, or &quot;our&quot;).
+Please read these Terms and Conditions ("Terms", "Terms and Conditions") carefully before using the [https://stratapp.ai](https://stratapp.ai) website and the #stratapp applications (the "Service") operated by #stratapp Tradings Pty Ltd ("#stratapp", "us", "we", or "our").
 
 Your access to and use of the Service is conditioned on your acceptance of and compliance with these Terms.
 
@@ -16,7 +16,7 @@ By accessing or using the Service, you agree to be bound by these Terms. If you 
 
 **Subscriptions**
 
-Some parts of the Service are billed on a subscription basis (&quot;Subscription(s)&quot;). You will be billed in advance on a recurring and periodic basis (&quot;Billing Cycle&quot;). Billing cycles are set either on a monthly or annual basis, depending on the type of subscription plan you select when purchasing a Subscription.
+Some parts of the Service are billed on a subscription basis ("Subscription(s)"). You will be billed in advance on a recurring and periodic basis ("Billing Cycle"). Billing cycles are set either on a monthly or annual basis, depending on the type of subscription plan you select when purchasing a Subscription.
 
 At the end of each Billing Cycle, your Subscription will automatically renew under the exact same conditions unless you cancel it or #stratapp cancels it. You may cancel your Subscription renewal either through your online account management page or by contacting the #stratapp customer support team.
 
@@ -26,7 +26,7 @@ Should automatic billing fail to occur for any reason, #stratapp will issue an e
 
 **Free Trial**
 
-#stratapp may, at its sole discretion, offer a Subscription with a free trial for a limited period of time (&quot;Free Trial&quot;).
+\#stratapp may, at its sole discretion, offer a Subscription with a free trial for a limited period of time ("Free Trial").
 
 You may be required to enter your billing information in order to sign up for the Free Trial.
 
@@ -36,9 +36,9 @@ At any time and without notice, #stratapp reserves the right to (i) modify the t
 
 **Fee Changes**
 
-#stratapp, in its sole discretion and at any time, may modify the Subscription fees for the Subscriptions. Any Subscription fee change will become effective at the end of the then-current Billing Cycle.
+\#stratapp, in its sole discretion and at any time, may modify the Subscription fees for the Subscriptions. Any Subscription fee change will become effective at the end of the then-current Billing Cycle.
 
-#stratapp will provide you with reasonable prior notice of any change in Subscription fees to give you an opportunity to terminate your Subscription before such change becomes effective.
+\#stratapp will provide you with reasonable prior notice of any change in Subscription fees to give you an opportunity to terminate your Subscription before such change becomes effective.
 
 Your continued use of the Service after the Subscription fee change comes into effect constitutes your agreement to pay the modified Subscription fee amount.
 
@@ -48,7 +48,7 @@ Except when required by law, paid Subscription fees are non-refundable.
 
 **Content**
 
-Our Service allows you to post, link, store, share and otherwise make available certain information, text, graphics, videos, or other material (&quot;Content&quot;). You are responsible for the Content that you post to the Service, including its legality, reliability, and appropriateness.
+Our Service allows you to post, link, store, share and otherwise make available certain information, text, graphics, videos, or other material ("Content"). You are responsible for the Content that you post to the Service, including its legality, reliability, and appropriateness.
 
 By posting Content to the Service, you grant us the right and license to use, modify, perform, display, reproduce, and distribute such Content on and through the Service. You retain any and all of your rights to any Content you submit, post or display on or through the Service and you are responsible for protecting those rights.
 
@@ -84,7 +84,7 @@ Any opinions, advice, statements, services, offers, or other information or cont
 
 Our Service may contain links to third-party web sites or services that are not owned or controlled by #stratapp.
 
-#stratapp has no control over, and assumes no responsibility for, the content, privacy policies, or practices of any third party web sites or services. You further acknowledge and agree that #stratapp shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with use of or reliance on any such content, goods or services available on or through any such web sites or services.
+\#stratapp has no control over, and assumes no responsibility for, the content, privacy policies, or practices of any third party web sites or services. You further acknowledge and agree that #stratapp shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with use of or reliance on any such content, goods or services available on or through any such web sites or services.
 
 We only provide links to external websites as a convenience, and the inclusion of such a link to external websites do not imply our endorsement of those websites. You acknowledge and agree that when you access other websites on the Internet, you do so at your own risk.
 
@@ -112,7 +112,7 @@ This indemnification section survives the expiration of your registration, and a
 
 You agree that we shall not be liable for any damages suffered as a result of using the Service, copying, distributing, or downloading Content from the Service.
 
-In no event shall we be liable for any indirect, punitive, special, incidental or consequential damage (including loss of business, revenue, profits, use, privacy, data, goodwill or other economic advantage) however it arises, whether for breach of contract or in tort, even if it has been previously advised of the possibility of such damage.
+In no event shall we be liable for any indirect, punitive, special, incidental or consequential damage (including loss of business, revenue, profits, use, privacy, data, goodwill or other economic advantage) however it arises, whether for breach of contract or in tort, even if it has been previously advised of the possibility of such damage. The potential business outcomes and benefits included on this Website, and other communications from us, are subject to a range of factors beyond the product itself. For example, client side leadership, the quality of implementation and end user adoption, as well as Porter's Five Forces as they apply to each client.
 
 You have sole responsibility for adequate security protection and backup of data and/or equipment used in connection with your usage of the Service and will not make a claim against for lost data, re-run time, inaccurate instruction, work delays or lost profits resulting from the use of the Service. You must not assign or otherwise dispose of your account to any other person.
 
@@ -120,9 +120,9 @@ Without limiting the foregoing, in no event will our aggregate liability to you 
 
 **Disclaimer**
 
-Your use of the Service is at your sole risk. The Service is provided on an &quot;AS IS&quot; and &quot;AS AVAILABLE&quot; basis. The Service is provided without warranties of any kind, whether express or implied, including, but not limited to, implied warranties of merchantability, fitness for a particular purpose, non-infringement or course of performance.
+Your use of the Service is at your sole risk. The Service is provided on an "AS IS" and "AS AVAILABLE" basis. The Service is provided without warranties of any kind, whether express or implied, including, but not limited to, implied warranties of merchantability, fitness for a particular purpose, non-infringement or course of performance.
 
-#stratapp its subsidiaries, affiliates, and its licensors do not warrant that a) the Service will function uninterrupted, secure or available at any particular time or location; b) any errors or defects will be corrected; c) the Service is free of viruses or other harmful components; or d) the results of using the Service will meet your requirements.
+\#stratapp its subsidiaries, affiliates, and its licensors do not warrant that a) the Service will function uninterrupted, secure or available at any particular time or location; b) any errors or defects will be corrected; c) the Service is free of viruses or other harmful components; or d) the results of using the Service will meet your requirements.
 
 This disclaimer of liability applies to any damages or injury caused by any failure of performance, error, omission, interruption, deletion, defect, delay in operation or transmission, computer virus, communication line failure, theft, or destruction or unauthorized access or, alteration of or use of record in connection with the use or operation of the Service, whether for breach of contract, tortious behaviour, negligence or any other cause of action.
 
