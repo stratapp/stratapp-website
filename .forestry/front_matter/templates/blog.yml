@@ -14,9 +14,22 @@ fields:
   name: date
   label: Date
   default: now
-- type: text
-  name: author
+- name: author
+  type: select
+  default: _people/ash-richardson.md
+  config:
+    required: false
+    options: []
+    source:
+      type: pages
+      section: people
+      file: 
+      path: 
   label: Author
+- name: category
+  type: tag_list
+  default: []
+  label: Category
 - type: file
   name: banner_image
   label: Hero Image
