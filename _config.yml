@@ -20,6 +20,9 @@ collections:
     permalink: "/about/:path/"
   posts:
     output: true
+  blog:
+    output: true
+    permalink: "/blog/:path/"
   features:
     output: true
     permalink: "/features/:path/"
