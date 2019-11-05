@@ -38,3 +38,9 @@ fields:
   label: layout
   hidden: true
   default: post
+- name: video_id
+  type: text
+  config:
+    required: false
+  label: Video ID
+  description: Enter YouTube video ID
