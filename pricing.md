@@ -59,6 +59,6 @@ menu:
 ---
 {:.font-weight-bold}
 
-### strategy software that achieves genuine org-wide collaboration
+# strategy software that achieves genuine org-wide collaboration
 
 ##### affordable pricing, with full features available to every employee - start executing strategy sooner. 

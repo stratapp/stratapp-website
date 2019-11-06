@@ -1,5 +1,5 @@
 ---
-title: newhomepage
+title: home
 layout: homepage-new
 hero_intro: "{:.font-weight-bold}\n\n# seamlessly execute strategy and day to day
   work in one place\n\n##### a collaborative experience that aligns and engages everyone\n\n{:.mt-4

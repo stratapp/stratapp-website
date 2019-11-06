@@ -8,5 +8,5 @@ seo_description: "#stratapp is strategy software that’s changing how leaders t
 ---
 {:.font-weight-bold}
 
-### blog
+# blog
 

@@ -126,6 +126,9 @@ body {
 	h6, .h6 { font-size: $h6-font-size }
 }
 
+h1 {
+	font-size: 1.875rem;
+}
 .shrinkable { overflow: hidden; transition: all 0.3s ease; }
 
 .bg-primary .color-block {
@@ -149,3 +152,37 @@ body {
 	border-radius: 2px;
 }
 
+
+.bookademo-drawer-push {
+	overflow-x: hidden;
+	position: relative;
+	right: 0;
+}
+.bookademo-closebtn {
+	width: 30px;
+	height: 30px;
+	padding: 5px 0;
+	text-align: center;
+	display: block;
+	cursor: pointer;
+}
+.bookademo-drawer {
+  	height: 100%;
+  	position: fixed;
+	text-align: left;
+	top: 0;
+	width: 350px;
+	padding: 3em;
+}
+
+.bookademo-drawer-right { right: -350px; }
+
+.bookademo-drawer-right.bookademo-drawer-open { right: 0; }
+
+.bookademo-drawer-pushtoleft { right: 350px; }
+
+.bookademo-drawer, .bookademo-drawer-push {
+	-webkit-transition: all 0.5s ease;
+	-moz-transition: all 0.5s ease;
+	transition: all 0.5s ease;
+}

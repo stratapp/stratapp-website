@@ -15,6 +15,6 @@ menu:
 ---
 {:.font-weight-bold}
 
-### build cascading strategies, engage employees and achieve OKRs like never before
+# build cascading strategies, engage employees and achieve OKRs like never before
 
 ##### Streamlined strategy software delivering execution without the noise of 10 apps - #stratapp is 10-apps-in-1

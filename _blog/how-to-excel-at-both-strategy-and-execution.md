@@ -7,6 +7,7 @@ author: Ash Richardson
 category:
 - tutorials
 - videos
+- articles
 seo_title: "#stratapp enables strategic vision"
 seo_description: 'a bold vision needs to include both a very ambitious destination
   and a well-conceived path for execution that will get you there. #stratapp enables

@@ -5,7 +5,7 @@ layout: contact-us
 ---
 {:.font-weight-bold}
 
-### ask a question or learn how to become a partner
+# ask a question or learn how to become a partner
 
 ##### We run fortnightly CxO Events in Australia and weekly Video Calls for international time zones.
 

@@ -5,19 +5,21 @@ layout: default
     A general page layout. Used by default for all content on the site.
 {% endcomment %}
 
-<script type="text/javascript">var $zoho= $zoho || {};$zoho.salesiq = $zoho.salesiq || {widgetcode:"0238113af3d0853f3ba275599aa553c1fd7cb5dd56dd5274ad88f19676701240", values:{},ready:function(){}};var d=document;s=d.createElement("script");s.type="text/javascript"; s.id="zsiqscript";s.defer=true;s.src="https://salesiq.zoho.com/widget";t=d.getElementsByTagName("script")[0];t.parentNode.insertBefore(s,t);d.write("<div id='zsiqwidget'></div>");</script>
-
- 		<section class="l-section pt-4 mb-5 pb-3 bg-light">
+ 		<!-- <section class="l-section pt-4 mb-5 pb-3 bg-light">
           <div class="container container--small text-center">
             {{ content }}
           </div>
-        </section>
+        </section> -->
 		
 		</div>
+		<h1 class="d-none">blog</h1>
 
-		<section class="l-section l-section-mt-n pt-0">
+		<section class="l-section pt-5">
+
         	<div class="container container--small">
 		
+			
+			<a class="bookademo-btn btn btn-danger rounded-pill my-2 my-sm-0">Book a Demo</a>
 
 			{% comment %}
 			=======================
@@ -47,6 +49,12 @@ layout: default
 					{% endunless %}
 				{% endif %}
 			{% endfor %}
+
+			<div class="jump-menu d-inline bg-light rounded p-2 float-right">
+				{% for tag in tags %}
+					<a href="#{{ tag | slugify }}"><h6 class="d-inline px-1">#{{ tag }}</h6></a>
+				{% endfor %}
+			</div>
 			
 			{% for tag in tags %}
 			<h3 class="font-weight-bold text-danger mb-3" id="{{ tag | slugify }}">{{ tag }}</h3>
@@ -79,8 +87,13 @@ layout: default
 	</div>
 	</section>
 	
+	
+
 	{% include stratappfeatures.html class="l-section bg-light events-section-front" %}
 
 	{% include signupform.html class="bg-dark text-white" %}
 
 	{% include explainer-video-popup.html class="explainer-video-popup" %}
+
+	
+	

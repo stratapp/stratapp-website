@@ -11,6 +11,7 @@ seo_description: "#stratapp enables the process of strategic decisions, evolving
 category:
 - tutorials
 - explainers
+- articles
 video_id: k5RwhtVZEms
 feature_image: "/uploads/shutterstock_1037552143.jpg"
 

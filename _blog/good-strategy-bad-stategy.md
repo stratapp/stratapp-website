@@ -7,6 +7,7 @@ author: Ash Richardson
 category:
 - tutorials
 - videos
+- articles
 seo_title: ''
 seo_description: ''
 
