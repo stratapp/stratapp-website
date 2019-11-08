@@ -35,3 +35,6 @@ fields:
   type: text
   hidden: true
   default: person
+- name: hide_on_about_page
+  type: boolean
+  label: Hide on about page
