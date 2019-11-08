@@ -1,6 +1,11 @@
 ---
 title: resources
-layout: resources
+layout: post
+description: ''
+publish_date: 
+seo_title: ''
+seo_description: ''
+feature_image: ''
 menu:
   navigation:
     identifier: _resources
