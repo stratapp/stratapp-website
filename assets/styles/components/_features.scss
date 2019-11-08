@@ -77,6 +77,9 @@ $feature-img-size: 220px;
 		min-height: 200px;
 		border-radius: calc(.9375rem - 0px) calc(.9375rem - 0px);
 		overflow: hidden;
+		.feature-icon {
+			max-height: 37px;
+		}
 		ul {
 			margin-left: 0;
 			list-style: none;
