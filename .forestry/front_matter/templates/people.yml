@@ -26,5 +26,8 @@ fields:
 - type: datetime
   name: date
   label: date
+- name: hide_on_about_page
+  type: boolean
+  label: Hide on about page
 pages:
 - _people/ash-richardson.md
