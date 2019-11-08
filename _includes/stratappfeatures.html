@@ -11,14 +11,18 @@
               {% for item in stratappfeatures %}
                   
                   {% for feature in item.stratapp_features %}
+                    
+                     <div class="col-md-6 mb-4">
 
-                    <div class="col-md-3 mb-4 feature-single">
-                      <div class="card-header bg-danger text-center text-white">
-                        <h4 class="font-weight-bold mb-0 px-3">{{ feature.feature_title }}</h4>
+                      <div class="feature-single shadow-lg bg-white">
+                        <div class="feature-header bg-danger text-left text-white">
+                          <h4 class="font-weight-bold mb-0 py-3 px-4"><img class="pr-2" src="{{ feature.icon | relative_url }}" alt="{{ feature.title }}"> {{ feature.feature_title }}</h4>
+                        </div>
+                        <div class="feature-body p-4 mb-0 h6">
+                          {{ feature.feature_text | markdownify }}
+                        </div>
                       </div>
-                      <div class="card-body bg-primary text-white h6">
-                        {{ feature.feature_text | markdownify }}
-                      </div>
+
                     </div>
 
                   {% endfor %} 

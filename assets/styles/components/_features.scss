@@ -74,15 +74,25 @@ $feature-img-size: 220px;
 
 .stratappfeatures {
 	.feature-single {
+		min-height: 200px;
+		border-radius: calc(.9375rem - 0px) calc(.9375rem - 0px);
+		overflow: hidden;
 		ul {
 			margin-left: 0;
-			padding-left: 1em;
+			list-style: none;
+			padding-left: 0;
+			margin: 0;
 			li {
 				margin-bottom: 0.5em;
+				background-image: url('/images/general/icon-tick-red.svg');
+				background-repeat: no-repeat;
+				background-position: 0 2px;
+				background-size: 16px;
+				padding-left: 1.5em;
 			}
 		}
 		.card-body {
-			border-radius: 0 0 calc(.9375rem - 0px) calc(.9375rem - 0px);
+			
 		}
 	}
 }
