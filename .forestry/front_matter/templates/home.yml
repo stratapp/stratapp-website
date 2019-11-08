@@ -84,6 +84,11 @@ fields:
 - name: stratapp_features
   type: field_group_list
   fields:
+  - name: icon
+    type: file
+    config:
+      maxSize: '5'
+    label: Icon
   - name: feature_title
     type: text
     config:
