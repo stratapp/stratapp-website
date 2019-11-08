@@ -1,6 +1,11 @@
 ---
 title: contact
-layout: contact-us
+layout: post
+description: ''
+publish_date: 
+seo_title: ''
+seo_description: ''
+feature_image: ''
 
 ---
 {:.font-weight-bold}
