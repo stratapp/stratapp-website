@@ -52,19 +52,23 @@ stratapp_features:
     * radical transparency and trust
     * real-time org-wide collaboration
     * way more than just a job, at all levels
+  icon: "/uploads/ico-collaborate-1.svg"
 - feature_title: next gen ready
   feature_text: |-
     * by 2025, 75% of employees are y-gen
     * asking y-gen to collaborate via email, is like asking the rest of us to go back to using fax machines
+  icon: "/uploads/ico-articulate-2.svg"
 - feature_title: employee productivity
   feature_text: |-
     * 15-30% increase in productivity
     * provide employees tools to succeed
     * attract and retain the best talent
+  icon: "/uploads/ico-thrive-1.svg"
 - feature_title: business performance
   feature_text: |-
     * 15-50% increase in business valuation
     * de-risk and make the business agile
     * execute strategy above expectations
+  icon: "/uploads/ico-see-1.svg"
 
 ---
