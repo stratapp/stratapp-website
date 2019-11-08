@@ -23,3 +23,8 @@ fields:
   label: layout
   hidden: true
   default: post
+- name: seo
+  type: include
+  config: {}
+  template: seo
+  label: SEO
