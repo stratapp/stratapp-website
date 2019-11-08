@@ -78,3 +78,8 @@ fields:
   type: text
   hidden: true
   default: home
+- name: seo
+  type: include
+  config: {}
+  template: seo
+  label: SEO
