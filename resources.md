@@ -1,6 +1,6 @@
 ---
 title: resources
-layout: post
+layout: resources
 description: ''
 publish_date: 
 seo_title: ''
