@@ -50,6 +50,7 @@ fields:
   hidden: true
   default: blog
 pages:
+- _blog/stratapp-explainer-video.md
 - _blog/strategy-tree-2-tips-for-communicating-your-business-strategy.md
 - _blog/live-org-chart-powering-both-social-and-work-collaboration.md
 - _blog/social-apps-without-structure-kill-productivity-full-version.md
