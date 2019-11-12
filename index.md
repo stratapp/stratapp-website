@@ -66,7 +66,7 @@ stratapp_features:
   icon: "/uploads/icon-chart-person.svg"
 - feature_title: business performance
   feature_text: |-
-    * 15-50% increase in business valuation
+    * 15-30% increase in business valuation
     * de-risk and make the business agile
     * execute strategy above expectations
   icon: "/uploads/icon-cog-belt.svg"
