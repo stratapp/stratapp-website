@@ -2,7 +2,7 @@
 author: _people/ash-richardson.md
 category:
 - "#articles"
-date: 2019-11-12 14:45:28 +1000
+date: 2019-11-12T04:45:28.000+00:00
 layout: blog
 title: CFOs typically get lumped with risk management
 sub_heading: coming soon
@@ -15,7 +15,7 @@ feature_image: ''
 ---
 # this is a heading 1
 
-<insert image here>
+<insert image here> 
 
 ## this is a heading 2
 
