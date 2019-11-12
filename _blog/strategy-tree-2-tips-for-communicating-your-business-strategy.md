@@ -1,8 +1,8 @@
 ---
 author: _people/ash-richardson.md
 category:
-- "#explainers"
-date: 2019-11-12 14:40:33 +1000
+- "#tutorials"
+date: 2019-11-12T04:40:33.000+00:00
 layout: blog
 title: strategy tree - 2 tips for communicating your business strategy
 sub_heading: Learn how to apply the magic of "3 to 6" and "verb noun" to communicating
