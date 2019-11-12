@@ -52,7 +52,7 @@ layout: default
 
 			<div class="jump-menu d-inline bg-light rounded p-2 float-right">
 				{% for tag in tags %}
-					<a href="#{{ tag | slugify }}"><h6 class="d-inline px-1">#{{ tag }}</h6></a>
+					<a href="#{{ tag | slugify }}"><h6 class="d-inline px-1">{{ tag }}</h6></a>
 				{% endfor %}
 			</div>
 			
