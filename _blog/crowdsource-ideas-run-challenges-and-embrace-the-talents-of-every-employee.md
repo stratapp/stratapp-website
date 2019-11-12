@@ -14,6 +14,5 @@ seo_title: ideation | innovation | crowdsource ideas
 seo_description: Crowdsource ideas to drive ideation and innovation, embracing the
   talents of all employees.
 feature_image: ''
-published: false
 
 ---
