@@ -1,7 +1,7 @@
 ---
 author: _people/ash-richardson.md
 category:
-- explainers
+- "#explainers"
 date: 2019-11-12 14:40:33 +1000
 layout: post
 title: strategy tree - 2 tips for communicating your business strategy
