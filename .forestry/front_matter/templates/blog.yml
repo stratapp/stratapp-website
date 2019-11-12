@@ -50,6 +50,7 @@ fields:
   hidden: true
   default: blog
 pages:
+- _blog/live-org-chart-powering-both-social-and-work-collaboration.md
 - _blog/social-apps-without-structure-kill-productivity-full-version.md
 - _blog/kpis-okrs-how-to-easily-cascade-to-every-employee-full-version.md
 - _blog/kpis-okrs-how-to-easily-cascade-to-every-employee-short-version.md
