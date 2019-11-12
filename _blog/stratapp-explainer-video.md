@@ -13,7 +13,6 @@ seo_title: "#stratapp explainer video"
 seo_description: World first business software for executing both strategy and day
   to day work in one place, in one seamless user experience made easy for every employee.
 feature_image: ''
-published: false
 
 ---
 In 90 seconds learn about a world first in business software.
