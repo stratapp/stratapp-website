@@ -49,3 +49,5 @@ fields:
   label: layout
   hidden: true
   default: post
+pages:
+- _blog/crowdsource-ideas-run-challenges-and-embrace-the-talents-of-every-employee.md
