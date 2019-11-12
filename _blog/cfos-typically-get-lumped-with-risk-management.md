@@ -15,7 +15,7 @@ feature_image: ''
 ---
 # this is a heading 1
 
-<insert image here> 
+insert image here
 
 ## this is a heading 2
 
