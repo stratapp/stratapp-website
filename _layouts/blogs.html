@@ -70,11 +70,16 @@ layout: default
 								{% endif %}
 								<img src="{{ post.banner_image | absolute_url }}" alt="{{ post.title }}" class="c-article__img-md">
 							{% else %}
-							    <img src="{{ "/img/placeholder.png" | absolute_url }}" alt="{{ post.title }}">
+								{% if post.video_id and post.video_id != "" %}
+									<a href="{{ post.url | absolute_url }}">
+										<span class="play-button"></span>
+							    		<img src="https://img.youtube.com/vi/{{ post.video_id }}/0.jpg" class="c-article__img-md" alt="{{ post.title }}">
+							    	</a>
+							    {% endif %}
 							{% endif %}
 							<div class="px-4 py-3">
-						          <h5 class="font-weight-bold text-primary mb-3"><a href="{{ post.url | absolute_url }}">{{ post.title | truncate: 50 }}</a></h5>
-						          <p class="mb-0">{{ post.content | strip_html | truncatewords: 20 }}... <a class="text-primary" href="{{ post.url | absolute_url }}">keep reading</a></p>
+						          <h5 class="font-weight-bold text-primary mb-3"><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h5>
+						          <p class="mb-0">{{ post.content | strip_html | truncatewords: 20 }} <a class="text-primary" href="{{ post.url | absolute_url }}">keep reading</a></p>
 						          
 						    </div>
 						</div>
