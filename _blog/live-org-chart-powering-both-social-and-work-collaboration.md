@@ -13,7 +13,6 @@ seo_title: live org chart software | powering both social and work collaboration
 seo_description: Whilst we're not the first to think of live org charts, we are the
   world's first app to apply that powerful concept to social and work collaboration.
 feature_image: ''
-published: false
 
 ---
 This will save you several hours per month and you'll love the experience.
