@@ -61,7 +61,7 @@ stratapp_features:
 - feature_title: employee productivity
   feature_text: |-
     * 15-30% increase in productivity
-    * provide all employees the tools they really need to succeed
+    * provide all employees the tools they need to succeed
     * attract and retain the best talent, for the right reasons
   icon: "/uploads/icon-chart-person.svg"
 - feature_title: business performance
