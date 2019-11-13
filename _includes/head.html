@@ -17,7 +17,11 @@
   {% if page.feature_image and page.feature_image != "" %}
   <meta property="og:image" content="{{ page.feature_image | relative_url }}">
   {% else %}
-  <meta property="og:image" content="{{ page.banner_image | relative_url }}">
+     {% if page.video_id and page.video_id != "" %}
+          <meta property="og:image" content="https://img.youtube.com/vi/{{ page.video_id }}/0.jpg">
+          {% else %}
+          <meta property="og:image" content="{{ page.banner_image | relative_url }}">
+      {% endif %}
   {% endif %}
   <meta property="og:description" content="{% if page.seo_description and page.seo_description != '' %}{{ page.seo_description }}{% else %}{{ site.description }}{% endif %}">
   <meta property="og:url" content="{{ site.url }}{{ page.url | replace:'index.html',''}}">
@@ -27,6 +31,11 @@
   <meta name="twitter:image" content="{{ page.feature_image | absolute_url }}">
   {% else %}
   <meta name="twitter:image" content="{{ page.banner_image | absolute_url }}">
+     {% if page.video_id and page.video_id != "" %}
+          <meta name="twitter:image" content="https://img.youtube.com/vi/{{ page.video_id }}/0.jpg">
+          {% else %}
+          <meta property="og:image" content="{{ page.banner_image | relative_url }}">
+      {% endif %}
   {% endif %}
   <meta name="twitter:description" content="{% if page.seo_description and page.seo_description != '' %}{{ page.seo_description }}{% else %}{{ site.description }}{% endif %}">
   <meta name="twitter:card" content="summary_large_image">
