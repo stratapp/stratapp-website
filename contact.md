@@ -1,6 +1,6 @@
 ---
 title: contact
-layout: post
+layout: contact-us
 description: ask a question or learn how to become a partner
 publish_date: 2019-11-01 00:00:00 +1000
 seo_title: ask a question or learn how to become a partner
