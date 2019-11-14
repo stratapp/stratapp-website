@@ -1,10 +1,11 @@
 ---
 title: resources
 layout: resources
-description: ''
-publish_date: 
-seo_title: ''
-seo_description: ''
+description: 'resources from #stratapp'
+publish_date: 2019-11-07 00:00:00 +1000
+seo_title: resources - thought leaders in strategy, execution and B2B SaaS
+seo_description: Those who know what they do, tend to work harder. Those who know
+  why, tend to work smarter. - Simon Sinek -
 feature_image: ''
 menu:
   navigation:

@@ -29,5 +29,5 @@ fields:
   hidden: true
   default: post
 pages:
-- contact.md
 - resources.md
+- contact.md
