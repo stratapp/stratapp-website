@@ -9,7 +9,7 @@ author: Ash Richardson
 banner_image: "/uploads/thirdwave-book.jpg"
 
 ---
-## #stratapp empowers offshoring and aligns everyone to the same strategy and goals.
+## how to empower offshoring, in a way that aligns everyone to the same strategy and goals
 
 With so much hype on technology innovation, such as robotics and artificial intelligence, it is easy to overlook the massive ground shift taking place on org design and employment. Teams are fast becoming a mix of onshore and offshore resources, that work together as if they were sitting under the same roof.
 
