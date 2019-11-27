@@ -1,5 +1,5 @@
 ---
-seo_title: "#stratapp Privacy Policy"
+seo_title: "#stratapp privacy policy"
 seo_description: This page informs you of our policies regarding the collection, use
   and disclosure of personal data when you use our Service and the choices you have
   associated with that data.

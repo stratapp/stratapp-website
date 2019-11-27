@@ -13,6 +13,6 @@ fields:
   template: seo
   label: 'SEO '
 pages:
+- privacy.md
 - terms.md
 - fair-usage.md
-- privacy.md
