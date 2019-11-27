@@ -4,7 +4,7 @@ layout: post
 title: a subtle shift in offshoring, that actually works
 seo_title: seamlessly align your onshore and offshore teams
 seo_description: "#stratapp powers strategic alignment and daily execution across
-  time zones, geographies and cultures"
+  time zones, geographies and cultures."
 author: Ash Richardson
 banner_image: "/uploads/thirdwave-book.jpg"
 
