@@ -1,15 +1,15 @@
 ---
 date: 2019-06-20T05:21:50.000+00:00
 layout: post
-title: how to run a company with (almost) no rules
-seo_title: 'Ricardo Semler’s progressive lateral thinking was an inspiration at #stratapp'
-seo_description: 'Ricardo Semler’s progressive lateral thinking was an inspiration
-  for #stratapp’s world first capability in strategy+execution+collaboration'
+title: how to run a company with (almost) no rules by Ricardo Semler
+seo_title: how to run a company with (almost) no rules by Ricardo Semler
+seo_description: 'Ricardo Semler’s progressive lateral thinking has been an inspiration
+  for both creating and running #stratapp.'
 author: Ash Richardson
 banner_image: "/uploads/TED-Talks-for-Small-Business-and-Entrepreneurs.jpg"
 
 ---
-## More than just a top-down strategy planning tool, #stratapp engages employees at every level
+## Ricardo Semler shot to fame with his book Maverick, an inspiring fresh take on org design / enagement
 
 Ricardo Semler shot to fame with his book Maverick, which cut to the core of empowering employees, whilst pragmatically addressing human constraints and positive attributes in a fresh way, when undertaking org design.
 
