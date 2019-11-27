@@ -35,7 +35,7 @@ seo_title: strategy, KPIs, business planning and collaboration software, for eve
 seo_description: "#stratapp is the world's first SaaS to delivery strategy, KPIs,
   business planning, social and work collaboration in one seamless user experience.
   10 apps in 1 for every employee, for about half the price of a social app. Elevate
-  your culture, get ready for the next generation of millenials, increase employee
+  your culture, get ready for the next generation of millennials, increase employee
   productivity and drive business performance. You'll love #stratapp."
 footer_cta: |-
   ### **join us and other CxOs**
