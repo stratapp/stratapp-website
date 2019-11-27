@@ -2,7 +2,7 @@
 date: 2019-06-18T05:25:12.000+00:00
 layout: post
 title: employee engagement without business performance is a fail; business performance
-  without employee engagement is a fail.
+  without employee engagement is a fail
 seo_title: Gallup's Q12 Index on measuring employee engagement
 seo_description: 'Gallup''s Q12 Index on measuring employee engagement is useful for
   evaluating the success of #stratapp.'
