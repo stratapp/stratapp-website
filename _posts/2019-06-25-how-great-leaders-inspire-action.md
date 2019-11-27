@@ -9,7 +9,7 @@ author: Ash Richardson
 banner_image: "/uploads/TED-Talks-for-Small-Business-and-Entrepreneurs.jpg"
 
 ---
-## y-gen millennials embrace Simon Sinek's TED talk on start with why
+## y-gen millennials embrace Simon Sinek's TED talk on 'start with why'
 
 _“People don’t buy what you do, they buy why you do it. And what you do simply proves what you believe.”_
 
