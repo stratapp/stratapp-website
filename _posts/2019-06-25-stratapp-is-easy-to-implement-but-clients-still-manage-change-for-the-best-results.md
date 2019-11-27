@@ -1,9 +1,9 @@
 ---
 date: 2019-06-19T05:23:45.000+00:00
 layout: post
-title: "#stratapp is easy to implement, but clients still manage change for the best
-  results"
-seo_title: Stratapp makes Strategy execution and collaboration work out of the box
+title: "#stratapp breaks new ground on implementing SaaS"
+seo_title: "#stratapp breaks new ground on implementing strategy execution and collaboration
+  software"
 seo_description: " \n#stratapp is configured to work ‘out of the box’. The client
   can focus their energy and resources on proactively managing change and getting
   their teams fully engaged on what’s possible."
@@ -11,7 +11,7 @@ author: Ash Richardson
 banner_image: "/uploads/helloquence-61189-unsplash.jpg"
 
 ---
-## Strategy execution and collaboration software that works ‘out of the box’
+## strategy execution and collaboration software that works ‘out of the box’
 
 SaaS product companies typically lock their clients into a prepaid contract, then leave the client to figure out the implementation by themselves, or with ‘_preferred partners_’.
 
