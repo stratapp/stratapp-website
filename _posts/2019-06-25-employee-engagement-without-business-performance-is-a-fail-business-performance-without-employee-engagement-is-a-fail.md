@@ -3,14 +3,14 @@ date: 2019-06-18T05:25:12.000+00:00
 layout: post
 title: employee engagement without business performance is a fail; business performance
   without employee engagement is a fail.
-seo_title: ''
-seo_description: "#stratapp applies the Gallup Q12 Index to measure employee engagement
-  over time to continuously improve employee contribution to strategy"
+seo_title: Gallup's Q12 Index on measuring employee engagement
+seo_description: 'Gallup''s Q12 Index on measuring employee engagement is useful for
+  evaluating the success of #stratapp.'
 author: Anthony Moorhouse
 banner_image: "/uploads/Catalan human tower.jpg"
 
 ---
-## Gallup’s simple employee engagement survey has proven to be an effective measurement of performance when delivering strategy.
+## Gallup's Q12 Index on measuring employee engagement is useful for evaluating the success of #stratapp.
 
 Anthony Moorhouse is the founder of [Coherent Strategy](http://coherentstrat.com/ "Coherent Strategy"){:target="_blank"}, the first boutique advisory firm established to coach and support #stratapp clients on implementation.
 
