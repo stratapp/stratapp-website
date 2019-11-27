@@ -4,7 +4,7 @@ date: 2019-06-25T05:20:06.000+00:00
 banner_image: "/uploads/good strategy bad strategy.jpg"
 layout: post
 author: Ash Richardson
-seo_title: good strategy bad strategy by Richard Rumelt
+seo_title: Good Strategy Bad Strategy by Richard Rumelt
 seo_description: Good Strategy Bad Strategy by Richard Rumelt, is in our view the
   all time greatest thinking and resource for developing and executing strategy.
 
@@ -17,4 +17,4 @@ As Chuck Harrington, CEO of Parsons Corporation, says: “Richard Rumelt reinfor
 
 \#stratapp’s strategy tree hierarchy, collaboration workboards and org-wide social helps to bring alive this battle plan like never before.
 
-\#stratapp provides real time, line-of-sight transparency through strategy, KPIs, people and work … bringing Richard Rumelt's battle plan alive.
+\#stratapp provides real time, line-of-sight transparency through strategy, KPIs/ORKs, people and work … bringing Richard Rumelt's battle plan alive.
