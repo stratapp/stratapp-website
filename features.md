@@ -1,9 +1,10 @@
 ---
 title: features
 layout: features
-seo_title: "#stratapp features | 10 apps in 1"
-seo_description: 'Software that seamlessly combines execution of strategy, goals,
-  kpis, OKRs, collaboration and day to day work. #stratapp is 10-apps-in-1'
+seo_title: strategy execution software that even your millennials will love
+seo_description: 'Seamlessly execute strategy, business plans, KPIs, OKRs, ideation
+  and initiatives, alongside day to day work. #stratapp is 10-apps-in-1 seamless user
+  experience.'
 hero_image: ''
 date: 
 feature_image: "/uploads/feature image - features page-1.JPG"
@@ -15,6 +16,6 @@ menu:
 ---
 {:.font-weight-bold}
 
-# build cascading strategies, engage employees and achieve OKRs like never before
+# strategy execution software that even your millennials will love
 
-##### Streamlined strategy software delivering execution without the noise of 10 apps - #stratapp is 10-apps-in-1
+##### seamlessly execute strategy, business plans, KPIs, OKRs, ideation and initiatives, alongside day to day work
