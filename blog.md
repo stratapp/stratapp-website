@@ -14,4 +14,4 @@ menu:
 ---
 {:.font-weight-bold}
 
-# blog
+# strategy, KPIs/OKRs, business planning and collaboration software for all roles, levels and generations
