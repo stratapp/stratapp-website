@@ -1,7 +1,8 @@
 ---
 date: 2019-06-19T05:23:45.000+00:00
 layout: post
-title: "#stratapp breaks new ground on implementing SaaS"
+title: "#stratapp breaks new ground on implementing strategy execution and collaboration
+  software"
 seo_title: "#stratapp breaks new ground on implementing strategy execution and collaboration
   software"
 seo_description: " \n#stratapp is configured to work ‘out of the box’. The client
