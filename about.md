@@ -30,11 +30,13 @@ section_text: |-
 
   Your time-to-value on #stratapp is days - not months, quarters or years.
 section_image: "/uploads/collaborating.jpg"
-seo_title: "about #stratapp - strategy software for all roles, levels and generations"
-seo_description: "#stratapp is strategy software that’s changing how leaders think
-  about, share and collaborate on executing strategy and day-to-day work. we are changing
-  how leaders think about, share and collaborate on executing strategy and day-to-day
-  work"
+seo_title: strategy, KPIs, business planning and collaboration software, for every
+  employee
+seo_description: "#stratapp is the world's first SaaS to delivery strategy, KPIs,
+  business planning, social and work collaboration in one seamless user experience.
+  10 apps in 1 for every employee, for about half the price of a social app. Elevate
+  your culture, get ready for the next generation of millenials, increase employee
+  productivity and drive business performance. You'll love #stratapp."
 footer_cta: |-
   ### **join us and other CxOs**
 
