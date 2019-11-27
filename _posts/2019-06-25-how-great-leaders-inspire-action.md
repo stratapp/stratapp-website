@@ -1,7 +1,7 @@
 ---
 date: 2019-06-17T05:27:40.000+00:00
 layout: post
-title: how great leaders inspire action
+title: how great leaders inspire action by Simon Sinek
 seo_title: How Great Leaders Inspire Action by Simon Sinek
 seo_description: 'Y-gen millennials embrace Simon Sinek''s TED talk on start with
   why, so #stratapp included a "why" page under strategy.'
