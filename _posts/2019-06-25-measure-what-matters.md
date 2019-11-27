@@ -1,17 +1,16 @@
 ---
 date: 2019-06-20T05:18:37.000+00:00
 layout: post
-title: measure what matters
-seo_title: Easily track and Implement OKR's
-seo_description: 'With #stratapp, leaders deliver org-wide clarity on the why, direction
-  and goals, coupled with real-time collaboration and transparency on execution. This
-  helps the CEO to bring everyone at all levels in the organization along the same
-  journey.'
+title: measure what matters by John Doerr
+seo_title: Measure What Matters by John Doerr
+seo_description: 'Google has applied Andy Grove''s OKR methodology every quarter since
+  1999, explained in Measure What Matters by John Doerr. Bring OKRs alive org-wide
+  using #stratapp.'
 author: Ash Richardson
 banner_image: "/uploads/measurewhatmatters-book.jpg"
 
 ---
-## Objective and key results (OKRs) can be easily implemented within #stratapp
+## Google has applied Andy Grove's OKR methodology every quarter since 1999 
 
 John Doerr’s book and life’s work have given all of us access to the clear thinking and progressive management practices of Intel’s Andy Grove, who was decades ahead of his time.
 
