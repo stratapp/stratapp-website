@@ -18,4 +18,4 @@ menu:
 
 # strategy execution software that even your millennials will love
 
-##### seamlessly execute strategy, business plans, KPIs, OKRs, ideation and initiatives, alongside day to day work
+##### execute strategy, business plans, KPIs/OKRs, ideation and initiatives, alongside day to day work
