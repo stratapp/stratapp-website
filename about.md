@@ -51,6 +51,6 @@ menu:
 ---
 {:.font-weight-bold}
 
-# we are changing how leaders think about, share and collaborate on executing strategy and day-to-day work 
+# we are changing how leaders think about, share and collaborate on executing strategy and day-to-day work
 
-##### bringing all levels, roles and generations on the same journey - strategy execution software that achieves genuine org-wide collaboration and results
+##### #stratapp is the world's first SaaS to delivery strategy, KPIs, business planning, social and work collaboration in one seamless user experience. 10 apps in 1 for every employee, for about half the price of a social app. Elevate your culture, get ready for the next generation of millennials, increase employee productivity and drive business performance. You'll love #stratapp.
