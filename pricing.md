@@ -42,10 +42,9 @@ faqs:
     No problem, there are no termination fees.
 
     In future releases we will be adding APIs for you to link your data to BI tools.
-seo_title: "#stratapp pricing | strategy software that achieves genuine org-wide collaboration"
-seo_description: 'Affordable strategy software that ensures org-wide collaboration
-  and execution of OKRs. #stratapp is designed to be used out of the box with price
-  options to suit businesses from 5 - 500,000 employees'
+seo_title: strategy software that achieves genuine org-wide collaboration
+seo_description: Affordable strategy software that achieves genuine org-wide collaboration
+  and seamless execution of strategy and KPIs/OKRs, alongside day to day work.
 quote: |-
   #### "Our industry is going through massive change.  #stratapp is at the core of our response, connecting our talent across four countries, aligning all of us in real time."
 
@@ -61,4 +60,4 @@ menu:
 
 # strategy software that achieves genuine org-wide collaboration
 
-##### affordable pricing, with full features available to every employee - start executing strategy sooner. 
+##### affordable pricing, with full features available to every employee
