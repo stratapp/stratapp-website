@@ -1,15 +1,16 @@
 ---
 date: 2019-06-16T05:28:22.000+00:00
 layout: post
-title: millennials in the workplace
-seo_title: 'Gen-Y and #stratapp'
-seo_description: 'For Gen Y #stratapp makes it easy to contribute to the work of others
-  and to see exactly where they fit in with what the organization is trying to achieve.'
+title: millennials in the workplace by Simon Sinek
+seo_title: Millennials in the Workplace by Simon Sinek
+seo_description: 'Y-gen millennials are just magic, a breath of fresh air. They hate
+  pretending to work and they don’t go looking for work that doesn’t make sense. Y-gen
+  millennials love #stratapp!'
 author: Ash Richardson
 banner_image: "/uploads/Screen Shot 2019-06-25 at 3.29.28 pm.png"
 
 ---
-## #stratapp’s delivery of real-time objectives and key results are a boon to Gen-Y
+## in our view, y-gen millennials are just magic, a breath of fresh air
 
 At the link below is an excellent interview with Simon Sinek on Inside Quest.
 
