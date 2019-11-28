@@ -26,6 +26,7 @@ fields:
     maxSize: 250
   label: Hero Image
 pages:
+- _features/build-your-strategy-as-cascading-tree.md
 - features.md
 - _features/bring-risk-management-alive-org-wide.md
 - _features/create-and-assign-your-kpis-as-a-cascading-tree-both-strategic-and-day-to-day-kpis.md
@@ -38,6 +39,5 @@ pages:
 - _features/take-comfort-that-tasks-from-notes-and-all-modules-will-appear-in-your-workspace.md
 - _features/collaborate-effectively-with-clients-partners-and-suppliers.md
 - _features/designed-around-what-you-know.md
-- _features/build-your-strategy-as-cascading-tree.md
 - _features/build-kpis.md
 - _features/rather-than-adding-more-noise-enjoy-social-collaboration-with-context-and-structure.md
