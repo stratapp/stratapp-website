@@ -10,8 +10,8 @@ seo_description: " \n#stratapp is configured to work ‘out of the box’. The c
   their teams fully engaged on what’s possible."
 author: Ash Richardson
 banner_image: "/uploads/helloquence-61189-unsplash.jpg"
-slug: "#stratapp breaks new ground on implementing strategy execution and collaboration
-  software"
+slug: stratapp breaks new ground on implementing strategy execution and collaboration
+  software
 
 ---
 ## strategy execution and collaboration software that works ‘out of the box’
