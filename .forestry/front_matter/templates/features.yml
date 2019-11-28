@@ -26,9 +26,9 @@ fields:
     maxSize: 250
   label: Hero Image
 pages:
+- _features/bring-risk-management-alive-org-wide.md
 - _features/build-your-strategy-as-cascading-tree.md
 - features.md
-- _features/bring-risk-management-alive-org-wide.md
 - _features/create-and-assign-your-kpis-as-a-cascading-tree-both-strategic-and-day-to-day-kpis.md
 - _features/10-apps-in-1.md
 - _features/enjoy-a-mobile-version-that-adds-real-value-keeping-you-effective-on-the-go.md
