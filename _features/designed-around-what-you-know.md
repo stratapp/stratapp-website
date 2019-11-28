@@ -1,10 +1,12 @@
 ---
 title: designed around what you already know
 hero_image: "/uploads/01-1.png"
-seo_title: Designed around what you already know
-seo_description: ''
+seo_title: strategy software you already know and understand
+seo_description: Strategy software you already know and understand, you do not need
+  to learn new management practices, methodologies or terms.
 date: 2019-06-26T14:00:00.000+00:00
 feature_image: ''
+slug: strategy-software-you-already-understand
 
 ---
 With #stratapp, you do not need to learn new management practices, methodologies or terms.
