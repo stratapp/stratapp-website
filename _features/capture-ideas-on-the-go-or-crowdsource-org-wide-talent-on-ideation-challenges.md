@@ -1,10 +1,12 @@
 ---
 title: capture ideas on the go, or crowdsource org-wide talent on ideation challenges
-seo_title: ''
-seo_description: ''
+seo_title: crowsource ideas and run challenges to drive innovation
+seo_description: Crowsource ideas and run challenges to drive innovation and business
+  transformation.
 hero_image: "/uploads/11.png"
 date: 2019-06-14T08:00:00.000+00:00
 feature_image: ''
+slug: crowdsource-ideas
 
 ---
 When do the best ideas hit us?  Certainly not during quarterly or annual surveys!
