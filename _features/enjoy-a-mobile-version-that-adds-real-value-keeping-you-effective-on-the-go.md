@@ -1,10 +1,13 @@
 ---
 title: enjoy a mobile version that adds real value, keeping you effective on the go
-seo_title: ''
-seo_description: ''
+seo_title: Steve Jobs mobile UX design with thumb browsing
+seo_description: 'Steve Jobs''s passion for thumb browsing is a core part of #stratapp''s
+  mobile UX design. Enjoy a mobile version that adds real value, keeping you effective
+  on the go.'
 hero_image: "/uploads/14.png"
 date: 2019-06-11T08:00:00.000+00:00
 feature_image: "/uploads/14-1.png"
+slug: Steve-Jobs-mobile-UX-design-with-thumb-browsing
 
 ---
 \#stratapp puts “your company in your pocket!”
