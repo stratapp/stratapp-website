@@ -2,7 +2,7 @@
 author: _people/ash-richardson.md
 category:
 - "#explainers"
-date: 2019-11-12 16:04:35 +1000
+date: 2019-11-28 05:04:35 +1000
 layout: blog
 title: risk management - how to make it org-wide and easy
 sub_heading: If it was easy to do, we would all embrace risk management - the problem
