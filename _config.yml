@@ -17,18 +17,19 @@ defaults:
 collections:
   people:
     output: true
-    permalink: "/about/:path/"
+    permalink: "/about/:title/"
   posts:
     output: true
+    permalink: "/:title/"
   blog:
     output: true
-    permalink: "/blog/:path/"
+    permalink: "/blog/:title/"
   features:
     output: true
-    permalink: "/features/:path/"
+    permalink: "/features/:title/"
   events:
     output: true
-    permalink: "/events/:path/"
+    permalink: "/events/:title/"
 jekyll-archives:
   enabled: all
   layout: "archive"

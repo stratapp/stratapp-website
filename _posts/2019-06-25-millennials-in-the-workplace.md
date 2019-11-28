@@ -8,6 +8,7 @@ seo_description: 'Y-gen millennials are just magic, a breath of fresh air. They 
   millennials love #stratapp!'
 author: Ash Richardson
 banner_image: "/uploads/Screen Shot 2019-06-25 at 3.29.28 pm.png"
+slug: millennials in the workplace by simon sinek
 
 ---
 ## in our view, y-gen millennials are just magic, a breath of fresh air

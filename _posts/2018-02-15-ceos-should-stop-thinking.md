@@ -7,7 +7,7 @@ author: Ash Richardson
 seo_title: Professor Roger Martin on what CEOs should really be doing
 seo_description: Professor Roger Martin on what CEOs should really be doing in relation
   to strategy, compared to their executives, managers and teams.
-
+  
 ---
 ## Professor Roger Martin is a legend on strategy
 
