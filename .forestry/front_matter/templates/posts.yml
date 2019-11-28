@@ -25,3 +25,8 @@ fields:
   label: layout
   hidden: true
   default: post
+- name: slug
+  type: text
+  config:
+    required: false
+  label: Slug
