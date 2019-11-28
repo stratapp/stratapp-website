@@ -26,9 +26,9 @@ fields:
     maxSize: 250
   label: Hero Image
 pages:
+- features.md
 - _features/bring-risk-management-alive-org-wide.md
 - _features/create-and-assign-your-kpis-as-a-cascading-tree-both-strategic-and-day-to-day-kpis.md
-- features.md
 - _features/10-apps-in-1.md
 - _features/enjoy-a-mobile-version-that-adds-real-value-keeping-you-effective-on-the-go.md
 - _features/view-a-live-global-heatmap-of-where-your-people-are-and-what-s-hot-right-now.md
