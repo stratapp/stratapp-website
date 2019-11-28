@@ -26,6 +26,7 @@ fields:
     maxSize: 250
   label: Hero Image
 pages:
+- _features/bring-risk-management-alive-org-wide.md
 - _features/create-and-assign-your-kpis-as-a-cascading-tree-both-strategic-and-day-to-day-kpis.md
 - features.md
 - _features/10-apps-in-1.md
@@ -36,7 +37,6 @@ pages:
 - _features/hover-on-live-org-chart-to-see-who-works-for-who-and-who-is-working-on-what-right-now.md
 - _features/take-comfort-that-tasks-from-notes-and-all-modules-will-appear-in-your-workspace.md
 - _features/collaborate-effectively-with-clients-partners-and-suppliers.md
-- _features/bring-risk-management-alive-org-wide.md
 - _features/designed-around-what-you-know.md
 - _features/build-your-strategy-as-cascading-tree.md
 - _features/build-kpis.md

@@ -1,7 +1,8 @@
 ---
 title: bring risk management alive
-seo_title: ''
-seo_description: ''
+seo_title: risk management software
+seo_description: 'Risk management software as part of #stratapp''s 10 apps in 1, making
+  risk management software adoption easy, at all levels and org-wide.'
 hero_image: "/uploads/06.png"
 date: 2019-06-22T08:00:00.000+00:00
 feature_image: ''
