@@ -26,6 +26,7 @@ fields:
     maxSize: 250
   label: Hero Image
 pages:
+- _features/watercooler-conversations-are-great-but-org-wide-social-has-10x-impact.md
 - _features/view-a-live-global-heatmap-of-where-your-people-are-and-what-s-hot-right-now.md
 - _features/take-comfort-that-tasks-from-notes-and-all-modules-will-appear-in-your-workspace.md
 - _features/rather-than-adding-more-noise-enjoy-social-collaboration-with-context-and-structure.md
@@ -40,4 +41,3 @@ pages:
 - _features/build-your-strategy-as-cascading-tree.md
 - features.md
 - _features/10-apps-in-1.md
-- _features/watercooler-conversations-are-great-but-org-wide-social-has-10x-impact.md
