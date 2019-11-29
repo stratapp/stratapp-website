@@ -2,7 +2,7 @@
 author: _people/ash-richardson.md
 category:
 - "#videos"
-date: 2019-11-12 14:34:41 +1000
+date: 2019-11-12T04:34:41.000+00:00
 layout: blog
 title: crowdsource ideas, run challenges and embrace the talents of every employee
 sub_heading: Ideation provides a powerful competitive advantage. Learn how to take
@@ -15,5 +15,6 @@ seo_title: ideation | innovation | crowdsource ideas
 seo_description: Crowdsource ideas to drive ideation and innovation, embracing the
   talents of all employees.
 feature_image: ''
+slug: crowdsource ideas to drive ideation and innovation
 
 ---
