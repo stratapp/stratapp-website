@@ -50,6 +50,7 @@ fields:
   hidden: true
   default: blog
 pages:
+- _blog/social-collaboration-adding-org-design-to-save-you-time.md
 - _blog/social-apps-without-structure-kill-productivity-full-version.md
 - _blog/live-org-chart-powering-both-social-and-work-collaboration.md
 - _blog/live-meeting-notes-that-automatically-consolidate-tasks-across-all-meetings.md
@@ -59,7 +60,6 @@ pages:
 - _blog/cfos-typically-get-lumped-with-risk-management.md
 - _blog/crowdsource-ideas-run-challenges-and-embrace-the-talents-of-every-employee.md
 - _blog/risk-management-how-to-make-it-org-wide-and-easy.md
-- _blog/social-collaboration-adding-org-design-to-save-you-time.md
 - _blog/strategy-apps-how-to-add-value-to-every-employee-at-every-level-every-day.md
 - _blog/strategy-tree-2-tips-for-communicating-your-business-strategy.md
 - _blog/why-stratapp-is-10-apps-in-1-easy-ux-for-every-employee.md
