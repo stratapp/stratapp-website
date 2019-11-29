@@ -2,7 +2,7 @@
 author: _people/ash-richardson.md
 category:
 - "#explainers"
-date: 2019-11-12 16:09:33 +1000
+date: 2019-11-12T06:09:33.000+00:00
 layout: blog
 title: KPIs & OKRs - how to easily cascade to every employee (short version)
 sub_heading: The two types of KPIs (strategic and day-to-day) and how they can be
@@ -13,5 +13,6 @@ seo_title: KPI software | KPI apps | OKR software | OKR apps
 seo_description: How to easily manage OKRs and both types of KPI (strategic and day
   to day), from the CEO to management to every single employee.
 feature_image: ''
+slug: KPI software OKR software short version
 
 ---

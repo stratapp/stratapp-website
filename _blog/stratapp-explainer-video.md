@@ -2,7 +2,7 @@
 author: _people/ash-richardson.md
 category:
 - "#videos"
-date: 2019-11-12 16:26:09 +1000
+date: 2019-11-12T06:26:09.000+00:00
 layout: blog
 title: "#stratapp explainer video"
 sub_heading: Seamlessly execute strategy and day to day work in one place.  A collaborative
@@ -13,6 +13,7 @@ seo_title: "#stratapp explainer video"
 seo_description: World first business software for executing both strategy and day
   to day work in one place, in one seamless user experience made easy for every employee.
 feature_image: ''
+slug: stratapp explainer video
 
 ---
 In 90 seconds learn about a world first in business software.
