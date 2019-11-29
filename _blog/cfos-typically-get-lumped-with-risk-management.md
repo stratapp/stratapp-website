@@ -11,7 +11,7 @@ banner_image: ''
 seo_title: CFOs typically get lumped with "risk management"
 seo_description: coming soon
 feature_image: ''
-published: false
+slug: risk management
 
 ---
 # this is a heading 1
