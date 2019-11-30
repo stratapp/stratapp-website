@@ -9,7 +9,7 @@ seo_description: 'Many strategies fail because they’re not actually strategies
 author: Ash Richardson
 banner_image: "/uploads/nov17-08-135629213-Lobo-Press-1024x576.jpg"
 feature_image: ''
-slug: many strategies fail because they’re not actually strategies by HBR org
+slug: many strategies fail because they’re not actually strategies by hbr org
 
 ---
 ## static strategy documents and top-down comms is so old school
