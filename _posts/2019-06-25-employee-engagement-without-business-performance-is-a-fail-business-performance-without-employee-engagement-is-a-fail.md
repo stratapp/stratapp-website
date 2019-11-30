@@ -8,7 +8,7 @@ seo_description: 'Gallup''s Q12 Index on measuring employee engagement is useful
   evaluating the success of your #stratapp rollout.'
 author: Anthony Moorhouse
 banner_image: "/uploads/Catalan human tower.jpg"
-slug: Gallup Q12 Index on measuring employee engagement
+slug: gallup q12 index on measuring employee engagement
 
 ---
 ## Gallup's Q12 Index on measuring employee engagement is useful for evaluating the success of #stratapp.
