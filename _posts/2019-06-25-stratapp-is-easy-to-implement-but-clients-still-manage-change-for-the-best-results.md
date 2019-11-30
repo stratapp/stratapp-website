@@ -5,9 +5,10 @@ title: "#stratapp breaks new ground on implementing strategy execution and colla
   software"
 seo_title: "#stratapp breaks new ground on implementing strategy execution and collaboration
   software"
-seo_description: " \n#stratapp is configured to work ‘out of the box’. The client
-  can focus their energy and resources on proactively managing change and getting
-  their teams fully engaged on what’s possible."
+seo_description: " \n#stratapp breaks new ground on implementing strategy execution
+  and collaboration software. #stratapp is configured to work ‘out of the box’. The
+  client can focus on proactively managing change and getting their teams fully engaged
+  on what’s possible."
 author: Ash Richardson
 banner_image: "/uploads/helloquence-61189-unsplash.jpg"
 slug: stratapp breaks new ground on implementing strategy execution and collaboration
