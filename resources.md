@@ -4,9 +4,11 @@ layout: resources
 description: thought leaders in strategy, execution and B2B SaaS
 publish_date: 2019-11-06T14:00:00.000+00:00
 seo_title: thought leaders in strategy, execution and B2B SaaS
-seo_description: Those who know what they do, tend to work harder. Those who know
-  why, tend to work smarter. - Simon Sinek -
+seo_description: "#stratapp's founders are thought leaders in strategy, execution
+  and B2B SaaS. Applying the best of Simon Sinek, Richard Rumelt, Ricardo Semler and
+  Roger Martin."
 feature_image: ''
+slug: ''
 menu:
   navigation:
     identifier: _resources
