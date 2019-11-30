@@ -20,7 +20,7 @@ That’s been the way for the last 30 years. Static strategy documents that tend
 
 We see there are two problems.
 
-The first, articulated by Freek Vermeulen as: _“A real strategy involves a clear set of choices that define what the firm is going to do and what it’s not going to do.”_ This point is convincingly argued by Richard Rumelt, mentioned in [our other article](https://stratapp.ai/good-strategy-bad-stategy/).
+The first, articulated by Freek Vermeulen as: _“A real strategy involves a clear set of choices that define what the firm is going to do and what it’s not going to do.”_ This point is convincingly argued by Richard Rumelt, mentioned in [our other article](https://stratapp.ai/good-strategy-bad-strategy-by-richard-rumelt/ "Good Strategy Bad Strategy by Richard Rumelt").
 
 The second, is the need to break the age old paradigm of static documents and the terrible human experience of communicating via email.
 
