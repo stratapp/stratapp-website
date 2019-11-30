@@ -5,8 +5,9 @@ layout: post
 banner_image: "/uploads/nov17-09-684790642-Jonathan-Knowles-1024x576.jpg"
 author: Ash Richardson
 seo_title: your strategy should be a hypothesis you constantly adjust by HBR.org
-seo_description: 'Your strategy should be a hypothesis you constantly adjust. The
-  art of evolving strategy as you learn, goes to the heart of #stratapp.'
+seo_description: 'Your strategy should be a hypothesis you constantly adjust by HBR.org.
+  The art of evolving strategy as you learn, goes to the heart of #stratapp.'
+slug: your strategy should be a hypothesis you constantly adjust by hbr org
 
 ---
 ## strategy should be constantly evolving - not static or annual
