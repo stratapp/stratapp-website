@@ -11,7 +11,7 @@ sub_heading: Ideation provides a powerful competitive advantage. Learn how to ta
   collaboration.
 video_id: TwLYQuZRLoI
 banner_image: ''
-seo_title: ideation | innovation | crowdsource ideas
+seo_title: crowdsource ideas to drive ideation and innovation
 seo_description: Crowdsource ideas to drive ideation and innovation, embracing the
   talents of all employees.
 feature_image: ''
