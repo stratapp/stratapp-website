@@ -50,6 +50,7 @@ fields:
   hidden: true
   default: blog
 pages:
+- _blog/kpis-okrs-how-to-easily-cascade-to-every-employee-short-version.md
 - _blog/crowdsource-ideas-run-challenges-and-embrace-the-talents-of-every-employee.md
 - _blog/cfos-typically-get-lumped-with-risk-management.md
 - _blog/stratapp-explainer-video.md
@@ -60,6 +61,5 @@ pages:
 - _blog/social-apps-without-structure-kill-productivity-full-version.md
 - _blog/live-org-chart-powering-both-social-and-work-collaboration.md
 - _blog/live-meeting-notes-that-automatically-consolidate-tasks-across-all-meetings.md
-- _blog/kpis-okrs-how-to-easily-cascade-to-every-employee-short-version.md
 - _blog/kpis-okrs-how-to-easily-cascade-to-every-employee-full-version.md
 - _blog/risk-management-how-to-make-it-org-wide-and-easy.md
