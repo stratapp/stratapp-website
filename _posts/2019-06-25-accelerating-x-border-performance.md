@@ -7,6 +7,7 @@ seo_description: "#stratapp powers strategic alignment and daily execution acros
   time zones, geographies and cultures."
 author: Ash Richardson
 banner_image: "/uploads/thirdwave-book.jpg"
+slug: seamlessly align your onshore and offshore teams
 
 ---
 ## seamlessly align your onshore and offshore teams
