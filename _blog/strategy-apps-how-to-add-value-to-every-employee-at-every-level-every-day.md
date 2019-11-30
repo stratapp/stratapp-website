@@ -9,9 +9,9 @@ sub_heading: We're not the first to conclude that static documents kill strategy
 video_id: 9rEhQOBTrPc
 banner_image: ''
 seo_title: choosing strategy software | best strategy apps
-seo_description: The key to choosing strategy software is to bring strategy execution
-  alive for every employee.  Until now, the best strategy apps have fallen short on
-  sustainable org wide adoption.
+seo_description: 'The key to choosing strategy software is how to achieve org wide
+  adoption, by every employee, to solve strategy execution. Before #stratapp, org
+  wide adoption has not been achievable.'
 feature_image: ''
 slug: choosing strategy software best strategy apps
 
