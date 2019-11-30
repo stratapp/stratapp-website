@@ -7,7 +7,7 @@ seo_description: 'Steve Jobs'' passion for thumb browsing is a core part of #str
 hero_image: "/uploads/14.png"
 date: 2019-06-11T08:00:00.000+00:00
 feature_image: "/uploads/14-1.png"
-slug: steve Jobs passion for thumb browsing
+slug: steve jobs passion for thumb browsing
 
 ---
 \#stratapp puts “your company in your pocket!”
