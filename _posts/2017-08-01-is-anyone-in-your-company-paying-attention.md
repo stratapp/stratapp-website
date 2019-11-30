@@ -4,9 +4,11 @@ date: 2019-06-22T05:16:06.000+00:00
 banner_image: "/uploads/Screen Shot 2019-06-25 at 3.15.38 pm.png"
 layout: post
 author: Marten Jagers
-seo_title: is anyone in your company paying attention to strategic alignment
-seo_description: 'Without the strategic context and alignment provided by #stratapp,
-  social and work collaboration tools just add more noise.'
+seo_title: is anyone in your company paying attention to strategic alignment by HBR.org
+seo_description: 'Is anyone in your company paying attention to strategic alignment
+  by HBR org. Without the strategic context and alignment provided by #stratapp, social
+  and work collaboration tools just add more noise.'
+slug: is anyone in your company paying attention to strategic alignment by HBR org
 
 ---
 ## how to achieve strategic alignment at all levels, roles and generations
