@@ -1,7 +1,7 @@
 ---
 title: watercooler conversations are great, but org-wide social has 10x impact
 seo_title: social with 10x impact
-seo_description: Social with 10x impact. Avoid chinese whispers and connect all levels
+seo_description: Social with 10x impact. Avoid chinese whispers and align all levels
   of your organization - from the CEO to frontline employees.
 hero_image: "/uploads/12.png"
 date: 2019-06-13T08:00:00.000+00:00
