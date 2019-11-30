@@ -26,6 +26,7 @@ fields:
     maxSize: 250
   label: Hero Image
 pages:
+- _features/build-kpis.md
 - _features/designed-around-what-you-know.md
 - _features/create-and-assign-your-kpis-as-a-cascading-tree-both-strategic-and-day-to-day-kpis.md
 - _features/collaborate-effectively-with-clients-partners-and-suppliers.md
@@ -39,5 +40,4 @@ pages:
 - _features/rather-than-adding-more-noise-enjoy-social-collaboration-with-context-and-structure.md
 - _features/hover-on-live-org-chart-to-see-who-works-for-who-and-who-is-working-on-what-right-now.md
 - _features/enjoy-a-mobile-version-that-adds-real-value-keeping-you-effective-on-the-go.md
-- _features/build-kpis.md
 - features.md

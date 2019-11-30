@@ -6,7 +6,7 @@ seo_description: Strategy software with org-wide collaboration on strategy execu
   including KPIs/OKRs, alongside initiatives and day to day work.
 date: 2019-06-24T08:00:00.000+00:00
 feature_image: ''
-slug: strategy-software-with-org-wide-collaboration
+slug: strategy software with org wide collaboration
 
 ---
 Gallup & Deloitte concluded from a recent 5 year study that no factor has more impact on employee engagement than “_clearly defined goals that are written down and shared freely._”
