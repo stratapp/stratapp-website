@@ -11,8 +11,8 @@ sub_heading: Business social apps have pretty much copied facebook - you need to
 video_id: pEMlfHdZIg0
 banner_image: ''
 seo_title: social collaboration apps with org design and structure
-seo_description: "#stratapp is the world's first to apply org design to social collaboration
-  - this will save you many hours every month."
+seo_description: "#stratapp is the world's first to apply org design and structure
+  to social collaboration - this will save you many hours every month."
 feature_image: ''
 slug: social collaboration apps with org design and structure
 
