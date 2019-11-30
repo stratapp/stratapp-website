@@ -3,10 +3,12 @@ date: 2019-06-20T05:21:50.000+00:00
 layout: post
 title: how to run a company with (almost) no rules by Ricardo Semler
 seo_title: how to run a company with (almost) no rules by Ricardo Semler
-seo_description: 'Ricardo Semler’s progressive lateral thinking has been an inspiration
-  for both creating and running #stratapp.'
+seo_description: 'How to run a company with (almost) no rules by Ricardo Semler. Ricardo
+  Semler’s progressive lateral thinking has been an inspiration for both creating
+  and running #stratapp.'
 author: Ash Richardson
 banner_image: "/uploads/TED-Talks-for-Small-Business-and-Entrepreneurs.jpg"
+slug: how to run a company with no rules by Ricardo Semler
 
 ---
 ## Ricardo Semler shot to fame with his book Maverick, an inspiring fresh take on org design / enagement
