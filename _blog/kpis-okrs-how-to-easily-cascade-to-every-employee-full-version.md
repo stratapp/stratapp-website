@@ -17,4 +17,4 @@ feature_image: ''
 slug: KPI software OKR software
 
 ---
-Imagine walking into an employee gathering and within seconds everyone can show you the KPIs they own and how they are tracking.
+Imagine walking into an employee gathering and within seconds every employee can show you on their mobile phone the KPIs/OKRs they own, and how they are tracking on each of them.
