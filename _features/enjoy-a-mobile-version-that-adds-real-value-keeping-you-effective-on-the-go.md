@@ -1,5 +1,5 @@
 ---
-title: enjoy a mobile version that adds real value, keeping you effective on the go
+title: 'how #stratapp applies Steve Jobs'' passion for thumb browsing'
 seo_title: Steve Jobs' passion for thumb browsing
 seo_description: 'Steve Jobs'' passion for thumb browsing is a core part of #stratapp''s
   mobile UX design. Enjoy a mobile version that adds real value, keeping you effective
