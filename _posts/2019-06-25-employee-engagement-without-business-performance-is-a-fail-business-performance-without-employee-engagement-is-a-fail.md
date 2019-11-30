@@ -5,9 +5,10 @@ title: employee engagement without business performance is a fail; business perf
   without employee engagement is a fail
 seo_title: Gallup's Q12 Index on measuring employee engagement
 seo_description: 'Gallup''s Q12 Index on measuring employee engagement is useful for
-  evaluating the success of #stratapp.'
+  evaluating the success of your #stratapp rollout.'
 author: Anthony Moorhouse
 banner_image: "/uploads/Catalan human tower.jpg"
+slug: Gallup Q12 Index on measuring employee engagement
 
 ---
 ## Gallup's Q12 Index on measuring employee engagement is useful for evaluating the success of #stratapp.
