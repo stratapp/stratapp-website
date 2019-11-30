@@ -10,15 +10,13 @@ sub_heading: Seamlessly execute strategy and day to day work in one place.  A co
 video_id: U30Yx4H3ctM
 banner_image: ''
 seo_title: "#stratapp explainer video"
-seo_description: World first strategy and business planning software for executing
-  both strategy and day to day work in one place, in one seamless user experience
-  made easy for every employee.
+seo_description: World first strategy and bui software for executing both strategy
+  and day to day work in one place, in one seamless user experience made easy for
+  every employee.
 feature_image: ''
 slug: stratapp explainer video
 
 ---
-In 90 seconds learn about a world first in business software.
-
 We don't go to work to do CRM, HR, finance and email.  We go to work to collaborate on our organizations goals and plans.
 
 30 years of static strategy documents have been holding us back - it is time to fix this!
