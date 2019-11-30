@@ -8,7 +8,7 @@ seo_title: is anyone in your company paying attention to strategic alignment by 
 seo_description: 'Is anyone in your company paying attention to strategic alignment
   by HBR org. Without the strategic context and alignment provided by #stratapp, social
   and work collaboration tools just add more noise.'
-slug: is anyone in your company paying attention to strategic alignment by HBR org
+slug: is anyone in your company paying attention to strategic alignment by hbr org
 
 ---
 ## how to achieve strategic alignment at all levels, roles and generations

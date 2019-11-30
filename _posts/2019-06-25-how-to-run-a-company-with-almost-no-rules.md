@@ -8,7 +8,7 @@ seo_description: 'How to run a company with (almost) no rules by Ricardo Semler.
   and running #stratapp.'
 author: Ash Richardson
 banner_image: "/uploads/TED-Talks-for-Small-Business-and-Entrepreneurs.jpg"
-slug: how to run a company with no rules by Ricardo Semler
+slug: how to run a company with no rules by ricardo semler
 
 ---
 ## Ricardo Semler shot to fame with his book Maverick, an inspiring fresh take on org design / enagement
