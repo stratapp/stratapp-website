@@ -1,12 +1,12 @@
 ---
-title: 10-apps-in-1
+title: 10-apps-in-1 seamless UX
 hero_image: "/uploads/02-1.png"
-seo_title: "#stratapp is 10 apps in 1"
+seo_title: "#stratapp is 10 apps in 1 seamless UX"
 seo_description: "#stratapp is 10 apps in 1. Companies don't want to send employees
   to 10+ different apps in order to do do their jobs."
 date: 2019-06-26T08:00:00.000+00:00
 feature_image: ''
-slug: stratapp is 10 apps in 1
+slug: stratapp is 10 apps in 1 seamless UX
 
 ---
 Up until about 2010, there was an enthusiastic rush to add as many consumer apps to your smartphone as possible. At almost every pub or restaurant gathering you’d hear someone say: “_So, what cool new apps have you discovered this week?_”
