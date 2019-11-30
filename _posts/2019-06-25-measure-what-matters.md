@@ -3,11 +3,12 @@ date: 2019-06-20T05:18:37.000+00:00
 layout: post
 title: measure what matters by John Doerr
 seo_title: Measure What Matters by John Doerr
-seo_description: 'Google has applied Andy Grove''s OKR methodology every quarter since
-  1999, explained in Measure What Matters by John Doerr. Bring OKRs alive org-wide
-  using #stratapp.'
+seo_description: 'Measure What Matters by John Doerr. Google has applied Andy Grove''s
+  OKR methodology every quarter since 1999, explained in Measure What Matters by John
+  Doerr. Bring your OKRs alive org-wide using #stratapp.'
 author: Ash Richardson
 banner_image: "/uploads/measurewhatmatters-book.jpg"
+slug: measure what matters by john doerr
 
 ---
 ## Google has applied Andy Grove's OKR methodology every quarter since 1999 
