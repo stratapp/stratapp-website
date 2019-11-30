@@ -26,6 +26,7 @@ fields:
     maxSize: 250
   label: Hero Image
 pages:
+- _features/create-and-assign-your-kpis-as-a-cascading-tree-both-strategic-and-day-to-day-kpis.md
 - _features/watercooler-conversations-are-great-but-org-wide-social-has-10x-impact.md
 - _features/view-a-live-global-heatmap-of-where-your-people-are-and-what-s-hot-right-now.md
 - _features/take-comfort-that-tasks-from-notes-and-all-modules-will-appear-in-your-workspace.md
@@ -35,7 +36,6 @@ pages:
 - _features/enjoy-a-mobile-version-that-adds-real-value-keeping-you-effective-on-the-go.md
 - _features/build-kpis.md
 - _features/designed-around-what-you-know.md
-- _features/create-and-assign-your-kpis-as-a-cascading-tree-both-strategic-and-day-to-day-kpis.md
 - _features/collaborate-effectively-with-clients-partners-and-suppliers.md
 - _features/capture-ideas-on-the-go-or-crowdsource-org-wide-talent-on-ideation-challenges.md
 - _features/build-your-strategy-as-cascading-tree.md

@@ -9,7 +9,7 @@ seo_description: Create and assign your KPIs/OKRs as a cascading tree. KPIs/OKRs
 hero_image: "/uploads/05.png"
 date: 2019-06-23T08:00:00.000+00:00
 feature_image: ''
-slug: create and assign your KPIs OKRs as a cascading tree
+slug: create and assign your kpis okrs as a cascading tree
 
 ---
 KPIs/OKRs can be strategic or day to day, quantitative or qualitative.  KPIs/OKRs can be viewed as their own hierarchical tree (which automatically overlay onto a Live Org Chart), indented list or balanced scorecard.
