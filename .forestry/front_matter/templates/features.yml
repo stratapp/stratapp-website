@@ -26,6 +26,7 @@ fields:
     maxSize: 250
   label: Hero Image
 pages:
+- _features/build-your-strategy-as-cascading-tree.md
 - _features/10-apps-in-1.md
 - _features/bring-risk-management-alive-org-wide.md
 - _features/watercooler-conversations-are-great-but-org-wide-social-has-10x-impact.md
@@ -39,5 +40,4 @@ pages:
 - _features/create-and-assign-your-kpis-as-a-cascading-tree-both-strategic-and-day-to-day-kpis.md
 - _features/collaborate-effectively-with-clients-partners-and-suppliers.md
 - _features/capture-ideas-on-the-go-or-crowdsource-org-wide-talent-on-ideation-challenges.md
-- _features/build-your-strategy-as-cascading-tree.md
 - features.md
