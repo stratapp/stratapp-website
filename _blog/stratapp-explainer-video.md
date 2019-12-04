@@ -17,6 +17,6 @@ feature_image: ''
 slug: stratapp explainer video
 
 ---
-We don't go to work to do CRM, HR, finance and email.  We go to work to collaborate on our organizations goals and plans.
+We don't go to work to do CRM, HR, finance and email.  We go to work to collaborate on our organization's goals and plans.
 
 30 years of static strategy documents have been holding us back - it is time to fix this!
