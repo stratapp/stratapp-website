@@ -15,7 +15,7 @@ intro_text: |-
 
   We did not invent new management buzz words, theory or methods. We carefully designed #stratapp around what you already know.
 
-  Therefore, your time-to-value on #stratapp is days - not months, quarters or years.
+  Therefore, your time-to-value on #stratapp is days - not weeks, months or quarters.
 intro_image: "/uploads/all generations.jpg"
 section_text: |-
   {:.font-weight-bold}
