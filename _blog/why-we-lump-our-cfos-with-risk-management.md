@@ -11,7 +11,7 @@ video_id: ''
 banner_image: "/uploads/Cox's risk matrix theorem.png"
 slug: why we lump our cfos with risk management
 seo_title: why we lump our CFOs with risk management
-seo_description: 'Risk management software for CFOs is not good as a single use app.
+seo_description: 'Risk management software for CFOs is no good as a single use app.
   #stratapp makes risk management a natural part of both strategic and day to day
   work, org-wide for every employee.'
 feature_image: ''
