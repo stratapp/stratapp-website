@@ -65,9 +65,7 @@ To learn more about the risk management piece, watch: [https://stratapp.ai/blog/
 
 ### **10-apps-in-1**
 
-Actually, the whole of #stratapp has been designed around what you already know.
-
-We keep it simple across each piece, so your time to value is days - not weeks, months or quarters.
+Actually, the whole of #stratapp has been designed around what you already know.  We keep it simple across each piece, so your time to value is days - not weeks, months or quarters.
 
 CEOs and business owners don’t want to send employees to 10+ different apps to get their work done.
 
