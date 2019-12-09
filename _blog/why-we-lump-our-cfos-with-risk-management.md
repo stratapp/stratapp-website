@@ -18,6 +18,8 @@ seo_description: 'Risk management software for CFOs is no good as a single use a
 feature_image: "/uploads/Cox's risk matrix theorem v2.png"
 
 ---
+... Cox's risk matrix theorem.
+
 The board of directors are responsible for governance, including risk management.
 
 Risks are to be identified at a company level, then cascaded with clear ownership through various layers of management and org design. Risks should also be managed for strategic initiatives, projects, critical processes and key stakeholders (clients, suppliers, partners and contractors).
