@@ -32,9 +32,9 @@ Public companies issue regular risk statements. Often the executives and senior 
 
 Single use apps are no good either. We don’t want to open a single use app, just to do risk management. That’s no better than trying to find the last doc or sheet we were using. I cannot count how many board meetings I’ve been to where the risk log is either lost, out of date or deferred over to the next meeting.
 
-The CFO is in a no-win situation taking on risk management, faced with two headaches:
+The CFO is in a no-win situation taking on risk management.  They are faced with a dual headache:
 
-1. Getting people to take genuine ownership of each risk
+1. Getting people to take ownership of each risk
 2. Keeping the risk information up to date
 
 \#stratapp changes the game on risk management.
