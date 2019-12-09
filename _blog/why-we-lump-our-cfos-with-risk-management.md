@@ -1,7 +1,7 @@
 ---
 author: _people/ash-richardson.md
 category:
-- "#articles"
+- "#z-articles"
 date: 2019-12-09 15:36:24 +1000
 layout: blog
 title: why we lump our CFOs with risk management
