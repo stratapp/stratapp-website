@@ -18,7 +18,7 @@ seo_description: 'Risk management software for CFOs is no good as a single use a
 feature_image: "/uploads/Cox's risk matrix theorem v2.png"
 
 ---
-... Cox's risk matrix theorem.
+... Cox's risk matrix theorem on rating probability vs impact.
 
 The board of directors are responsible for governance, including risk management.
 
