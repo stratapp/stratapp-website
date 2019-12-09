@@ -18,12 +18,6 @@ seo_description: 'Risk management software for CFOs is no good as a single use a
 feature_image: "/uploads/Cox's risk matrix theorem.png"
 
 ---
-# why we lump our CFOs with risk management
-
-## If made easier, most of us would embrace risk management. But it’s not, so we pass the monkey to our CFOs. You know, that C-level role we love to delegate annoying things to.
-
-!\[\](/uploads/Cox's risk matrix theorem.png "Cox's risk matrix theorem")
-
 The board of directors are responsible for governance, including risk management.
 
 Risks are to be identified at a company level, then cascaded with clear ownership through various layers of management and org design. Risks should also be managed for strategic initiatives, projects, critical processes and key stakeholders (clients, suppliers, partners and contractors).
@@ -41,7 +35,7 @@ The CFO is in a no-win situation taking on risk management, faced with two heada
 1. Getting people to take genuine ownership of each risk
 2. Keeping the risk information up to date
 
-[https://stratapp.ai](https://stratapp.ai "https://stratapp.ai") changes the game on risk management.
+\#stratapp changes the game on risk management.
 
 There are two fresh thinking angles behind #stratapp’s approach:
 
