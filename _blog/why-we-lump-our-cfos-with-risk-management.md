@@ -34,7 +34,7 @@ Single use apps are no good either. We don’t want to open a single use app, ju
 
 CFOs are in a no-win situation taking on risk management.  They face a dual headache:
 
-1. Getting people to take ownership of each risk, and the mitigations
+1. Getting people to take ownership of each risk, and the corresponding mitigations
 2. Keeping the risk information up to date
 
 \#stratapp changes the game on risk management.
