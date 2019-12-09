@@ -50,6 +50,7 @@ fields:
   hidden: true
   default: blog
 pages:
+- _blog/why-we-lump-our-cfos-with-risk-management.md
 - _blog/stratapp-explainer-video.md
 - _blog/strategy-apps-how-to-add-value-to-every-employee-at-every-level-every-day.md
 - _blog/social-collaboration-adding-org-design-to-save-you-time.md
