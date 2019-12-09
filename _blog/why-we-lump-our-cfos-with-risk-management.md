@@ -84,5 +84,3 @@ With #stratapp, CFOs can now thrive when thrown the risk management monkey.
 They get to elevate how their organization executes on strategy, goals and plans - alongside an intuitive approach to risk management that adds value, rather than just ticking a compliance box.
 
 Ideas are a plenty. Execution is what matters.
-
-De-risk both the CFO role and execution of your organization’s strategy, goals and plans.
