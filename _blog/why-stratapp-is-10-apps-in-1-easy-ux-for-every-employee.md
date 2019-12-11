@@ -1,7 +1,7 @@
 ---
 author: _people/ash-richardson.md
 category:
-- "#tutorials"
+- "#videos"
 date: 2019-11-12 14:50:29 +1000
 layout: blog
 title: 'why #stratapp is 10-apps-in-1 easy UX for every employee'
