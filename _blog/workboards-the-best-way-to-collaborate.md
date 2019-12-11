@@ -5,8 +5,8 @@ category:
 date: 2019-12-11 13:09:07 +1000
 layout: blog
 title: workboards - the best way to collaborate
-sub_heading: "#stratapp's workboards are designed for businesses, as well as small
-  teams."
+sub_heading: "#stratapp's workboards are designed for org-wide, large team and international
+  use - as well as small teams."
 video_id: YpaWUGj53YI
 banner_image: ''
 slug: workboards are the best way to collaborate
