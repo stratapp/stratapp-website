@@ -14,5 +14,6 @@ seo_description: 'Learn where digital work collaboration started and why it has 
   a blindspot for senior execs and company directors. See how #stratapp is making
   this brilliant IP available to all roles, levels and generations.'
 feature_image: ''
+published: false
 
 ---
