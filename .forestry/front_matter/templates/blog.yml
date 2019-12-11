@@ -51,6 +51,7 @@ fields:
   default: blog
 pages:
 - _blog/work-collaboration-still-a-blindspot-for-senior-execs.md
+- _blog/stratapp-explainer-video.md
 - _blog/workboards-the-best-way-to-collaborate.md
 - _blog/crowdsource-ideas-run-challenges-and-embrace-the-talents-of-every-employee.md
 - _blog/strategy-tree-2-tips-for-communicating-your-business-strategy.md
@@ -64,4 +65,3 @@ pages:
 - _blog/live-meeting-notes-that-automatically-consolidate-tasks-across-all-meetings.md
 - _blog/social-collaboration-adding-org-design-to-save-you-time.md
 - _blog/social-apps-without-structure-kill-productivity-full-version.md
-- _blog/stratapp-explainer-video.md
