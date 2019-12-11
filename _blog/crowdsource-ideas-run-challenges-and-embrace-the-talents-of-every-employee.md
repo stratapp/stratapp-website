@@ -1,7 +1,7 @@
 ---
 author: _people/ash-richardson.md
 category:
-- "#videos"
+- "#explainers"
 date: 2019-11-12T04:34:41.000+00:00
 layout: blog
 title: crowdsource ideas, run challenges and embrace the talents of every employee

@@ -1,7 +1,7 @@
 ---
 author: _people/ash-richardson.md
 category:
-- "#tutorials"
+- "#explainers"
 date: 2019-11-12T06:01:41.000+00:00
 layout: blog
 title: live meeting notes - that automatically consolidate tasks across all meetings
