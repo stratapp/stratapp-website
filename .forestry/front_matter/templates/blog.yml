@@ -50,7 +50,6 @@ fields:
   hidden: true
   default: blog
 pages:
-- _blog/work-collaboration-still-a-blindspot-for-senior-execs.md
 - _blog/stratapp-explainer-video.md
 - _blog/workboards-the-best-way-to-collaborate.md
 - _blog/crowdsource-ideas-run-challenges-and-embrace-the-talents-of-every-employee.md
@@ -68,6 +67,7 @@ pages:
 - _blog/source-links.md
 - _blog/security-levels.md
 - _blog/social-work-collaboration.md
+- _blog/work-collaboration-still-a-blindspot-for-senior-execs.md
 - _blog/strategy-tree-edit-view.md
 - _blog/social-teams-collaboration.md
 - _blog/strategy-tree-2-tips-for-communicating-your-business-strategy.md

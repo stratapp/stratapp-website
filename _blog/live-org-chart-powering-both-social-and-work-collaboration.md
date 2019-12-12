@@ -2,7 +2,7 @@
 author: _people/ash-richardson.md
 category:
 - "#explainers"
-date: 2019-11-12T06:21:57.000+00:00
+date: 2019-10-29 16:21:57 +1000
 layout: blog
 title: live org chart - powering both social and work collaboration
 sub_heading: Whilst we're not the first to think of live org charts, we are the world's
