@@ -1,6 +1,7 @@
 ---
 author: _people/ash-richardson.md
-category: []
+category:
+- "#tutorials"
 date: 2019-12-12 18:38:31 +1000
 layout: blog
 title: pinning
