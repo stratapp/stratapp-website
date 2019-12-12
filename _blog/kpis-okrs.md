@@ -2,7 +2,7 @@
 author: _people/ash-richardson.md
 category:
 - "#tutorials"
-date: 2019-12-12 18:55:25 +1000
+date: 2019-12-11 18:55:25 +1000
 layout: blog
 title: KPIs OKRs
 sub_heading: "#stratapp allows you to set KPIs/OKRs for both strategic and day to
