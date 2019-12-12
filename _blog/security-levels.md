@@ -2,7 +2,7 @@
 author: _people/ash-richardson.md
 category:
 - "#tutorials"
-date: 2019-12-12 18:36:33 +1000
+date: 2019-11-28 18:36:33 +1000
 layout: blog
 title: security levels
 sub_heading: 'Each card and workboard in #stratapp has four levels of security, that
