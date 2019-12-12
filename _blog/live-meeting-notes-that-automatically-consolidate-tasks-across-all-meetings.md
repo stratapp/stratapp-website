@@ -2,7 +2,7 @@
 author: _people/ash-richardson.md
 category:
 - "#explainers"
-date: 2019-11-12T06:01:41.000+00:00
+date: 2019-10-25 16:01:41 +1000
 layout: blog
 title: live meeting notes - that automatically consolidate tasks across all meetings
 sub_heading: How many meetings and calls do you do each day?  Imagine if all participants

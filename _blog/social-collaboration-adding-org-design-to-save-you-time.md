@@ -2,7 +2,7 @@
 author: _people/ash-richardson.md
 category:
 - "#explainers"
-date: 2019-11-05T05:59:36.000+00:00
+date: 2019-10-26 15:59:36 +1000
 layout: blog
 title: social collaboration - adding org design, to save you time
 sub_heading: Business social apps have pretty much copied facebook - you need to know
