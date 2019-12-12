@@ -2,7 +2,7 @@
 author: _people/ash-richardson.md
 category:
 - "#tutorials"
-date: 2019-12-12 18:40:33 +1000
+date: 2019-12-03 18:40:33 +1000
 layout: blog
 title: 4 views of strategy
 sub_heading: You can build your strategy as a tree hierarchy of goals to objectives
