@@ -2,7 +2,7 @@
 author: _people/ash-richardson.md
 category:
 - "#tutorials"
-date: 2019-12-12 18:42:19 +1000
+date: 2019-12-07 18:42:19 +1000
 layout: blog
 title: notes
 sub_heading: 'Notes, including live meeting notes, inside #stratapp allow you to tie

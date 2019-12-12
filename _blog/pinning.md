@@ -2,7 +2,7 @@
 author: _people/ash-richardson.md
 category:
 - "#tutorials"
-date: 2019-12-12 18:38:31 +1000
+date: 2019-12-04 18:38:31 +1000
 layout: blog
 title: pinning
 sub_heading: 'You will love the pinning features inside #stratapp, including starred

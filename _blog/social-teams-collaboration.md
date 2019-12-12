@@ -2,7 +2,7 @@
 author: _people/ash-richardson.md
 category:
 - "#tutorials"
-date: 2019-12-12 18:57:05 +1000
+date: 2019-12-06 18:57:05 +1000
 layout: blog
 title: social teams collaboration
 sub_heading: 'Social teams collaboration by automatically applying your org design
