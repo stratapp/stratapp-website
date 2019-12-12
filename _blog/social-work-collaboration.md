@@ -16,3 +16,4 @@ seo_description: 'The social work collaboration tab inside #stratapp is probably
 feature_image: ''
 
 ---
+The social work tab inside #stratapp is probably the most loved feature of all.  In a few clicks, catch up on exactly what you need to.
