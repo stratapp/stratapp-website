@@ -17,4 +17,3 @@ seo_description: 'Source links inside #stratapp create a naturally intuitive UX 
 feature_image: ''
 
 ---
-Source links inside #stratapp create a natural UX for aligning everything you do to strategy and other relevant context.
