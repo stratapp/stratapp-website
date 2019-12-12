@@ -2,7 +2,7 @@
 author: _people/ash-richardson.md
 category:
 - "#explainers"
-date: 2019-11-12T04:34:41.000+00:00
+date: 2019-10-24 14:34:41 +1000
 layout: blog
 title: crowdsource ideas, run challenges and embrace the talents of every employee
 sub_heading: Ideation provides a powerful competitive advantage. Learn how to take
