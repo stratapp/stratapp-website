@@ -2,7 +2,7 @@
 author: _people/ash-richardson.md
 category:
 - "#tutorials"
-date: 2019-12-12 18:23:35 +1000
+date: 2019-12-08 18:23:35 +1000
 layout: blog
 title: ideation
 sub_heading: Capture ideas and run challenges to drive ideation and innovation across

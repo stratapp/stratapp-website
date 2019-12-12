@@ -2,7 +2,7 @@
 author: _people/ash-richardson.md
 category:
 - "#tutorials"
-date: 2019-12-12 18:34:17 +1000
+date: 2019-12-10 18:34:17 +1000
 layout: blog
 title: social work collaboration
 sub_heading: 'The social work tab inside #stratapp is probably the most loved feature
