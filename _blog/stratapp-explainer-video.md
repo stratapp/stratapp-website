@@ -17,6 +17,8 @@ feature_image: ''
 slug: stratapp explainer video
 
 ---
+Seamlessly execute strategy and day to day work in one place.  A collaborative experience that aligns and engages everyone.
+
 We don't go to work to do CRM, HR, finance and email.  We go to work to collaborate on our organization's goals and plans.
 
 30 years of static strategy documents have been holding us back - it is time to fix this!

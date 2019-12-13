@@ -16,4 +16,6 @@ feature_image: ''
 slug: live org chart software
 
 ---
+Whilst we're not the first to think of live org charts, we are the world's first app to apply that powerful concept to social and work collaboration.
+
 This will save you several hours per month and you'll love the experience.
