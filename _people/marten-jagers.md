@@ -2,7 +2,7 @@
 title: Marten Jagers
 date: 2017-12-14T10:00:44.000+00:00
 thumbnail: "/uploads/Marty.jpg"
-sub_heading: co-founder (go-to-market)
+sub_heading: co-founder
 email: marten@stratapp.ai
 linkedin: https://www.linkedin.com/in/martenjagers/
 layout: person
