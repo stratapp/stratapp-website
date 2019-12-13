@@ -42,7 +42,7 @@ faqs:
     No problem, there are no termination fees.
 
     In future releases we will be adding APIs for you to link your data to BI tools.
-seo_title: 10-apps-in-1 for org-wide collaboration on both strategy and execution
+seo_title: 10-apps-in-1 for genuine org-wide collaboration on both strategy and execution
 seo_description: Affordable strategy software that achieves genuine org-wide collaboration
   and seamless execution of strategy and KPIs/OKRs, alongside day to day work.
 quote: |-
