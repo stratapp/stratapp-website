@@ -7,7 +7,7 @@ layout: blog
 title: notes
 sub_heading: 'Notes inside #stratapp allow you to tie meetings and calls together
   with both strategic and day to day work. You can live edit with colleagues in real
-  time.'
+  time, when the status is active.'
 video_id: Utg61R50va4
 banner_image: ''
 slug: notes
