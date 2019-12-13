@@ -59,6 +59,6 @@ menu:
 ---
 {:.font-weight-bold}
 
-# 10-apps-in-1 for genuine org-wide collaboration on both strategy and execution
+# 10-apps-in-1 for org-wide collaboration on strategy and execution
 
 ##### affordable pricing, with full features available to every employee
