@@ -1,7 +1,7 @@
 ---
 title: features
 layout: features
-seo_title: strategy+execution+collaboration software that even millennials love
+seo_title: strategy+execution+collaboration SaaS that even millennials love
 seo_description: 'Seamlessly execute strategy, business plans, KPIs/OKRs, ideation
   and initiatives, alongside day to day work. #stratapp is 10-apps-in-1 seamless user
   experience, that even the millennials love.'
@@ -17,6 +17,6 @@ menu:
 ---
 {:.font-weight-bold}
 
-# strategy+execution+collaboration software that even millennials love
+# strategy+execution+collaboration SaaS that even millennials love
 
 ##### execute strategy, business plans, KPIs/OKRs, ideation and initiatives, alongside day to day work
