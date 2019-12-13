@@ -4,7 +4,7 @@ category:
 - "#explainers"
 date: 2019-10-26 15:59:36 +1000
 layout: blog
-title: social collaboration - adding org design, to save you time
+title: social collaboration - adding org design, to save you time (full version)
 sub_heading: Business social apps have pretty much copied facebook - you need to know
   the person's name.  That doesn't work so well in business, where it gets hard to
   remember everybody's name.
