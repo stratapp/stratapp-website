@@ -11,7 +11,7 @@ sub_heading: If it was easy to do, we would all embrace risk management - the pr
 video_id: FfIifQL-LkM
 banner_image: ''
 seo_title: risk management apps | how to make it org-wide and easy
-seo_description: Easy risk managment software for every employee. Track and manage
+seo_description: Easy risk management software for every employee. Track and manage
   risks at all levels - for the whole organization, as well as each initiative, project
   and function.
 feature_image: ''
