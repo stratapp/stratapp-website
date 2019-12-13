@@ -17,4 +17,6 @@ seo_description: We're not the first to conclude that static documents kill stra
 feature_image: ''
 
 ---
+We're not the first to conclude that static documents kill strategy execution.  However, we are the world's first app to bring strategy execution alive for every employee.
+
 To do that, we have to add value to every employee, at every level, every day. Without adding more distractions and noise - check it out, you'll love it.
