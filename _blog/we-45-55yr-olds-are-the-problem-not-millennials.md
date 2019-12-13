@@ -1,7 +1,7 @@
 ---
 author: _people/ash-richardson.md
 category:
-- "#articles"
+- "#z-articles"
 date: 2019-09-30 12:31:27 +1000
 layout: blog
 title: we 45–55yr olds are the problem, not millennials
