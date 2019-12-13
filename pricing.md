@@ -59,6 +59,6 @@ menu:
 ---
 {:.font-weight-bold}
 
-# strategy software that achieves genuine org-wide collaboration
+# 10-apps-in-1 for genuine org-wide collaboration on both strategy and execution
 
 ##### affordable pricing, with full features available to every employee
