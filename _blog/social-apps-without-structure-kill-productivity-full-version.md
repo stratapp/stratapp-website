@@ -17,6 +17,8 @@ feature_image: ''
 slug: social apps with structure reduce noise
 
 ---
+We all love social collaboration, but current social apps are a firehose of distraction and noise.
+
 We are not the first to think of adding structure to social (e.g. comment vs question vs decision vs approval, etc), but we are the first to take it to the next level - by placing social collaboration within the context of your organization's strategy, goals, KPIs, initiatives and daily priorities.
 
 You'll love it.  Enjoy the best of org-wide social collaboration, without the noise.

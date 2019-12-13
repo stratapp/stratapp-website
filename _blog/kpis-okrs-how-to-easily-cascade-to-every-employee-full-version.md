@@ -17,4 +17,6 @@ feature_image: ''
 slug: KPI software OKR software
 
 ---
+The two types of KPIs (strategic and day-to-day) and how they can be cascaded to every employee, in a way that is easy to collaborate with others on delivering outcomes.
+
 Imagine walking into an employee gathering and within seconds every employee can show you on their mobile phone the KPIs/OKRs they own, and how they are tracking on each of them.
