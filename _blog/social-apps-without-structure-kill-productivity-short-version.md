@@ -2,7 +2,7 @@
 author: _people/ash-richardson.md
 category:
 - "#explainers"
-date: 2019-10-31 17:07:00 +1000
+date: 2019-11-30 17:07:00 +1000
 layout: blog
 title: social apps without structure kill productivity (short version)
 sub_heading: 'We all love social collaboration, but current social apps are a firehose
