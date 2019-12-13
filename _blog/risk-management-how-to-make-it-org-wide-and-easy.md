@@ -4,7 +4,7 @@ category:
 - "#explainers"
 date: 2019-10-23 05:04:35 +1000
 layout: blog
-title: risk management - how to make it org-wide and easy
+title: risk management - how to make it org-wide and easy (full version)
 sub_heading: If it was easy to do, we would all embrace risk management - the problem
   is not our will, the problem is static documents and no connection with our day
   to day.  Learn how to fix this.
