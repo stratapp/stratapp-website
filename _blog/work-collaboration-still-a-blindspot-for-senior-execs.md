@@ -2,7 +2,7 @@
 author: _people/ash-richardson.md
 category:
 - "#explainers"
-date: 2019-10-30 13:12:11 +1000
+date: 2019-11-23 13:12:11 +1000
 layout: blog
 title: work collaboration - still a blindspot for senior execs
 sub_heading: 'Learn where digital work collaboration started and why it has remained
