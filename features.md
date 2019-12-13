@@ -19,4 +19,4 @@ menu:
 
 # strategy+execution+collaboration software that even millennials love
 
-##### seamlessly execute strategy, business plans, KPIs/OKRs, ideation and initiatives, alongside day to day work
+##### execute strategy, business plans, KPIs/OKRs, ideation and initiatives, alongside day to day work
