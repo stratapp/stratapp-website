@@ -4,7 +4,7 @@ category:
 - "#insights"
 date: 2019-11-12T06:26:09.000+00:00
 layout: blog
-title: "#stratapp explainer video"
+title: explainer video
 sub_heading: Seamlessly execute strategy and day to day work in one place.  A collaborative
   experience that aligns and engages everyone.
 video_id: U30Yx4H3ctM
