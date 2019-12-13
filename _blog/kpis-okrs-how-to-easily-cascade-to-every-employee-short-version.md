@@ -2,7 +2,7 @@
 author: _people/ash-richardson.md
 category:
 - "#explainers"
-date: 2019-10-22 16:09:33 +1000
+date: 2019-10-28 17:09:00 +1000
 layout: blog
 title: KPIs & OKRs - how to easily cascade to every employee (short version)
 sub_heading: The two types of KPIs (strategic and day-to-day) and how they can be
