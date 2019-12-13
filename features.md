@@ -17,6 +17,6 @@ menu:
 ---
 {:.font-weight-bold}
 
-# strategy execution software that even millennials love
+# strategy+execution+collaboration software that even millennials love
 
 ##### seamlessly execute strategy, business plans, KPIs/OKRs, ideation and initiatives, alongside day to day work
