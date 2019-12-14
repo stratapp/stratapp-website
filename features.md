@@ -17,6 +17,6 @@ menu:
 ---
 {:.font-weight-bold}
 
-# strategy + execution + collaboration SaaS that even millennials love
+# strategy/execution/collaboration SaaS that even millennials love
 
 ##### execute strategy, business plans, KPIs/OKRs, ideation and initiatives, alongside day to day work
