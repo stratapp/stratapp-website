@@ -34,7 +34,7 @@ faqs:
   answer: |-
     Yes, we use the latest in data encryption and authentication technology.
 
-    \#stratapp is built on scalable Microservices on top of Microsoft Service Fabric, hosted on Microsoft Azure.
+    \#stratapp is built on scalable micro-services on top of Microsoft Service Fabric, hosted on Microsoft Azure.
 
     \#stratapp supports SAML/SSO.
 - question: 'What happens when I stop using #stratapp?'
