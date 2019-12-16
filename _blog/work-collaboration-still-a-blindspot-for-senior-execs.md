@@ -17,3 +17,4 @@ seo_description: 'Learn where work collaboration tech started and why it has rem
 feature_image: ''
 
 ---
+See how #stratapp is making this brilliant IP available to all roles, levels and generations.
