@@ -2,7 +2,7 @@
 title: contact
 layout: contact-us
 description: ask a question or learn how to become a partner
-publish_date: 2019-12-04 00:00:00 +1000
+publish_date: 2019-12-03T14:00:00.000+00:00
 seo_title: ask a question or become a partner
 seo_description: 'Get in touch with #stratapp. We look forward to sharing our journey
   with you and collaborating on our roadmap.'
@@ -14,4 +14,4 @@ slug: ''
 
 # ask a question or become a partner
 
-##### seamless execute strategy and day to day work in one place
+##### seamlessly execute strategy and day to day work in one place
