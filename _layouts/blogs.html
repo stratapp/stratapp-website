@@ -61,7 +61,7 @@ layout: default
 			<div class="row flex-column flex-md-row">
 			 {% for post in site.blog reversed %}
 				 {% if post.category contains tag %}
-					<div class="col-md-4" data-aos="flip-up" data-aos-delay="150">
+					<article class="col-md-4" data-aos="flip-up" data-aos-delay="150">
 						<div class="c-blog bg-white rounded-lg overflow-hidden shadow-lg mb-5">
 
 							{% if post.banner_image and post.banner_image != "" %}
@@ -78,12 +78,12 @@ layout: default
 							    {% endif %}
 							{% endif %}
 							<div class="px-4 py-3">
-						          <h5 class="font-weight-bold text-primary mb-3"><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h5>
-						          <p class="mb-0">{{ post.content | strip_html | truncatewords: 20 }} <a class="text-primary" href="{{ post.url | absolute_url }}">keep reading</a></p>
+						          <h5 class="font-weight-bold text-primary mb-3"><a title="{{ post.title }}" href="{{ post.url | absolute_url }}">{{ post.title }}</a></h5>
+						          <p class="mb-0">{{ post.content | strip_html | truncatewords: 20 }} <a title="Read {{ post.title }}" class="text-primary" href="{{ post.url | absolute_url }}">see more</a></p>
 						          
 						    </div>
 						</div>
-					</div>
+					</article>
 				 {% endif %}
 			 {% endfor %}
 			</div>
