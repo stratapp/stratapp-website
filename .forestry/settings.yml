@@ -15,7 +15,7 @@ sections:
   templates:
   - features
 - type: jekyll-posts
-  label: Posts
+  label: Resources
   create: all
   templates:
   - posts
