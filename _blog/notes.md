@@ -2,7 +2,7 @@
 author: _people/ash-richardson.md
 category:
 - "#tutorials"
-date: 2019-12-07 18:42:19 +1000
+date: 2019-12-07T08:42:19.000+00:00
 layout: blog
 title: notes
 sub_heading: 'Notes inside #stratapp allow you to tie meetings and calls together
@@ -17,5 +17,6 @@ seo_description: "#stratapp's notes include live meeting notes. Allowing you to 
   in a day, all of your actions from each meeting will automatically appear in your
   workspace"
 feature_image: ''
+published: false
 
 ---

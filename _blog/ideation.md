@@ -2,7 +2,7 @@
 author: _people/ash-richardson.md
 category:
 - "#tutorials"
-date: 2019-12-08 18:23:35 +1000
+date: 2019-12-08T08:23:35.000+00:00
 layout: blog
 title: ideation
 sub_heading: Capture ideas and run challenges to drive ideation and innovation across
@@ -15,5 +15,6 @@ seo_description: 'Crowdsourcing ideation and innovation with #stratapp. Capture 
   and run challenges to drive ideation and innovation across all roles, levels and
   generations. Reward your best contributors and innovators.'
 feature_image: ''
+published: false
 
 ---

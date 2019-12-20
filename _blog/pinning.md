@@ -14,5 +14,6 @@ seo_title: 'pinning features inside #stratapp'
 seo_description: 'You will love the pinning features inside #stratapp, including starred
   and custom pin categories.'
 feature_image: ''
+published: false
 
 ---
