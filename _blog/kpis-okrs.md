@@ -2,7 +2,7 @@
 author: _people/ash-richardson.md
 category:
 - "#tutorials"
-date: 2019-12-11 18:55:25 +1000
+date: 2019-12-11T08:55:25.000+00:00
 layout: blog
 title: KPIs & OKRs
 sub_heading: "#stratapp allows you to set KPIs/OKRs for both strategic and day to
@@ -15,5 +15,6 @@ seo_description: "#stratapp allows you to set KPIs/OKRs for both strategic and d
   to day operations. KPIs/OKRs overlay onto a balanced scorecard, and can be filtered
   versus org design attributes."
 feature_image: ''
+published: false
 
 ---
