@@ -2,7 +2,7 @@
 author: _people/ash-richardson.md
 category:
 - "#tutorials"
-date: 2019-12-05 18:43:49 +1000
+date: 2019-12-05T08:43:49.000+00:00
 layout: blog
 title: messages
 sub_heading: "#stratapp's messages have both structure and the ability to send via
@@ -16,5 +16,6 @@ seo_description: "#stratapp's messages have both structure and the ability to se
   via org design. That is, you don't need to remember every employees name in order
   to collaborate socially."
 feature_image: ''
+published: false
 
 ---

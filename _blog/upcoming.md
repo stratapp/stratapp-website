@@ -2,7 +2,7 @@
 author: _people/ash-richardson.md
 category:
 - "#tutorials"
-date: 2019-12-02 18:28:44 +1000
+date: 2019-12-02T08:28:44.000+00:00
 layout: blog
 title: upcoming
 sub_heading: Automated task management to your workspace. Everything that has a start
