@@ -1,7 +1,6 @@
 ---
 author: _people/ash-richardson.md
-category:
-- "#tutorials"
+category: []
 date: 2019-12-02T08:28:44.000+00:00
 layout: blog
 title: upcoming
