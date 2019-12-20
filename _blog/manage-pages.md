@@ -2,7 +2,7 @@
 author: _people/ash-richardson.md
 category:
 - "#tutorials"
-date: 2019-11-30 18:45:02 +1000
+date: 2019-11-30T08:45:02.000+00:00
 layout: blog
 title: manage pages
 sub_heading: "#stratapp allows you to turn on and off the product tabs right down

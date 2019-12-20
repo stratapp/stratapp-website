@@ -14,5 +14,6 @@ seo_title: strategy tree edit view
 seo_description: How to build your strategy as a tree, to achieve genuine org-wide
   collaboration and radical transparency. Cascade your strategy as a logical tree.
 feature_image: ''
+published: false
 
 ---

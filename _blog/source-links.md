@@ -2,7 +2,7 @@
 author: _people/ash-richardson.md
 category:
 - "#tutorials"
-date: 2019-11-29 18:32:15 +1000
+date: 2019-11-29T08:32:15.000+00:00
 layout: blog
 title: source links
 sub_heading: 'Source links inside #stratapp create a natural UX for aligning everything

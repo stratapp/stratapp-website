@@ -2,7 +2,7 @@
 author: _people/ash-richardson.md
 category:
 - "#tutorials"
-date: 2019-12-06 18:57:05 +1000
+date: 2019-12-06T08:57:05.000+00:00
 layout: blog
 title: social teams collaboration
 sub_heading: 'Social teams collaboration by automatically applying your org design
@@ -16,5 +16,6 @@ seo_description: 'Social channels based on your org design are automatically cre
   org design attributes for this social teams feature include functions, verticals,
   horizontals and geography.'
 feature_image: ''
+published: false
 
 ---
