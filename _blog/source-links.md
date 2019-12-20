@@ -1,7 +1,6 @@
 ---
 author: _people/ash-richardson.md
-category:
-- "#tutorials"
+category: []
 date: 2019-11-29T08:32:15.000+00:00
 layout: blog
 title: source links
@@ -15,5 +14,6 @@ seo_description: 'Source links inside #stratapp create a naturally intuitive UX 
   aligning everything you do to strategy and other relevant context. Strategy and
   ideas are a plenty.  Execution is everything.'
 feature_image: ''
+published: false
 
 ---

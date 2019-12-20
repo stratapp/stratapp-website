@@ -1,7 +1,6 @@
 ---
 author: _people/ash-richardson.md
-category:
-- "#tutorials"
+category: []
 date: 2019-12-12T08:30:58.000+00:00
 layout: blog
 title: strategy tree edit view

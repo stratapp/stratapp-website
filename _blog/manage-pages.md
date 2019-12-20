@@ -1,7 +1,6 @@
 ---
 author: _people/ash-richardson.md
-category:
-- "#tutorials"
+category: []
 date: 2019-11-30T08:45:02.000+00:00
 layout: blog
 title: manage pages
@@ -15,5 +14,6 @@ seo_description: "#stratapp allows you to turn on and off the product tabs right
   to individual users. Give everyone collaboration, whilst management get the strategy
   and KPI pages ready, and the comms team prepare the headlines page."
 feature_image: ''
+published: false
 
 ---
