@@ -1,7 +1,6 @@
 ---
 author: _people/ash-richardson.md
-category:
-- "#tutorials"
+category: []
 date: 2019-12-07T08:42:19.000+00:00
 layout: blog
 title: notes

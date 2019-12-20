@@ -1,7 +1,6 @@
 ---
 author: _people/ash-richardson.md
-category:
-- "#tutorials"
+category: []
 date: 2019-12-03T08:40:33.000+00:00
 layout: blog
 title: 4 views of strategy
