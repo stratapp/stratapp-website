@@ -1,7 +1,6 @@
 ---
 author: _people/ash-richardson.md
-category:
-- "#tutorials"
+category: []
 date: 2019-12-10T08:34:17.000+00:00
 layout: blog
 title: social work collaboration

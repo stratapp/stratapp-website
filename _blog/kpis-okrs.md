@@ -1,7 +1,6 @@
 ---
 author: _people/ash-richardson.md
-category:
-- "#tutorials"
+category: []
 date: 2019-12-11T08:55:25.000+00:00
 layout: blog
 title: KPIs & OKRs

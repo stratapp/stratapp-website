@@ -1,7 +1,6 @@
 ---
 author: _people/ash-richardson.md
-category:
-- "#tutorials"
+category: []
 date: 2019-12-09T08:47:17.000+00:00
 layout: blog
 title: live org chart
