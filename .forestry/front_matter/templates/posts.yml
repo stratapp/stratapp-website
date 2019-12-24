@@ -25,3 +25,5 @@ fields:
   label: layout
   hidden: true
   default: post
+pages:
+- _posts/principles-by-ray-dalio.md
