@@ -82,7 +82,12 @@ A seamless org-wide experience also means fresh thinking on features such as:
 * Easy to understand security levels, so that radical transparency doesn’t become radically out of control
 * Intuitive user experiences, so people of all tech aptitudes don’t need to be trained on how to use it
 
-Imagine if org-wide collaboration could sit within an easy to understand strategic context - why is our organization here (a la Simon Sinek), what are we trying to achieve (a la Prof Roger Martin), how are we going to get there (cascading strategy tree) and how are we going right now (live data and collaboration, at every level in the strategy tree)?
+Imagine if radical transparency could sit within an easy to view strategic context:
+
+* why is our organization here? (a la Simon Sinek)
+* what are we trying to achieve? (a la Prof Roger Martin)
+* how are we going to get there? (cascading strategy tree)
+* how are we going right now? (live collaboration at every level in the strategy tree)
 
 This would allow every employee to embrace and contribute to what their CEO, executives and managers are trying to achieve. This radical transparency delivers on the new social contract being created by our millennials:
 
