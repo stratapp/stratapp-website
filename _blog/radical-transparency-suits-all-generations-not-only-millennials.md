@@ -62,10 +62,10 @@ Progressive leaders, including X-Gen and Baby Boomers, are ready to embrace org-
 
 The question is, how to make that powerful collaboration experience org-wide, so that radical transparency becomes a natural part of company culture.
 
-Social and work collaboration tools (#slack, yammer, teams, trello, asana, etc) have been a huge step forward since 2009. But these apps lack structure, an org-wide UX and a strategic context, and this creates two problems:
+Social and work collaboration tools (#slack, yammer, teams, trello, asana, etc) have been a huge step forward since 2009. But these apps lack structure, an org-wide UX and a strategic context. This creates two problems:
 
-1. Risk of dding more distractions and noise
-2. Lack of adoption by executives and senior managers ... bottom up, whilst positive, is just not enough if the decision makers vacate
+1. Risk of adding more distractions and noise
+2. Lack of adoption by executives and senior managers ... bottom up collaboration, whilst positive, is just not enough if the decision makers vacate
 
 There is no doubt collaboration tech beats email and the old ways of getting work done. The problem is, the current suite of apps have been designed for small teams of 5 to 30 people. Turn them on for hundreds or thousands of employees and the risk is chaos.
 
