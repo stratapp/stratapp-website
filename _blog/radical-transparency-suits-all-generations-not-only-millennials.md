@@ -60,7 +60,7 @@ Top-down leadership and control does not motivate millennials. I’d argue it di
 
 Progressive leaders, including X-Gen and Baby Boomers, are ready to embrace org-wide engagement and radical transparency. Not just to please millennials. Progressive leaders have already seen first hand the power of social and work collaboration in small teams - usually the product, digital marketing and tech teams in their companies.
 
-## Achieving Radical Transparency at Work
+## Achieving Radical Transparency
 
 The question is, how to make that powerful collaboration experience org-wide, so that radical transparency becomes a natural part of company culture.
 
@@ -86,7 +86,9 @@ A seamless org-wide experience also means fresh thinking on features such as:
 
 Imagine if org-wide collaboration could sit within an easy to understand strategic context - why is our organization here (a la Simon Sinek), what are we trying to achieve (a la Prof Roger Martin), how are we going to get there (cascading strategy tree) and how are we going right now (live data and collaboration, at every level in the strategy tree)?
 
-This would allow every employee to embrace and contribute to what their CEO, executives and managers are trying to achieve. This radical transparency delivers on the new social contract being created by our millennials: _first show me you are committed, then you’ll see my commitment._
+This would allow every employee to embrace and contribute to what their CEO, executives and managers are trying to achieve. This radical transparency delivers on the new social contract being created by our millennials:
+
+"_First show me you are committed, then you’ll see my commitment!"_
 
 This new future in collaboration tech has arrived, it’s called #stratapp.
 
