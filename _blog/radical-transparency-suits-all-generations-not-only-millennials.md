@@ -1,12 +1,13 @@
 ---
 author: _people/ash-richardson.md
-category: []
+category:
+- "#z-articles"
 date: 2019-09-01 00:00:00 +1000
 layout: blog
 title: radical transparency suits all generations - not only millennials
 sub_heading: Radical transparency has been made famous by Ray Dalio's book Principles
 video_id: ''
-banner_image: ''
+banner_image: "/uploads/Torredembarra Catalan Human Tower - cropped.jpg"
 slug: radical transparency
 seo_title: radical transparency suits all generations - not only millennials
 seo_description: 'Radical transparency has been made famous by Ray Dalio''s book Principles.
@@ -66,7 +67,7 @@ The question is, how to make that powerful collaboration experience org-wide and
 Social and work collaboration tools (#slack, yammer, teams, trello, asana, etc) have been a huge step forward since 2009. But these apps lack structure, an org-wide UX and a strategic context, and this creates two problems:
 
 1. Risk of dding more distractions and noise
-2. Lack of adoption by executives and senior managers ... bottom up, whilst positive, is just not enough if the decision makers vacate 
+2. Lack of adoption by executives and senior managers ... bottom up, whilst positive, is just not enough if the decision makers vacate
 
 There is no doubt collaboration tech beats email and the old ways of getting work done. The problem is, the current suite of apps have been designed for small teams of 5 to 30 people. Turn them on for hundreds or thousands of employees and the risk is chaos.
 
@@ -87,6 +88,6 @@ Imagine if org-wide collaboration could sit within an easy to understand strateg
 
 This would allow every employee to embrace and contribute to what their CEO, executives and managers are trying to achieve. This radical transparency delivers on the new social contract being created by our millennials: _first show me you are committed, then you’ll see my commitment._
 
-This imagined future in collaboration tech has recently arrived, it’s called [#stratapp](https://stratapp.ai "#stratapp | seamlessly execute strategic and day to day work").
+This new future in collaboration tech has arrived, it’s called [#stratapp](https://stratapp.ai "#stratapp | seamlessly execute strategic and day to day work").
 
 With #stratapp, you can easily achieve genuine org-wide engagement and radical transparency. Across all levels, roles and generations. Across both strategic and day to day work. At a price affordable for every employee.
