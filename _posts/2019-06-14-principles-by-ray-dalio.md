@@ -27,4 +27,4 @@ This would allow every employee to embrace and contribute to what their CEO, exe
 
 Radical transparency delivers on the new social contract being created by our millennials: _first show me you are committed, then you’ll see my commitment._
 
-You can deliver radical transparency and genuine org-wide engagement - across all levels, roles and generations - with [#stratapp](https://stratapp.ai "#stratapp").
+You can deliver radical transparency and genuine org-wide engagement - across all levels, roles and generations - with #stratapp.
