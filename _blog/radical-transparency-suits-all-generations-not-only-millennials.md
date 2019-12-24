@@ -67,7 +67,7 @@ Social and work collaboration tools (#slack, yammer, teams, trello, asana, etc) 
 1. Risk of adding more distractions and noise
 2. Lack of adoption by executives and senior managers ... bottom up collaboration, whilst positive, is just not enough if the decision makers vacate
 
-There is no doubt collaboration tech beats email and the old ways of getting work done. The problem is, the current suite of apps have been designed for small teams of 5 to 30 people. Turn them on for hundreds or thousands of employees and the risk is chaos.
+There is no doubt collaboration tech beats email and the old ways of getting work done. The problem is the current suite of apps have been designed for small teams of 5 to 30 people. Turn them on for hundreds or thousands of employees and the risk is chaos.
 
 ### Imagine the Future
 
