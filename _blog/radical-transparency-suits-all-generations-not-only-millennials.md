@@ -62,7 +62,7 @@ Progressive leaders, including X-Gen and Baby Boomers, are more than ready to em
 
 ## Achieving Radical Transparency at Work
 
-The question is, how to make that powerful collaboration experience org-wide and a natural part of company culture.
+The question is, how to make that powerful collaboration experience org-wide, so that radical transparency becomes a natural part of company culture.
 
 Social and work collaboration tools (#slack, yammer, teams, trello, asana, etc) have been a huge step forward since 2009. But these apps lack structure, an org-wide UX and a strategic context, and this creates two problems:
 
