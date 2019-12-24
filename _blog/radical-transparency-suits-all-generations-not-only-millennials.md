@@ -99,4 +99,4 @@ This future of collaboration tech has arrived, it’s called [#stratapp](https:/
 
 \#stratapp frees you and your colleagues to deliver on everything described above.
 
-With #stratapp you can embrace radical transparency and achieve genuine org-wide collaboration - across all levels, roles and generations - within the important relevant context of why the organization exists and what it is trying to achieve.
+With #stratapp you can embrace radical transparency and achieve genuine org-wide collaboration - across all levels, roles and generations - within the relevant strategic context of why the organization exists and what it is trying to achieve.
