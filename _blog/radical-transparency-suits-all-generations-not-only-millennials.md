@@ -89,7 +89,9 @@ Imagine if radical transparency could sit within an easy to view strategic conte
 * how are we going to get there? (cascading strategy tree)
 * how are we going right now? (live collaboration at every level in the strategy tree)
 
-This would allow every employee to embrace and contribute to what their CEO, executives and managers are trying to achieve. This radical transparency delivers on the new social contract being created by our millennials:
+This would allow every employee to embrace and contribute to what their CEO, executives and managers are trying to achieve.
+
+Such radical transparency delivers on the new social contract of our millennials:
 
 _First show me you are committed, then you’ll see my commitment!_
 
