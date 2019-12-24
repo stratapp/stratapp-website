@@ -18,7 +18,7 @@ feature_image: ''
 ---
 Ray Dalio champions the principle of embracing thoughtful disagreement. The ability to exchange controversial ideas without causing problems.
 
-His solution is to consciously ask each other in the workplace:
+His solution is to consciously ask each other:
 
 * How am I going to be with you? How should you be with me?
 * Is it okay for me to be honest with you, that is, me telling you what I really think?
