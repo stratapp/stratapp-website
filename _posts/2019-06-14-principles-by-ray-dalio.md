@@ -3,16 +3,16 @@ date: 2019-06-14 00:00:00 +1000
 layout: post
 title: principles by Ray Dalio and embracing radical transparency
 slug: principles by ray dalio embracing radical transparency
-seo_title: Principles by Ray Dalio | Embracing Radical Transparency
-seo_description: 'Radical transparency has been made famous by Ray Dalio''s book Principles.  He
-  champions the principle of embracing thoughtful disagreement. #stratapp delivers
-  radical transparency and genuine org-wide engagement.'
+seo_title: Principles by Ray Dalio | Embracing Radical Transparency | Org-Wide Collaboration
+seo_description: 'Radical transparency has been made famous by Ray Dalio''s book Principles.
+  Ray Dalio champions the principle of embracing thoughtful disagreement. #stratapp
+  delivers radical transparency and genuine org-wide engagement.'
 feature_image: "/uploads/Principles by Ray Dalio - hero image.PNG"
 author: Ash Richardson
 banner_image: "/uploads/Principles by Ray Dalio - hero image.PNG"
 
 ---
-Radical transparency has been made famous by Ray Dalio's book Principles.  He champions the principle of embracing thoughtful disagreement. The ability to exchange controversial ideas without causing problems.
+Radical transparency has been made famous by Ray Dalio's book Principles.  Ray Dalio champions the principle of embracing thoughtful disagreement. The ability to exchange controversial ideas without causing problems.
 
 To achieve radical transparency at work, companies need collaboration tech that has been designed from the outset as an org-wide experience. To add value org-wide means helping employees with their day to day work, as well as the overall strategic context and corresponding initiatives.
 
