@@ -48,7 +48,7 @@ Millennials as employees are rewriting the social contract at work.
 
 Their thinking brings a fresh new perspective to the relationship between employer and employee:
 
-_“If you want me to be committed to my role and this company, show me the same. Let us see what you are doing as the owner/CEO/executive/leader/boss to take this company forward. Show me you are truly committed to our success and that you genuinely represent the company’s values. Do that, and I’ll show you the same as your employee.”_
+_If you want me to be committed to my role and this company, show me the same. Let us see what you are doing as the owner/CEO/executive/leader/boss to take this company forward. Show me you are truly committed to our success and that you genuinely represent the company’s values. Do that, and I’ll show you the same as your employee._
 
 ### The CEO Dilemma
 

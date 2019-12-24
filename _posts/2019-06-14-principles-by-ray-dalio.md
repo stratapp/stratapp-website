@@ -18,7 +18,7 @@ To achieve radical transparency at work, companies need collaboration tech that 
 
 Radical transparency delivers on the new social contract of millennials:
 
-_"First show me you are committed, then you’ll see my commitment!"_
+_First show me you are committed, then you’ll see my commitment!_
 
 Imagine if radical transparency could sit within an easy to view strategic context:
 
