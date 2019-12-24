@@ -14,7 +14,7 @@ banner_image: "/uploads/Principles by Ray Dalio - hero image.PNG"
 ---
 Radical transparency was made famous by Ray Dalio's book Principles.  Ray Dalio champions the principle of embracing thoughtful disagreement. The ability to exchange controversial ideas without causing problems.
 
-To achieve radical transparency at work, companies need collaboration tech that has been designed from the outset as an org-wide experience. That means tech that helps employees with their day to day work, as well as the overall strategic context and corresponding initiatives.
+To achieve radical transparency at work, companies need collaboration tech that has been designed from the outset as an org-wide experience. Tech that helps employees with their day to day work, as well as the overall strategic context and corresponding initiatives.
 
 Imagine if radical transparency and org-wide collaboration could sit within an easy to view strategic context:
 
