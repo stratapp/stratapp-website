@@ -88,6 +88,6 @@ This would allow every employee to embrace and contribute to what their CEO, exe
 
 "_First show me you are committed, then you’ll see my commitment!"_
 
-This new future in collaboration tech has arrived, it’s called #stratapp.
+This new future in collaboration tech has arrived, it’s called [#stratapp](https://stratapp.ai "#stratapp").
 
 With #stratapp, you can easily achieve genuine org-wide engagement and radical transparency. Across all levels, roles and generations. Across both strategic and day to day work. At a price affordable for every employee.
