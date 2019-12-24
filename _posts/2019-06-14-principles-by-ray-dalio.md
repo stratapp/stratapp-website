@@ -31,4 +31,4 @@ This would allow every employee to embrace and contribute to what their CEO, exe
 
 \#stratapp frees you and your colleagues to deliver on everything described above.
 
-With #stratapp you can embrace radical transparency and achieve genuine org-wide collaboration - across all levels, roles and generations - within the relevant context of why the organization exists and what it is trying to achieve.
+With #stratapp you can embrace radical transparency and achieve genuine org-wide collaboration - across all levels, roles and generations - within the relevant context of why your organization exists and what you are trying to achieve.
