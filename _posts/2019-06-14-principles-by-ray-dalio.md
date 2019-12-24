@@ -16,7 +16,11 @@ Radical transparency was made famous by Ray Dalio's book Principles.  Ray Dalio 
 
 To achieve radical transparency at work, companies need collaboration tech that has been designed from the outset as an org-wide experience. Tech that helps employees with their day to day work, as well as the overall strategic context and corresponding initiatives.
 
-Imagine if radical transparency and org-wide collaboration could sit within an easy to view strategic context:
+Radical transparency delivers on the new social contract of millennials:
+
+     _"First show me you are committed, then you’ll see my commitment!"_
+
+Imagine if radical transparency could sit within an easy to view strategic context:
 
 * why is our organization here? (a la Simon Sinek)
 * what are we trying to achieve? (a la Prof Roger Martin)
@@ -25,10 +29,6 @@ Imagine if radical transparency and org-wide collaboration could sit within an e
 
 This would allow every employee to embrace and contribute to what their CEO, executives and managers are trying to achieve.
 
-Radical transparency delivers on the new social contract of millennials:
-
-_"First show me you are committed, then you’ll see my commitment!"_
-
 \#stratapp frees you and your colleagues to deliver on everything described above.
 
-With #stratapp you can embrace radical transparency and achieve genuine org-wide collaboration - across all levels, roles and generations.
+With #stratapp you can embrace radical transparency and achieve genuine org-wide collaboration - across all levels, roles and generations - within the relevant context of why the organization exists and what it is trying to achieve.
