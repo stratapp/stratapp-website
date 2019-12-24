@@ -79,10 +79,10 @@ To add value every day means helping employees with their day to day work, as we
 
 A seamless org-wide experience also means fresh thinking on features such as:
 
-* Org-design attributes (e.g. @F/sales + @G/APAC) to easily invite people to messages, cards and workboards
+* Org-design attributes (e.g. @F/sales + @G/APAC) to easily invite people to strategic initiatives, projects, meetings, ideas, challenges, risks, messages, cards and workboards
 * Filters and social-with-structure, so people can quickly see exactly what they need to
 * Easy to understand security levels, so that radical transparency doesn’t become radically out of control
-* Naturally intuitive user experiences, so people of all tech aptitudes don’t have to be trained on how to use it
+* Intuitive user experiences, so people of all tech aptitudes don’t need to be trained on how to use it
 
 Imagine if org-wide collaboration could sit within an easy to understand strategic context - why is our organization here (a la Simon Sinek), what are we trying to achieve (a la Prof Roger Martin), how are we going to get there (cascading strategy tree) and how are we going right now (live data and collaboration, at every level in the strategy tree)?
 
