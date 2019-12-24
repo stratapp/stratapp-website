@@ -40,7 +40,7 @@ Millennials as consumers are demanding greater transparency through the supply c
 * 66% willing to pay more for sustainable goods
 * 50% considering the resale value of new items before purchase
 
-\[sources: [Forbes](https://www.forbes.com/sites/pamdanziger/2019/05/29/3-ways-millennials-and-gen-z-consumers-are-radically-transforming-the-luxury-market/#a8663ac479fd "Forbes | 3 ways Millennials and Gen Z consumers are radically transforming the luxury market"); [BOF](https://www.businessoffashion.com/articles/intelligence/the-year-ahead-the-case-for-radical-transparency "BOF | The year ahead and the case for radical transparency"); [CSR Wire](https://www.csrwire.com/press_releases/42057-Are-You-Ready-for-the-Honest-Generation- "CSR Wire | Are you ready for the honest generation")\]
+sources: [Forbes](https://www.forbes.com/sites/pamdanziger/2019/05/29/3-ways-millennials-and-gen-z-consumers-are-radically-transforming-the-luxury-market/#a8663ac479fd "Forbes | 3 ways Millennials and Gen Z consumers are radically transforming the luxury market"); [BOF](https://www.businessoffashion.com/articles/intelligence/the-year-ahead-the-case-for-radical-transparency "BOF | The year ahead and the case for radical transparency"); [CSR Wire](https://www.csrwire.com/press_releases/42057-Are-You-Ready-for-the-Honest-Generation- "CSR Wire | Are you ready for the honest generation")
 
 This behaviour is driving value-chain innovation, including tracking from farm/ocean-to-plate on food, from field-to-outlet on textiles, and from consumer-to-recycled for almost every consumer product.
 
