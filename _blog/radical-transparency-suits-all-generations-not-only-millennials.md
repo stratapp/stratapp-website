@@ -26,8 +26,6 @@ His solution is to consciously ask each other in the workplace:
 
 Mr Dalio argues: “In order to be successful, we have to have independent thinkers — so independent that they’ll bet against the consensus." And to do that, “You have to put your honest thoughts on the table.” Then, the best ideas rise to the top.
 
-Modern use of the term radical transparency dates back to 1994 and the rise of the internet. It was later introduced by a Foreign Affairs article in 2001, when considering the potential of ICT to drive economic growth in developing regions.
-
 ## Millennials and Radical Transparency
 
 Millennials have their own take on the value of radical transparency - as consumers, and as employees.
