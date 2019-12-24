@@ -1,11 +1,12 @@
 ---
 date: 2019-06-14 00:00:00 +1000
 layout: post
-title: Principles by Ray Dalio
-slug: principles by ray dalio radical transparency
-seo_title: Principles by Ray Dalio | Radical Transparency
+title: Principles by Ray Dalio and embracing radical transparency
+slug: principles by ray dalio embracing radical transparency
+seo_title: Principles by Ray Dalio | Embracing Radical Transparency
 seo_description: 'Radical transparency has been made famous by Ray Dalio''s book Principles.  He
-  champions the principle of embracing thoughtful disagreement. '
+  champions the principle of embracing thoughtful disagreement. #stratapp delivers
+  radical transparency and genuine org-wide engagement.'
 feature_image: "/uploads/Principles by Ray Dalio.png"
 author: Ash Richardson
 banner_image: ''
