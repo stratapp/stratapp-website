@@ -88,6 +88,6 @@ Imagine if org-wide collaboration could sit within an easy to understand strateg
 
 This would allow every employee to embrace and contribute to what their CEO, executives and managers are trying to achieve. This radical transparency delivers on the new social contract being created by our millennials: _first show me you are committed, then you’ll see my commitment._
 
-This new future in collaboration tech has arrived, it’s called [#stratapp](https://stratapp.ai "#stratapp | seamlessly execute strategic and day to day work").
+This new future in collaboration tech has arrived, it’s called #stratapp.
 
 With #stratapp, you can easily achieve genuine org-wide engagement and radical transparency. Across all levels, roles and generations. Across both strategic and day to day work. At a price affordable for every employee.
