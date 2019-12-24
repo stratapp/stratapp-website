@@ -58,7 +58,7 @@ This is a big shift in employee thinking. The wave is imminent, because by 2025,
 
 Top-down leadership and control does not motivate millennials. I’d argue it didn’t really motivate X-Gen either, but they towed the line, stayed with their employer for 3+ years and got their work done.
 
-Progressive leaders, including X-Gen and Baby Boomers, are more than ready to embrace org-wide engagement and radical transparency. Not just to please millennials. Progressive leaders have seen firsthand the power of social and work collaboration in small teams - usually the product, digital marketing and tech teams in their companies.
+Progressive leaders, including X-Gen and Baby Boomers, are ready to embrace org-wide engagement and radical transparency. Not just to please millennials. Progressive leaders have already seen first hand the power of social and work collaboration in small teams - usually the product, digital marketing and tech teams in their companies.
 
 ## Achieving Radical Transparency at Work
 
