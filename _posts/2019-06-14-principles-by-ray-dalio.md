@@ -1,7 +1,7 @@
 ---
 date: 2019-06-14 00:00:00 +1000
 layout: post
-title: Principles by Ray Dalio and embracing radical transparency
+title: principles by Ray Dalio and embracing radical transparency
 slug: principles by ray dalio embracing radical transparency
 seo_title: Principles by Ray Dalio | Embracing Radical Transparency
 seo_description: 'Radical transparency has been made famous by Ray Dalio''s book Principles.  He
