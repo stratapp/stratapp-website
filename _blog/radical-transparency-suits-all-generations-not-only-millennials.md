@@ -16,8 +16,6 @@ seo_description: 'Radical transparency has been made famous by Ray Dalio''s book
 feature_image: ''
 
 ---
-Modern use of the term radical transparency dates back to 1994 and the rise of the internet. It was later introduced by a Foreign Affairs article in 2001, when considering the potential of ICT to drive economic growth in developing regions.
-
 Ray Dalio champions the principle of embracing thoughtful disagreement. The ability to exchange controversial ideas without causing problems.
 
 His solution is to consciously ask each other in the workplace:
@@ -27,6 +25,8 @@ His solution is to consciously ask each other in the workplace:
 * Are you okay being honest with me?
 
 Mr Dalio argues: “In order to be successful, we have to have independent thinkers — so independent that they’ll bet against the consensus." And to do that, “You have to put your honest thoughts on the table.” Then, the best ideas rise to the top.
+
+Modern use of the term radical transparency dates back to 1994 and the rise of the internet. It was later introduced by a Foreign Affairs article in 2001, when considering the potential of ICT to drive economic growth in developing regions.
 
 ## Millennials and Radical Transparency
 
