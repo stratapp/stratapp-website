@@ -18,13 +18,15 @@ To achieve radical transparency at work, companies need collaboration tech that 
 
 Imagine if org-wide collaboration could sit within an easy to understand strategic context:
 
-* why is our organization here (a la Simon Sinek)?
-* what are we trying to achieve (a la Prof Roger Martin)?
-* how are we going to get there (cascading strategy tree)?
-* how are we going right now (live data and collaboration at every level in the strategy tree)?
+* why is our organization here? (a la Simon Sinek)
+* what are we trying to achieve? (a la Prof Roger Martin)
+* how are we going to get there? (cascading strategy tree)
+* how are we going right now? (live collaboration at every level in the strategy tree)
 
 This would allow every employee to embrace and contribute to what their CEO, executives and managers are trying to achieve.
 
-Radical transparency delivers on the new social contract being created by our millennials: _first show me you are committed, then you’ll see my commitment._
+Radical transparency delivers on the new social contract being created by our millennials: 
 
-You can deliver radical transparency and genuine org-wide engagement - across all levels, roles and generations - with [#stratapp](https://stratapp.ai "#stratapp").
+_"First show me you are committed, then you’ll see my commitment!"_
+
+You can embrace radical transparency and achieve genuine org-wide engagement - across all levels, roles and generations - with [#stratapp](https://stratapp.ai "#stratapp").
