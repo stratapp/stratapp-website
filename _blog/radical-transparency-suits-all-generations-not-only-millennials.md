@@ -95,7 +95,7 @@ Such radical transparency delivers on the new social contract of our millennials
 
 _First show me you are committed, then you’ll see my commitment!_
 
-This new future in collaboration tech has arrived, it’s called [#stratapp](https://stratapp.ai "#stratapp").
+This future of collaboration tech has arrived, it’s called [#stratapp](https://stratapp.ai "#stratapp").
 
 \#stratapp frees you and your colleagues to deliver on everything described above.
 
