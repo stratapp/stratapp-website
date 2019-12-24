@@ -78,7 +78,7 @@ To add value every day means helping employees with their day to day work, as we
 A seamless org-wide experience also means fresh thinking on features such as:
 
 * Org-design attributes (e.g. @F/sales + @G/APAC) to easily invite people to strategic initiatives, projects, meetings, ideas, challenges, risks, messages, cards and workboards
-* Filters and social-with-structure, so people can quickly see exactly what they need to
+* Powerful filters and social-with-structure, so people can quickly see exactly what they need to
 * Easy to understand security levels, so that radical transparency doesn’t become radically out of control
 * Intuitive user experiences, so people of all tech aptitudes don’t need to be trained on how to use it
 
