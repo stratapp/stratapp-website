@@ -25,7 +25,7 @@ faqs:
     billing information, payment history and invoices.
 - question: Do you offer implementation support?
   answer: |-
-    Yes, we have partnered with [Coherent Strategy](http://coherentstrat.com/ "Coherent Strategy") to coach and support our clients on implementation.
+    Yes, we have partnered with Coherent to coach and support our clients on implementation.
 
     As far as we know, we are the world's first B2B SaaS company to design the implementation methodology for our partners AND we have prescribed reasonable cost budgets for each and every step.
 
