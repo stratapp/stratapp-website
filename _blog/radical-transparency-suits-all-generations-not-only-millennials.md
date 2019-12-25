@@ -28,7 +28,7 @@ Mr Dalio argues: “In order to be successful, we have to have independent think
 
 ## Millennials and Radical Transparency
 
-Millennials have their own take on the value of radical transparency - as consumers, and as employees.
+Millennials have their own take on radical transparency - as consumers, and as employees.
 
 ### Millennial Consumers
 
