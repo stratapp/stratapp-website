@@ -10,7 +10,7 @@ banner_image: "/uploads/thirdwave-book.jpg"
 slug: seamlessly align your onshore and offshore teams
 
 ---
-## How to seamlessly align your onshore and offshore teams.
+## How to seamlessly align your onshore and offshore teams. 
 
 With so much hype on technology innovation, such as robotics and artificial intelligence, it is easy to overlook the massive ground shift taking place on org design and employment. Teams are fast becoming a mix of onshore and offshore resources, that work together as if they were sitting under the same roof.
 
