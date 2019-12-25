@@ -1,5 +1,5 @@
 ---
-date: 2019-06-14 00:00:00 +1000
+date: 2019-06-23 16:00:00 +1000
 layout: post
 title: principles by Ray Dalio and embracing radical transparency
 slug: principles by ray dalio embracing radical transparency
