@@ -54,8 +54,8 @@ stratapp_features:
   icon: "/uploads/icon-handshake.svg"
 - feature_title: next gen ready
   feature_text: |-
-    * by 2025, 75% of employees are y-gen
-    * asking y-gen to collaborate via email, is like asking the rest of us to go back to using fax machines
+    * by 2025 more than 75% of employees are y-gen
+    * asking y-gen to collaborate via email and static documents, is like asking the rest of us to go back to using fax machines
   icon: "/uploads/icon-thumbsup.svg"
 - feature_title: employee productivity
   feature_text: |-
