@@ -12,7 +12,7 @@ feature_image: ''
 slug: many strategies fail because they’re not actually strategies by hbr org
 
 ---
-## Static strategy docs and top-down comms is so old school
+## Static strategy docs and top-down comms is so old school!
 
 _“The strategy consultants come in, do their work, and document the new strategy in a PowerPoint presentation and a weighty report. Town hall meetings are organized, employees are told to change their behavior, balanced scorecards are reformulated, and budgets are set aside to support initiatives that fit the new strategy. And then nothing happens.”_
 
