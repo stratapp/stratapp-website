@@ -15,7 +15,7 @@ slug: stratapp breaks new ground on implementing strategy execution and collabor
   software
 
 ---
-## Strategy execution and collaboration software that works ‘out of the box’
+## Strategy execution and collaboration software that works out-of-the-box.
 
 SaaS product companies typically lock their clients into a prepaid contract, then leave the client to figure out the implementation by themselves, or with ‘_preferred partners_’.
 
