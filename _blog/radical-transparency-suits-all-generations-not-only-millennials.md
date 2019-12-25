@@ -4,7 +4,7 @@ category:
 - "#z-articles"
 date: 2019-09-01 00:00:00 +1000
 layout: blog
-title: radical transparency suits all generations - not only millennials
+title: radical transparency suits all generations, not only millennials
 sub_heading: radical transparency was made famous by Ray Dalio's book principles
 video_id: ''
 banner_image: "/uploads/Torredembarra Catalan Human Tower - cropped.jpg"
