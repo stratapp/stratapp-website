@@ -52,7 +52,7 @@ _If you want me to be committed to my role and this company, show me the same. L
 
 ### The CEO's Dilemma
 
-This is a big shift in employee thinking. The wave is imminent, because by 2025 more than 75% of employees will comprise millennials.
+That is a big shift in employee thinking. The wave is imminent, because by 2025 more than 75% of employees will comprise millennials.
 
 Top-down messaging and control does not motivate millennials. I’d argue it didn’t really motivate X-Gen either, but they towed the line, stayed with their employer for 3+ years and got the work done.
 
