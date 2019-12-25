@@ -11,7 +11,7 @@ banner_image: "/uploads/measurewhatmatters-book.jpg"
 slug: measure what matters by john doerr
 
 ---
-## Google has applied Andy Grove's OKR methodology every quarter since 1999 
+## Google has applied Andy Grove's OKR methodology every quarter since 1999. 
 
 John Doerr’s book and life’s work have given all of us access to the clear thinking and progressive management practices of Intel’s Andy Grove, who was decades ahead of his time.
 

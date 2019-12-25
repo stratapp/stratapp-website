@@ -10,7 +10,7 @@ seo_description: Good Strategy Bad Strategy by Richard Rumelt, is in our view th
 slug: good strategy bad strategy by richard rumelt
 
 ---
-## Richard Rumelt is brilliant
+## Richard Rumelt is brilliant! 
 
 In our view, this is the all time greatest thinking and resource for developing and executing strategy.
 
