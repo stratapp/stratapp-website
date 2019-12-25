@@ -90,7 +90,7 @@ Such radical transparency delivers on the new social contract of our millennials
 
 _First show me you are committed, then you’ll see my commitment!_
 
-#### Org-Wide Collaboration
+#### Org-Wide Engagement
 
 A seamless org-wide experience also means:
 
