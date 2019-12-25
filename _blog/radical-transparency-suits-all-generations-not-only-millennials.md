@@ -30,7 +30,7 @@ Mr Dalio argues: “In order to be successful, we have to have independent think
 
 Millennials have their own take on radical transparency - as consumers, and as employees.
 
-### Millennial Consumers
+### Millennials as Consumers
 
 Millennials as consumers are demanding greater transparency through the supply chain. Recent surveys suggest millennial consumer behaviour as:
 
@@ -42,7 +42,7 @@ Millennials as consumers are demanding greater transparency through the supply c
 
 This behaviour is driving value-chain innovation, including tracking from farm/ocean-to-plate on food, from field-to-outlet on textiles, and from consumer-to-recycled for almost every consumer product.
 
-### Millennial Employees
+### Millennials as Employees
 
 Millennials as employees are rewriting the social contract at work.
 
