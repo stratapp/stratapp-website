@@ -22,10 +22,10 @@ _First show me you are committed, then you’ll see my commitment!_
 
 Imagine if radical transparency could sit within an easy to view strategic context:
 
-* why is our organization here? (a la Simon Sinek)
-* what are we trying to achieve? (a la Prof Roger Martin)
-* how are we going to get there? (cascading strategy tree)
-* how are we going right now? (live collaboration at every level in the strategy tree)
+* Why is our organization here? (a la Simon Sinek)
+* What are we trying to achieve? (a la Prof Roger Martin)
+* How are we going to get there? (cascading strategy tree)
+* How are we going right now? (live collaboration at every level in the strategy tree)
 
 This would allow every employee to embrace and contribute to what their CEO, executives and managers are trying to achieve.
 
