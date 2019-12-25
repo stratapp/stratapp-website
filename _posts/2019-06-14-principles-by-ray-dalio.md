@@ -12,7 +12,7 @@ author: Ash Richardson
 banner_image: "/uploads/Principles by Ray Dalio - hero image.PNG"
 
 ---
-## Radical transparency was made famous by Ray Dalio's book Principles.  
+## Radical transparency was made famous by Ray Dalio's book Principles
 
 Ray Dalio champions the principle of embracing thoughtful disagreement. The ability to exchange controversial ideas without causing problems.
 

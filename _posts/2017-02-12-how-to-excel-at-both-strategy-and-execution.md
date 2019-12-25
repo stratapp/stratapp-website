@@ -10,7 +10,7 @@ seo_description: How to Excel at Both Strategy and Execution by HBR.org. Accordi
 slug: how to excel at both strategy and execution by hbr org
 
 ---
-## company leaders rarely excel at both strategy and execution
+## Company leaders rarely excel at both strategy and execution
 
 “According to a global survey of 700 executives across a variety of industries, conducted by the strategy consulting division of PwC, only 8% of company leaders were said to excel at both strategy and execution.”
 
