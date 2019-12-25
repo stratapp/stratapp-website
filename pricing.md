@@ -29,7 +29,7 @@ faqs:
 
     As far as we know, we are the world's first B2B SaaS company to design the implementation methodology for our partners AND we have prescribed reasonable cost budgets for each and every step.
 
-    Why? We genuinely care about our clients’ success, and that includes removing the stress, hassle and unforseen costs of implementation.
+    Why? We genuinely care about our clients’ success, and that includes removing the stress, hassle and unforeseen costs of implementation.
 - question: Is our data safe?
   answer: |-
     Yes, we use the latest in data encryption and authentication technology.
