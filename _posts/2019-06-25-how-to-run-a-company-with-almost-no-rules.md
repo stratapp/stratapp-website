@@ -11,7 +11,7 @@ banner_image: "/uploads/TED-Talks-for-Small-Business-and-Entrepreneurs.jpg"
 slug: how to run a company with no rules by ricardo semler
 
 ---
-## Ricardo Semler shot to fame with his book Maverick, an inspiring fresh take on org design / engagement
+## Ricardo Semler shot to fame with his book Maverick, an inspiring fresh take on org design and engagement.
 
 Ricardo Semler shot to fame with his book Maverick, which cut to the core of empowering employees, whilst pragmatically addressing human constraints and positive attributes in a fresh way, when undertaking org design.
 
