@@ -5,7 +5,7 @@ category:
 date: 2019-09-01 00:00:00 +1000
 layout: blog
 title: radical transparency suits all generations - not only millennials
-sub_heading: Radical transparency was made famous by Ray Dalio's book Principles.
+sub_heading: radical transparency was made famous by Ray Dalio's book principles
 video_id: ''
 banner_image: "/uploads/Torredembarra Catalan Human Tower - cropped.jpg"
 slug: radical transparency
@@ -71,23 +71,18 @@ There is no doubt collaboration tech beats email and the old ways of getting wor
 
 ### Imagine the Future
 
-To achieve radical transparency at work, companies need collaboration tech that has been designed from the outset as an org-wide experience - tech that adds value to every employee, every day, across all levels, roles and generations.
+To achieve radical transparency at work, companies need collaboration tech that has been designed from the outset as an org-wide experience - tech that adds value to every employee, across all levels, roles and generations.
 
-To add value every day means helping employees with their day to day work, as well as the overall strategic context and corresponding initiatives.
+To add value org-wide means helping employees with their day to day work, as well as enabling them to contribute to the strategic context and corresponding initiatives.
 
-A seamless org-wide experience also means fresh thinking on features such as:
-
-* Org-design attributes (e.g. @F/sales + @G/APAC) to easily invite people to strategic initiatives, projects, meetings, ideas, challenges, risks, messages, cards and workboards
-* Powerful filters and social-with-structure, so people can quickly see exactly what they need to
-* Easy to understand security levels, so that radical transparency doesn’t become radically out of control
-* Intuitive user experiences, so people of all tech aptitudes don’t need to be trained on how to use it
+#### Strategic Context
 
 Imagine if radical transparency could sit within an easy to view strategic context:
 
-* why is our organization here? (a la Simon Sinek)
-* what are we trying to achieve? (a la Prof Roger Martin)
-* how are we going to get there? (cascading strategy tree)
-* how are we going right now? (live collaboration at every level in the strategy tree)
+* Why is our organization here? (a la Simon Sinek)
+* What are we trying to achieve? (a la Prof Roger Martin)
+* How are we going to get there? (cascading strategy tree)
+* How are we going right now? (live collaboration at every level in the strategy tree)
 
 This would allow every employee to embrace and contribute to what their CEO, executives and managers are trying to achieve.
 
@@ -95,7 +90,18 @@ Such radical transparency delivers on the new social contract of our millennials
 
 _First show me you are committed, then you’ll see my commitment!_
 
-This future of collaboration tech has arrived, it’s called [#stratapp](https://stratapp.ai "#stratapp").
+#### Features
+
+A seamless org-wide experience also means:
+
+* Org-design attributes (e.g. @F/sales + @G/APAC) to easily invite people to strategic initiatives, projects, meetings, ideas, challenges, risks, messages, cards and workboards
+* Powerful filters and social-with-structure, so people can quickly see exactly what they need to
+* Easy to understand security levels, so that radical transparency doesn’t become radically out of control
+* Intuitive user experiences, so people of all tech aptitudes don’t need to be trained on how to use it
+
+#### #stratapp
+
+This future state of org-wide collaboration tech has arrived.  It’s called [#stratapp](https://stratapp.ai "#stratapp").
 
 \#stratapp frees you and your colleagues to deliver on everything described above.
 
