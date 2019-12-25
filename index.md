@@ -67,7 +67,7 @@ stratapp_features:
   feature_text: |-
     * 15-30% increase in business valuation
     * de-risk and make the business agile
-    * execute strategy above expectations
+    * execute strategy and daily work above expectations
   icon: "/uploads/icon-cog-belt.svg"
 slug: ''
 
