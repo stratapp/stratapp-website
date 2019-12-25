@@ -34,7 +34,7 @@ Millennials have their own take on radical transparency - as consumers, and as e
 
 Millennials as consumers are demanding greater transparency through the supply chain. Recent surveys suggest millennial consumer behaviour as:
 
-* 42% researching where and how goods are made, including the source products that go into them
+* 42% researching where and how goods are made, including the source products
 * 66% willing to pay more for sustainable goods
 * 50% considering the resale value of new items before purchase
 
