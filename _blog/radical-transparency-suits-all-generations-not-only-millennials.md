@@ -50,13 +50,13 @@ Their thinking brings a fresh new perspective to the relationship between employ
 
 _If you want me to be committed to my role and this company, show me the same. Let us see what you are doing as the owner/CEO/executive/leader/boss to take this company forward. Show me you are truly committed to our success and that you genuinely represent the company’s values. Do that, and I’ll show you the same as your employee._
 
-### The CEO Dilemma
+### The CEO's Dilemma
 
-This is a big shift in employee thinking. The wave is imminent, because by 2025, 75% of employees will comprise millennials.
+This is a big shift in employee thinking. The wave is imminent, because by 2025 more than 75% of employees will comprise millennials.
 
-Top-down leadership and control does not motivate millennials. I’d argue it didn’t really motivate X-Gen either, but they towed the line, stayed with their employer for 3+ years and got the work done.
+Top-down messaging and control does not motivate millennials. I’d argue it didn’t really motivate X-Gen either, but they towed the line, stayed with their employer for 3+ years and got the work done.
 
-Progressive leaders, including X-Gen and Baby Boomers, are ready to embrace org-wide engagement and radical transparency. Not just to please millennials. Progressive leaders have already seen first hand the power of social and work collaboration in small teams - usually the product, digital marketing and tech teams in their companies.
+Progressive leaders, including X-Gen and Baby Boomers, are ready to embrace org-wide engagement and radical transparency. Not just to please millennials. Progressive leaders have already seen first hand the power collaboration tech in small teams - usually the product, digital marketing and tech teams inside their companies.
 
 ## Achieving Radical Transparency
 
