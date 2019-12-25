@@ -11,7 +11,7 @@ banner_image: "/uploads/Catalan human tower.jpg"
 slug: gallup q12 index on measuring employee engagement
 
 ---
-## Gallup's Q12 Index on measuring employee engagement is useful for evaluating the success of #stratapp.
+## Gallup's Q12 Index on measuring employee engagement is useful for evaluating the success of #stratapp
 
 Anthony Moorhouse is the founder of [Coherent Strategy](http://coherentstrat.com/ "Coherent Strategy"){:target="_blank"}, the first boutique advisory firm established to coach and support #stratapp clients on implementation.
 
