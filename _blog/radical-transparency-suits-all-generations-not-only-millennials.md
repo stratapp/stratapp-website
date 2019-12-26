@@ -71,7 +71,7 @@ There is no doubt collaboration tech beats email and static documents. However, 
 
 ### Imagine the Future
 
-To achieve radical transparency at work, companies need collaboration tech that has been designed from the outset as an org-wide experience - tech that adds value to every employee, across all levels, roles and generations.
+To achieve radical transparency at work, companies need collaboration tech that has been designed from the outset as an org-wide experience - tech that adds value daily to every employee, across all levels, roles and generations.
 
 To add value org-wide means helping employees with their day to day work, as well as enabling them to contribute to the strategic context and corresponding initiatives.
 
