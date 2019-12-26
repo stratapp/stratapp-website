@@ -24,7 +24,7 @@ His solution is to consciously ask each other:
 * Is it okay for me to be honest with you, that is, me telling you what I really think?
 * Are you okay being honest with me?
 
-Mr Dalio argues: “In order to be successful, we have to have independent thinkers — so independent that they’ll bet against the consensus." And to do that, “You have to put your honest thoughts on the table.” Then, the best ideas rise to the top.
+Ray Dalio argues: “In order to be successful, we have to have independent thinkers — so independent that they’ll bet against the consensus." And to do that, “You have to put your honest thoughts on the table.” Then, the best ideas rise to the top.
 
 ## Millennials and Radical Transparency
 
@@ -67,7 +67,7 @@ Social and work collaboration tools (#slack, yammer, teams, trello, asana, etc) 
 1. The risk of adding more distractions and noise
 2. Lack of adoption by executives and senior managers ... bottom up collaboration, whilst positive, loses impact if the decision makers vacate
 
-There is no doubt collaboration tech beats email and static documents. However, current tech has been designed for small teams of 5 to 30 people. Turn them on for hundreds or thousands of employees and the risk is chaos.
+There is no doubt collaboration tech beats email and static documents. However, collaboration tech today has been designed for small teams of 5 to 30 people. Turn those apps on for hundreds or thousands of employees and the risk is chaos.
 
 ### Imagine the Future
 
