@@ -101,8 +101,8 @@ A seamless org-wide experience also means:
 
 #### #stratapp
 
-This future state of org-wide collaboration tech has arrived.  It’s called [#stratapp](https://stratapp.ai "#stratapp").
+This future state tech has arrived. It’s called [#stratapp](https://stratapp.ai "#stratapp").
 
-\#stratapp frees you and your colleagues to deliver on everything described above.
+\#stratapp frees you to deliver on everything described above.
 
 With #stratapp you can embrace radical transparency and achieve genuine org-wide collaboration - across all levels, roles and generations - within the relevant strategic context of why the organization exists and what it is trying to achieve.
