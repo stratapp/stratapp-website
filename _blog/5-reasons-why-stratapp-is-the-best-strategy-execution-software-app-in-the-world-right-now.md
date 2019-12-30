@@ -20,7 +20,7 @@ seo_description: 'Best strategy execution software app in the world right now is
 feature_image: ''
 
 ---
-\#stratapp’s design team started thinking about **how to engage 100% of employees**, rather than only those folks who are lucky enough to be "inside the strat-dev circle".
+\#stratapp’s co-founders started thinking about **how to engage 100% of employees**, rather than only those folks who are lucky enough to be "inside the strat-dev circle".
 
 Why? The historical challenge for business owners, CEOs and management consultants has not been a lack of ideas or the process of strategy development.
 
@@ -28,7 +28,7 @@ The challenge is strategy execution. To put it bluntly, strategy execution rarel
 
 Here’s how #stratapp helps make strategy execution consistently exceed expectations:
 
-1. **Org-Wide** - designed and priced from the outset as an org-wide every-employee user experience
+1. **Org-Wide** - designed and [priced](https://stratapp.ai/pricing/ "#stratapp pricing") from the outset as an org-wide every-employee user experience
 2. **Intuitive** - simple and easy to use for all levels, roles and generations - applying theory and language they already know
 3. **Context** - innovating further on existing social and work collaboration apps, then adding the most important ingredient - the _strategic context_ of why the organization exists and what it is trying to achieve
 4. **Daily** - adding value to every employee daily, by supporting them on their daily work, not just strategic work - thereby making sure the strategic context and goals/objectives/actions/projects remain front of mind
