@@ -31,7 +31,7 @@ To help solve this, Atlassian thought of a clever idea to add structure to socia
 
 Think about that for a moment. Not only are you making life easier for your recipients, it enables you to go back to filter on your own posts. For example, “what was that question I asked Tom last week?”
 
-Stride also added some new innovations around profile status. Stride encouraged users to take “zone time” to think, research, be creative and get high-value work done. How’s that, a social app making it easier for you to avoid getting caught in the productivity killer trap of always being livechat accessible to your boss and colleagues? Admirable!
+Stride also added new innovations on profile status. Stride encouraged users to take “zone time” to think, research, be creative and get high-value work done. How’s that, a social app making it easier for you to avoid getting caught in the productivity killer trap of always being livechat accessible to your boss and colleagues? Admirable!
 
 ## #slack Buries Stride
 
