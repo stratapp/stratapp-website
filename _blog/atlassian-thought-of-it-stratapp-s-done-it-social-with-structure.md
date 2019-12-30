@@ -19,9 +19,9 @@ seo_description: 'Those of you into B2B SaaS will remember Stride, a clever inno
 feature_image: ''
 
 ---
-## Stride’s Big Idea
-
 Without structure, social collaboration can quickly become a firehose of noise and distraction.
+
+## Stride’s Big Idea
 
 To help solve this, Atlassian thought of a clever idea to add structure to social. When you posted something in Stride by Atlassian, you could tag the post as a:
 
