@@ -57,13 +57,13 @@ We concluded 3 things:
 
 Here are the 10 tags inside a #stratapp social post:
 
-![](https://lh4.googleusercontent.com/SJ9gS9ovKd1vBbQF-_dbhGAfHAlpHpFofDzPzlka00C8FfW5v6OIv2y3mVGhjOq9YgZF_DLI7V5HoVi2YscnKB56qp157MWBso-idmA_M3DrPlkKK_hgMjAe4cUP1Xj_eHqFgn-w =698x308)
+![](/uploads/#stratapp social post.jpeg)
 
 ### Social Request
 
 Here are the 3 tags inside a #stratapp social request:
 
-![](https://lh5.googleusercontent.com/hV8p2XJjXFHpaqNpVnlm-CZ_HXG_XTY_Q0hUBhmH216Zdjyh9fWI04lNFWg_hnTOni45NYlwtTC644Vubym66xj_ewhzmiggqfFaptFv1tzOSfds2MbPQS2u93Xzj49nhHQOPrce =698x283)
+![](/uploads/#stratapp social request.jpeg)
 
 ### Filters
 
@@ -83,7 +83,7 @@ _Example #3_
 
 _Who is having the most influence on strategy or KPI related work? Who are the emerging team players on KPIs? Who are the emerging innovators on strategy?_
 
-![](https://lh4.googleusercontent.com/WpMxip-kRrrPpZmUfYpRhIiujAPpJzO3zDfpogjAw5nnU-_AdwiWnUwnQzmd7CRkusZeqe79Z71yAczpvs7SVap4PeF6K9iqhn15B6G2m8L1AFvhxkgv4KpHiiOeP2JBgyXBSw2K =274x755)
+![](/uploads/#stratapp filters.PNG)
 
 ### Zone Time
 
@@ -91,7 +91,7 @@ Let’s not forget that other Atlassian innovation in Stride regards the user’
 
 \#stratapp has expanded further on that innovation:
 
-![](https://lh4.googleusercontent.com/xEnh2IjEdKGiZDB5K2o66wzEDx6OEw_V0-HkeYTAE9LoDIjKP9Tbrogb2589-anqHFhXatu0WGGK9dtejhYv5FzZL65ftdmpbwHzeXHNpTJUkF4N6lKsT_B_NLZIQVn4wYTXgXay =352x474)
+![](/uploads/#stratapp avatar profile status.jpeg)
 
 ## Whiteboard Video
 
