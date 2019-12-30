@@ -83,7 +83,7 @@ _Example #3_
 
 _Who is having the most influence on strategy or KPI related work? Who are the emerging team players on KPIs? Who are the emerging innovators on strategy?_
 
-![](/uploads/#stratapp filters.PNG)
+![](/uploads/#stratapp avatar profile status.jpeg)
 
 ### Zone Time
 
