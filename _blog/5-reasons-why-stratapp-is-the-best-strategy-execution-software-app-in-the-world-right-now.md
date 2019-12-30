@@ -20,9 +20,9 @@ seo_description: 'Best strategy execution software app in the world right now is
 feature_image: ''
 
 ---
-\#stratapp’s design team started thinking about **how to engage 100% of employees**, rather than only those folks who are lucky enough to be _inside the strat-dev circle_.
+\#stratapp’s design team started thinking about **how to engage 100% of employees**, rather than only those folks who are lucky enough to be "inside the strat-dev circle".
 
-Why? The historical challenge for business owners, CEOs and management consultants has not been a lack of ideas or the process of strategy development. 
+Why? The historical challenge for business owners, CEOs and management consultants has not been a lack of ideas or the process of strategy development.
 
 The challenge is strategy execution. To put it bluntly, strategy execution rarely meets expectations, as brilliantly articulated by Richard Rumelt in [Good Strategy Bad Strategy](https://stratapp.ai/good-strategy-bad-strategy-by-richard-rumelt/ "Good Strategy Bad Strategy").
 
