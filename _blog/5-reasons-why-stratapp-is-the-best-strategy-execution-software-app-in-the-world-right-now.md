@@ -1,7 +1,8 @@
 ---
 author: _people/ash-richardson.md
-category: []
-date: 2019-12-30 17:49:34 +1000
+category:
+- "#articles"
+date: 2019-09-17 17:49:00 +1000
 layout: blog
 title: '5 reasons why #stratapp is the best strategy execution software app in the
   world right now'
@@ -9,14 +10,27 @@ sub_heading: Until now strategy execution software apps have focused on ideation
   strategy development, giving people “inside the strat-dev circle” the tools and
   methodologies they need to create and articulate strategy.
 video_id: ''
-banner_image: ''
+banner_image: "/uploads/collaborating-1.jpg"
 slug: ''
 seo_title: ''
 seo_description: ''
 feature_image: ''
-published: false
 
 ---
-5 reasons why #stratapp is the best strategy execution software app in the world right now
+\#stratapp’s design team started with thinking about how to engage 100% of employees, rather than only those folks who are lucky enough to be “inside the strat-dev circle”.
 
-Until now strategy execution software apps have focused on ideation and strategy development, giving people “inside the strat-dev circle” the tools and methodologies they need to create and articulate strategy.
+Why? The historical challenge for business owners, CEOs and management consultants has not been a lack of ideas or the process of strategy development. The challenge is strategy execution. To put it bluntly, strategy execution rarely meets expectations, as brilliantly articulated by Richard Rumelt in [Good Strategy Bad Strategy](https://stratapp.ai/good-strategy-bad-strategy-by-richard-rumelt/ "Good Strategy Bad Strategy").
+
+Here’s how #stratapp helps make strategy execution consistently exceed expectations:
+
+1. Org-Wide - designed and priced from the outset as an org-wide every-employee user experience
+2. Intuitive - simple and easy to use for all levels, roles and generations - applying theory and language they already know
+3. Context - innovating further on existing social and work collaboration apps, then adding the most important ingredient - the _strategic context_ of why the organization exists and what it is trying to achieve
+4. Daily - adding value to every employee daily, by supporting them on their daily work, not just strategic work - thereby making sure the strategic context and goals/objectives/actions/projects remain front of mind
+5. Radical - allowing progressive business owners and CEOs to actually achieve [Ray Dalio’s radical transparency](https://stratapp.ai/blog/radical-transparency/ "Radical Transparency from Ray Dalio")
+
+To learn more about solving strategy execution, here is a [90 second explainer video](https://stratapp.ai/blog/stratapp-explainer-video/ "#stratapp explainer video").
+
+Thank you for reading (and hopefully sharing).
+
+We hope you become passionate using #stratapp, the strategy execution app that even [millennials](https://stratapp.ai/blog/millennials/ "Millennials vs Y Gen") love.
