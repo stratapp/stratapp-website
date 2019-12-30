@@ -14,7 +14,7 @@ slug: atlassian stride social with structure
 seo_title: 'Atlassian''s Stride created social with structure | Buried by #slack'
 seo_description: 'Those of you into B2B SaaS will remember Stride, a clever innovation
   by Atlassian that had a huge waiting list for Beta, including me, then it was buried
-  by #slack. #stratapp has taken the idea a step further, adding structure and a strategic
+  by #slack. #stratapp has taken the idea a step further, adding more tags and a strategic
   context to social.'
 feature_image: ''
 
