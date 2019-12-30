@@ -19,7 +19,7 @@ seo_description: 'Those of you into B2B SaaS will remember Stride, a clever inno
 feature_image: ''
 
 ---
-Without structure, social collaboration can quickly become a firehose of noise and distraction.
+Without structure, social collaboration can quickly become a fire-hose of noise and distraction.
 
 ## Stride’s Big Idea
 
