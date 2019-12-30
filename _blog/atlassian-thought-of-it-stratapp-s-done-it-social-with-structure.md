@@ -57,13 +57,9 @@ We concluded 3 things:
 
 Here are the 10 tags inside a #stratapp social post:
 
-![](/uploads/#stratapp social post.jpeg)
-
 ### Social Request
 
 Here are the 3 tags inside a #stratapp social request:
-
-![](/uploads/#stratapp social request.jpeg)
 
 ### Filters
 
@@ -73,7 +69,7 @@ For example, imagine being able to find out the following 3 things in less than 
 
 _Example #1_
 
-_I’ve been away for 72hrs. What strategy related questions have been asked, and what decisions or approvals have been made, whilst I was away? Great, now let’s narrow that down further to the strategy aspects I own or am involved in._
+_I’ve been away for 72 hours. What strategy related questions have been asked, and what decisions or approvals have been made, whilst I was away? Great, now let’s narrow that down further to only the strategy aspects I own or am directly involved in._
 
 _Example #2_
 
@@ -83,15 +79,11 @@ _Example #3_
 
 _Who is having the most influence on strategy or KPI related work? Who are the emerging team players on KPIs? Who are the emerging innovators on strategy?_
 
-![](/uploads/#stratapp avatar profile status.jpeg)
-
 ### Zone Time
 
 Let’s not forget that other Atlassian innovation in Stride regards the user’s profile status (described as “zone time” in the opening paragraphs above).
 
 \#stratapp has expanded further on that innovation:
-
-![](/uploads/#stratapp avatar profile status.jpeg)
 
 ## Whiteboard Video
 
