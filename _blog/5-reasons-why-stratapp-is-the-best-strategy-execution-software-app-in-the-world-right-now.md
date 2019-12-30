@@ -38,4 +38,4 @@ To learn more about solving strategy execution, here is a [90 second explainer v
 
 Thank you for reading (and hopefully sharing).
 
-We hope you become a passionate advocate of #stratapp, the strategy execution app that even [millennials](https://stratapp.ai/blog/millennials/ "Millennials vs Y Gen") love.
+We hope you become a passionate advocate of #stratapp, the strategy execution app that even [millennials](https://stratapp.ai/blog/millennials/ "Millennials vs Y Gen") love.  You might also like to read why we've added [structure to social](https://stratapp.ai/blog/best-strategy-execution-software-app/ "structure to social").
