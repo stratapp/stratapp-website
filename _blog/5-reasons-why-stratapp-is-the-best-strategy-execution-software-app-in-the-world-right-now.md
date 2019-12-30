@@ -15,8 +15,7 @@ slug: best strategy execution software
 seo_title: 'best strategy execution software in the world right now is #stratapp'
 seo_description: 'Best strategy execution software in the world right now is #stratapp.
   #stratapp is strategy execution software designed for org-wide 100% of employees,
-  not only those folks who are lucky enough to be inside the strategy development
-  circle.'
+  not only people lucky enough to be inside the strategy development circle.'
 feature_image: ''
 
 ---
@@ -26,11 +25,11 @@ Why? The historical challenge for business owners, CEOs and management consultan
 
 Here’s how #stratapp helps make strategy execution consistently exceed expectations:
 
-1. Org-Wide - designed and priced from the outset as an org-wide every-employee user experience
-2. Intuitive - simple and easy to use for all levels, roles and generations - applying theory and language they already know
-3. Context - innovating further on existing social and work collaboration apps, then adding the most important ingredient - the _strategic context_ of why the organization exists and what it is trying to achieve
-4. Daily - adding value to every employee daily, by supporting them on their daily work, not just strategic work - thereby making sure the strategic context and goals/objectives/actions/projects remain front of mind
-5. Radical - allowing progressive business owners and CEOs to actually achieve [Ray Dalio’s radical transparency](https://stratapp.ai/blog/radical-transparency/ "Radical Transparency from Ray Dalio")
+1. **Org-Wide** - designed and priced from the outset as an org-wide every-employee user experience
+2. **Intuitive** - simple and easy to use for all levels, roles and generations - applying theory and language they already know
+3. **Context** - innovating further on existing social and work collaboration apps, then adding the most important ingredient - the _strategic context_ of why the organization exists and what it is trying to achieve
+4. **Daily** - adding value to every employee daily, by supporting them on their daily work, not just strategic work - thereby making sure the strategic context and goals/objectives/actions/projects remain front of mind
+5. **Radical** - allowing progressive business owners and CEOs to actually achieve [Ray Dalio’s radical transparency](https://stratapp.ai/blog/radical-transparency/ "Radical Transparency from Ray Dalio")
 
 To learn more about solving strategy execution, here is a [90 second explainer video](https://stratapp.ai/blog/stratapp-explainer-video/ "#stratapp explainer video").
 
