@@ -10,7 +10,7 @@ sub_heading: Until now strategy execution software apps have focused on ideation
   strategy development, giving people “inside the strat-dev circle” the tools and
   methodologies they need to create and articulate strategy.
 video_id: ''
-banner_image: "/uploads/collaborating-1.jpg"
+banner_image: "/uploads/collaboration.jpg"
 slug: best strategy execution software
 seo_title: 'best strategy execution software in the world right now is #stratapp'
 seo_description: 'Best strategy execution software in the world right now is #stratapp.
