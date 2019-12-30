@@ -105,4 +105,4 @@ Thank you for reading (and hopefully sharing).
 
 You might also like to read [why #stratapp is the best strategy execution software app in the world right now](https://stratapp.ai/blog/best-strategy-execution-software/ "best strategy execution software").
 
-We hope you become passionate using #stratapp, the strategy execution app even [millennials](https://stratapp.ai/blog/millennials/ "millennials") love.
+We hope you become a passionate advocate of #stratapp, the strategy execution app even [millennials](https://stratapp.ai/blog/millennials/ "millennials") love.
