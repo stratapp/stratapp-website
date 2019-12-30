@@ -57,9 +57,13 @@ We concluded 3 things:
 
 Here are the 10 tags inside a #stratapp social post:
 
+![](/uploads/social post.jpeg)
+
 ### Social Request
 
 Here are the 3 tags inside a #stratapp social request:
+
+![](/uploads/social request.jpeg)
 
 ### Filters
 
@@ -79,11 +83,15 @@ _Example #3_
 
 _Who is having the most influence on strategy or KPI related work? Who are the emerging team players on KPIs? Who are the emerging innovators on strategy?_
 
+![](/uploads/filters.PNG)
+
 ### Zone Time
 
 Let’s not forget that other Atlassian innovation in Stride regards the user’s profile status (described as “zone time” in the opening paragraphs above).
 
 \#stratapp has expanded further on that innovation:
+
+![](/uploads/profile status.jpeg)
 
 ## Whiteboard Video
 
