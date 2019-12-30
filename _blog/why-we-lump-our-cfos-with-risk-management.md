@@ -2,7 +2,7 @@
 author: _people/ash-richardson.md
 category:
 - "#articles"
-date: 2019-12-09T05:36:24.000+00:00
+date: 2019-09-12 00:00:00 +1000
 layout: blog
 title: why we lump our CFOs with risk management
 sub_heading: If made easier, most of us would embrace risk management. But it’s not,
