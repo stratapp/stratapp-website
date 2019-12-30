@@ -2,7 +2,7 @@
 author: _people/ash-richardson.md
 category:
 - "#z-articles"
-date: 2019-09-01 00:00:00 +1000
+date: 2019-09-14 00:00:00 +1000
 layout: blog
 title: radical transparency suits all generations, not only millennials
 sub_heading: Radical transparency was made famous by Ray Dalio's book Principles.
