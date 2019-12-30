@@ -71,17 +71,14 @@ Here are the 3 tags inside a #stratapp social request:
 
 For example, imagine being able to find out the following 3 things in less than 5 seconds:
 
-_Example #1_
+_Example #1  
+I’ve been away for 72 hours. What strategy related questions have been asked, and what decisions or approvals have been made, whilst I was away? Great, now let’s narrow that down further to only the strategy aspects I own or am directly involved in._
 
-_I’ve been away for 72 hours. What strategy related questions have been asked, and what decisions or approvals have been made, whilst I was away? Great, now let’s narrow that down further to only the strategy aspects I own or am directly involved in._
+_Example #2  
+For the risks, ideas and challenges I currently own, what is the status of tasks I have assigned to others?_
 
-_Example #2_
-
-_For the risks, ideas and challenges I currently own, what is the status of tasks I have assigned to others?_
-
-_Example #3_
-
-_Who is having the most influence on strategy or KPI related work? Who are the emerging team players on KPIs? Who are the emerging innovators on strategy?_
+_Example #3  
+Who is having the most influence on strategy or KPI related work? Who are the emerging team players on KPIs? Who are the emerging innovators on strategy?_
 
 ![](/uploads/filters.PNG)
 
