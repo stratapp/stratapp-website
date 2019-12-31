@@ -95,7 +95,7 @@ _First show me you are committed, then you’ll see my commitment._
 A seamless org-wide experience also means:
 
 * Org-design attributes (e.g. @F/sales + @G/APAC) to easily invite people to strategic initiatives, projects, meetings, ideas, challenges, risks, messages, cards and workboards
-* Powerful filters and social-with-structure, so people can quickly see exactly what they need to
+* Powerful filters and [social-with-structure](https://stratapp.ai/blog/atlassian-stride-social-with-structure/ "social with structure"), so people can quickly see exactly what they need to
 * Easy to understand security levels, so that radical transparency doesn’t become radically out of control
 * Intuitive user experiences, so people of all tech aptitudes don’t need to be trained on how to use it
 
