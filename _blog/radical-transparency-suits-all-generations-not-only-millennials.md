@@ -101,7 +101,7 @@ A seamless org-wide experience also means:
 
 #### #stratapp
 
-This future state tech has arrived. It’s called [#stratapp](https://stratapp.ai "#stratapp").
+This future state tech has arrived. It’s called [#stratapp](https://stratapp.ai/blog/why-stratapp-is-10-apps-in-1/ "10 apps in 1").
 
 \#stratapp frees you to deliver on everything described above.
 
