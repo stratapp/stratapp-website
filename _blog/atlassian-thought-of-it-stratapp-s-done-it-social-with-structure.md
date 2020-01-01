@@ -92,7 +92,7 @@ Let’s not forget that other Atlassian innovation in Stride regards the user’
 
 ## Whiteboard Video
 
-Here’s me on a whiteboard explaining [how and why we applied structure to social]().
+Here’s me on a whiteboard explaining [how and why we applied structure to social](https://stratapp.ai/blog/social-apps-with-structure-reduce-noise/ "social with structure").
 
 Startup tech founders don’t tend to do this, but you’ll see in that video, just like in this article, I give full credit to the original thinking and innovation from the talented folks at Atlassian.
 
@@ -100,6 +100,6 @@ Startup tech founders don’t tend to do this, but you’ll see in that video, j
 
 Thank you for reading (and hopefully sharing).
 
-You might also like to read [why #stratapp is the best strategy execution software app in the world right now](https://stratapp.ai/blog/best-strategy-execution-software/ "best strategy execution software").
+You might also like to read [why #stratapp is the best strategy execution software app in the world right now](https://stratapp.ai/blog/best-strategy-execution-software-app/ "best strategy execution software app").
 
 We hope you become a passionate advocate of #stratapp, the strategy execution app even [millennials](https://stratapp.ai/blog/millennials/ "millennials") love.
