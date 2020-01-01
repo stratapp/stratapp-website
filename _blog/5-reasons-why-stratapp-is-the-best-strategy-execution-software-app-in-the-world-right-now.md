@@ -29,10 +29,10 @@ The challenge is strategy execution. To put it bluntly, strategy execution rarel
 Here’s how #stratapp helps make strategy execution consistently exceed expectations:
 
 1. **Org-Wide** - designed and [priced](https://stratapp.ai/pricing/ "#stratapp pricing") from the outset as an org-wide every-employee user experience
-2. **Intuitive** - simple and easy to use for all levels, roles and generations - applying theory and language they already know
+2. **Intuitive** - easy to use for all levels, roles and generations - applying what you already know
 3. **Context** - innovating further on existing social and work collaboration apps, then adding the most important ingredient - the _strategic context_ of why the organization exists and what it is trying to achieve
-4. **Daily** - adding value to every employee daily, by supporting them on their daily work, not just strategic work - thereby making sure the strategic context and goals/objectives/actions/projects remain front of mind
-5. **Radical** - allowing progressive business owners and CEOs to actually achieve [Ray Dalio’s radical transparency](https://stratapp.ai/blog/radical-transparency/ "Radical Transparency from Ray Dalio")
+4. **Daily** - adding value to every employee daily, supporting them on both daily and strategic work - thereby making sure the strategic context and goals/objectives/actions/projects remain front of mind
+5. **Radical** - helping business owners and CEOs actually achieve [Ray Dalio’s radical transparency](https://stratapp.ai/blog/radical-transparency/ "Radical Transparency from Ray Dalio")
 
 To learn more about solving strategy execution, here is a [90 second explainer video](https://stratapp.ai/blog/stratapp-explainer-video/ "#stratapp explainer video").
 
