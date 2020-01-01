@@ -20,7 +20,7 @@ seo_description: 'Best strategy execution software app in the world right now is
 feature_image: ''
 
 ---
-\#stratapp’s co-founders started thinking about **how to engage 100% of employees**, rather than only those folks who are lucky enough to be "inside the strat-dev circle".
+\#stratapp’s co-founders started thinking about **how to engage 100% of employees**, rather than only those folks who are lucky enough to be inside the strat-dev circle.
 
 Why? The historical challenge for business owners, CEOs and management consultants has not been a lack of ideas or the process of strategy development.
 
