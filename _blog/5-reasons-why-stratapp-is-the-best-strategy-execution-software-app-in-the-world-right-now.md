@@ -36,6 +36,6 @@ Here’s how #stratapp helps make strategy execution consistently exceed expecta
 
 To learn more about solving strategy execution, here is a [90 second explainer video](https://stratapp.ai/blog/stratapp-explainer-video/ "#stratapp explainer video").
 
-Thank you for reading (and hopefully sharing).
-
 We hope you become a passionate advocate of #stratapp, the strategy execution app that even [millennials](https://stratapp.ai/blog/millennials/ "Millennials vs Y Gen") love.  You might also like to read [why we've added structure to social](https://stratapp.ai/blog/atlassian-stride-social-with-structure/ "social with structure").
+
+Thank you for reading (and hopefully sharing).
