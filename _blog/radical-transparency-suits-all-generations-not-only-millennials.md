@@ -86,7 +86,7 @@ Imagine if radical transparency could sit within an easy to view strategic conte
 
 This would allow every employee to embrace and contribute to what their CEO, executives and managers are trying to achieve.
 
-Such radical transparency delivers on the new social contract of our millennials:
+Such radical transparency delivers on the new social contract of [our millennials](https://stratapp.ai/blog/millennials/ "how millennials collaborate"):
 
 _First show me you are committed, then you’ll see my commitment._
 
