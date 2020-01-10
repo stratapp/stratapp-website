@@ -21,9 +21,9 @@ published: false
 
 # How?
 
-If you know exactly what's going on, at all levels in the client's organization, you can add more value to the client.  Not only that, the client CEO and leadership team have a tangible context and rationale for accepting your proposals.
+If you know what's going on, at all levels in the client's organization, you can add more value to the client.  Not only that, the client CEO and leadership team have a tangible context and rationale for accepting your proposals.
 
-# Old School Consulting Sales
+# Consulting Sales Today
 
 Historically consulting sales are highly dependent on interpreting what's going on via personal relationships with a few key stakeholders.  Over lunches, dinners and workshops we try to interpret _the problem_, before scoping out potential ways to help.
 
@@ -32,7 +32,7 @@ Historically consulting sales are highly dependent on interpreting what's going 
 * Consultants sometimes get blamed for poor client execution
 * On-selling more work takes lots of time, energy and some luck
 
-# Future Consulting
+# Consulting Sales Future
 
 \#stratapp changes the game on how consulting work gets sold and delivered.
 
