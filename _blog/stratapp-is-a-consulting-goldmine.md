@@ -76,7 +76,7 @@ One-off project management software doesn't help either - being expensive, compl
 Consultants and the clients need a collaboration environment that achieves the following:
 
 * Agile - alive and interactive, evolving as the execution provides more insights
-* Org-wide - a user experience and price that achieves org-wide engagement
+* Inclusive - a user experience and price that achieves org-wide engagement
 * Easy - naturally intuitive, making the time to value of minutes, not weeks
 * Lasting - adds value to the client beyond the life of the consulting engagement
 * Efficient - allows CTOs to eliminate single-purpose-apps and integrations
