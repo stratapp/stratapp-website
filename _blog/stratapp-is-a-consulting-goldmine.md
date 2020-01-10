@@ -49,7 +49,7 @@ Historically consulting sales are highly dependent on interpreting what's going 
 
 Imagine if you could see in just a few seconds the status of the client's:
 
-* strategic goals/objectives/actions/projects
+* strategy execution across goals/objectives/actions/projects
 * KPIs/OKRs
 * risks/mitigations/assumptions
 * projects/tasks
@@ -60,7 +60,7 @@ Imagine if you could see in just a few seconds the status of the client's:
 * innovators
 * what's hot and trending right now (conversations or work)
 
-Imagine if you can filter that data by unlimited combinations of geography, functions, verticals and horizontals.
+Imagine if you can filter that data by unlimited combinations of geography, levels, functions, verticals and horizontals.
 
 This level of real time data and insight is unprecedented.
 
@@ -70,13 +70,12 @@ The old school way of handing over consulting deliverables in the form of static
 
 Consultants and the clients need a collaboration environment that achieves the following:
 
-* Agile -
-* Interactive
-* Org-wide
-* Affordable
-* Easy
-* Lasting
-* Dual -
+* Agile - alive and interactive, evolving as execution provides more insights
+* Org-wide - a user experience and price that achieves org-wide engagement
+* Easy - naturally intuitive, providing a time to value of minutes, not weeks
+* Lasting - adds value to the client beyond the life of the consulting engagement
+* Efficient - allows CTOs to consolidate/eliminate single-purpose-apps
+* Dual - helps employees execute both strategic and day to day work
 
 # About #stratapp
 
