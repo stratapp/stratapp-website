@@ -25,7 +25,7 @@ published: false
 
 If you know what's going on, at all levels in the client's organization, you can add more value to the client.  Not only that, the client CEO and leadership team have a tangible context for accepting your proposals.
 
-# Consulting Sales Today
+## Consulting Sales Today
 
 Historically consulting sales are highly dependent on interpreting what's going on via personal relationships with a few key stakeholders.  Over time consuming lunches, dinners and workshops consultants try to interpret _the problem_, before scoping out potential ways to help.
 
@@ -34,7 +34,7 @@ Historically consulting sales are highly dependent on interpreting what's going 
 * Consultants get blamed for poor client execution
 * On-selling more work takes lots of time, energy and some luck
 
-# Consulting Sales Future
+## Consulting Sales Future
 
 \#stratapp changes the game on how consulting work gets sold and delivered.
 
@@ -45,7 +45,7 @@ Historically consulting sales are highly dependent on interpreting what's going 
 * Derisk your work, by proactively assisting on blockers
 * On-sell with data, genuine insights and aligned interests
 
-## Genuine Insights
+### Genuine Insights
 
 Imagine if you could see in just a few seconds the status of the client's:
 
@@ -64,13 +64,11 @@ Imagine if you can filter that data by unlimited combinations of geography, func
 
 This level of real time data and insight is unprecedented.
 
-## Deliverables (no more static docs)
+### Consulting Deliverables (no more static docs)
 
-The old school way of handing over consulting deliverables in the form of static documents, creates a burden for both the consultant and the client.
+The old school way of handing over consulting deliverables in the form of static documents, is time consuming, unproductive and creates a burden for both the consultant and the client.  One-off project management software doesn't help either.
 
-One-off project management software doesn't help either.
-
-Consultants and the clients need a tech environment that achieves the following:
+Consultants and the clients need a collaboration environment that achieves the following:
 
 * Agile -
 * Interactive
