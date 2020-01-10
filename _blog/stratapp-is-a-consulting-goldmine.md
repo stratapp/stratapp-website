@@ -59,7 +59,7 @@ Imagine if you could see in just a few seconds the status of:
 
 This level of real time data and insight is unprecedented.
 
-## Deliverables - No More Static Docs
+## Deliverables (no more static docs)
 
 Handing over consulting deliverables in the form of static documents creates a burden for both the consultant and the client.
 
