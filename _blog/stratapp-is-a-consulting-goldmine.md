@@ -21,7 +21,7 @@ published: false
 ---
 \#stratapp is a consulting goldmine.
 
-# How?
+# Why?
 
 If you know what's going on, at all levels in the client's organization, you can add more value to the client.  Not only that, the client CEO and leadership team have a tangible context for accepting your proposals.
 
