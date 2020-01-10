@@ -26,7 +26,7 @@ If you know what's going on, at all levels in the client's organization, you can
 
 ## Consulting Sales Today
 
-Historically consulting sales are highly dependent on interpreting what's going on via personal relationships with a few key stakeholders.  Through this (often) subjective lens over lunches, dinners and workshops, consultants try to interpret _the problem_, before scoping out potential ways to help.
+Historically consulting sales are highly dependent on interpreting what's going on via personal relationships with a few key stakeholders.  Through this subjective lens over lunches, dinners and workshops, consultants try to interpret _the problem_, before scoping out potential ways to help.
 
 * Visibility is subjective, and limited to these key relationships
 * Deliverables are point-in-time static documents
