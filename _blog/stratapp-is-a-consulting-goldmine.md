@@ -77,6 +77,18 @@ Both the consultant and the client need a tech environment that achieves the fol
 
 # About #stratapp
 
-One of the co-founders of #stratapp is ex-Accenture and PwC.
+The author, Ash Richardson, is ex-Accenture and PwC.  Ash went onto become managing partner of Oyster Partners (now DigitasLBi).  He has a deep understanding of the consulting lifecycle and the value of on-selling.
 
-\#stratapp is built on Microsoft Service Fabric, runs on Microsoft Azure and feeds content to Microsoft Teams and #slack.  #stratapp is part of the Microsoft startup program.  
+\#stratapp is built on Microsoft Service Fabric, runs on Microsoft Azure and feeds content to Microsoft Teams and #slack.  #stratapp's commercial release went live in December, and are member of the Microsoft startup program.  
+
+Useful links:
+
+[why #stratapp is the best strategy execution app in the world](https://stratapp.ai/blog/best-strategy-execution-software-app/ "best strategy execution app")
+
+[radical transparency](https://stratapp.ai/blog/radical-transparency/ "radical transparency | Ray Dalio")
+
+[Atlassian's Stride, adding structure to social](https://stratapp.ai/blog/atlassian-stride-social-with-structure/ "structure to social")
+
+[why work collaboration is a blindspot for senior execs](https://stratapp.ai/blog/work-collaboration-is-still-a-blindspot-for-senior-execs/ "senior execs blindspot")
+
+[why #stratapp is 10-apps-in-1](https://stratapp.ai/blog/why-stratapp-is-10-apps-in-1/ "10-apps-in-1")
