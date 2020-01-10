@@ -100,7 +100,7 @@ Quick reads:
 
 [why #stratapp is the best strategy execution app in the world](https://stratapp.ai/blog/best-strategy-execution-software-app/ "best strategy execution app")
 
-[radical transparency](https://stratapp.ai/blog/radical-transparency/ "radical transparency | Ray Dalio")
+[radical transparency](https://stratapp.ai/blog/radical-transparency/ "radical transparency") 
 
 [Atlassian adding structure to social](https://stratapp.ai/blog/atlassian-stride-social-with-structure/ "social with structure")
 
