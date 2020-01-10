@@ -12,8 +12,8 @@ video_id: ''
 banner_image: "/uploads/consulting goldmine.jpg"
 slug: consulting gold mine
 seo_title: "#stratapp is a management consulting goldmine"
-seo_description: "#stratapp is a management consulting goldmine. Clients are in full
-  control, but consultants get to rethink how they sell new work. The big opportunity
+seo_description: "#stratapp is a management consulting goldmine. Clients remain in
+  full control. Consultants get to rethink how they sell new work. Their big opportunity
   is on-selling, as #stratapp provides more insights than any other tech."
 feature_image: ''
 
