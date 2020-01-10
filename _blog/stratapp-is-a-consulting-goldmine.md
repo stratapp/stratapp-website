@@ -21,15 +21,15 @@ published: false
 
 # How?
 
-If you know what's going on, at all levels in the client's organization, you can add more value to the client.  Not only that, the client CEO and leadership team have a tangible context and rationale for accepting your proposals.
+If you know what's going on, at all levels in the client's organization, you can add more value to the client.  Not only that, the client CEO and leadership team have a tangible context for accepting your proposals.
 
 # Consulting Sales Today
 
-Historically consulting sales are highly dependent on interpreting what's going on via personal relationships with a few key stakeholders.  Over lunches, dinners and workshops we try to interpret _the problem_, before scoping out potential ways to help.
+Historically consulting sales are highly dependent on interpreting what's going on via personal relationships with a few key stakeholders.  Over time consuming lunches, dinners and workshops consultants try to interpret _the problem_, before scoping out potential ways to help.
 
 * Visibility is subjective, and limited to these key relationships
 * Deliverables are point-in-time static documents
-* Consultants sometimes get blamed for poor client execution
+* Consultants get blamed for poor client execution
 * On-selling more work takes lots of time, energy and some luck
 
 # Consulting Sales Future
@@ -45,27 +45,30 @@ Historically consulting sales are highly dependent on interpreting what's going 
 
 ## Genuine Insights
 
-Imagine if you could see in just a few seconds the status of:
+Imagine if you could see in just a few seconds the status of the client's:
 
 * strategic goals/objectives/actions/projects
 * KPIs/OKRs
 * risks/mitigations/assumptions
 * projects/tasks
 * challenges/ideas
-* sentiment and engagement by geography/function/vertical/horizontal
+* meetings
+* sentiment and engagement
 * team players
 * innovators
 * what's hot and trending right now (conversations or work)
+
+Imagine if you can filter that data by unlimited combinations of geography, functions, verticals and horizontals.
 
 This level of real time data and insight is unprecedented.
 
 ## Deliverables (no more static docs)
 
-Handing over consulting deliverables in the form of static documents creates a burden for both the consultant and the client.
+The old school way of handing over consulting deliverables in the form of static documents, creates a burden for both the consultant and the client.
 
 One-off project management software doesn't help either.
 
-Both the consultant and the client need a tech environment that achieves the following:
+Consultants and the clients need a tech environment that achieves the following:
 
 * Agile -
 * Interactive
@@ -73,13 +76,13 @@ Both the consultant and the client need a tech environment that achieves the fol
 * Affordable
 * Easy
 * Lasting
-* Dual - 
+* Dual -
 
 # About #stratapp
 
-The author, Ash Richardson, is ex-Accenture and PwC.  Ash went onto become managing partner of Oyster Partners (now DigitasLBi).  He has a deep understanding of the consulting lifecycle and the value of on-selling.
+The author, Ash Richardson, is ex-Accenture and PwC.  Ash went onto become managing partner of Oyster Partners (now DigitasLBi) before working in corporate finance and venture capital.  He has a deep understanding of the consulting:client lifecycle and the LTV:CAC value of on-selling.
 
-\#stratapp is built on Microsoft Service Fabric, runs on Microsoft Azure and feeds content to Microsoft Teams and #slack.  #stratapp's commercial release went live in December, and are member of the Microsoft startup program.  
+\#stratapp is built on Microsoft Service Fabric, runs on Microsoft Azure and feeds content to Microsoft Teams and #slack.  #stratapp's commercial release went live in December, and are member of the Microsoft startup program.
 
 Useful links:
 
