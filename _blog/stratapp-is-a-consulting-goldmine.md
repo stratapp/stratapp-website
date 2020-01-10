@@ -6,7 +6,7 @@ date: 2019-09-11 15:20:58 +1000
 layout: blog
 title: "#stratapp is a consulting goldmine"
 sub_heading: 'Clients remain in full control. Consultants open a  whole new world
-  on selling work. The big opportunity is on-selling, as #stratapp provides more insights
+  on selling work. The big opportunity is onselling, as #stratapp provides more insights
   than any other tech.'
 video_id: ''
 banner_image: "/uploads/consulting goldmine.jpg"
@@ -14,7 +14,7 @@ slug: consulting gold mine
 seo_title: "#stratapp is a management consulting goldmine"
 seo_description: "#stratapp is a management consulting goldmine. Clients remain in
   full control. Consultants open a  whole new world on selling work. The big opportunity
-  is on-selling, as #stratapp provides more insights than any other tech."
+  is onselling, as #stratapp provides more insights than any other tech."
 feature_image: ''
 
 ---
@@ -31,7 +31,7 @@ Historically consulting sales are highly dependent on interpreting what's going 
 * Visibility is subjective, and limited to these key relationships
 * Deliverables are point-in-time static documents
 * Consultants get partly blamed for poor execution by the client 
-* On-selling additional work takes lots of time, energy and luck
+* Onselling additional work takes lots of time, energy and luck
 
 ## Consulting Sales Future
 
@@ -42,7 +42,7 @@ How?  #stratapp provides more data and insights than any other tech.
 * See everything, at all levels in real time
 * Deliver work in a way that is alive and interactive
 * Derisk your work, by proactively assisting on blockers
-* On-sell with data, genuine insights and aligned interests
+* Onsell with data, genuine insights and aligned interests
 
 Of course, what the consultant can see and edit is controlled by the client.
 
@@ -86,7 +86,7 @@ Consultants and the clients need a collaboration environment that achieves the f
 
 The author, Ash Richardson, is ex-Accenture and PwC.  Ash went onto become managing partner of Oyster Partners (now DigitasLBi) before corporate finance and venture capital.  
 
-Ash has a deep understanding of the consulting life cycle, and the value of on-selling.
+Ash has a deep understanding of the consulting life cycle, and the value of onselling.
 
 \#stratapp helps **grow consulting revenue in all 4 quadrants**, noting the best LTV:CAC is top-right:
 
