@@ -82,6 +82,10 @@ Consultants and the clients need a tech environment that achieves the following:
 
 The author, Ash Richardson, is ex-Accenture and PwC.  Ash went onto become managing partner of Oyster Partners (now DigitasLBi) before working in corporate finance and venture capital.  He has a deep understanding of the consulting:client lifecycle and the LTV:CAC value of on-selling.
 
+\#stratapp helps **grow consulting revenue in all 4 quadrants**, noting of course the best consulting LTV:CAC is the top-right quadrant:
+
+![](/uploads/consulting landscape.jpg)
+
 \#stratapp is built on Microsoft Service Fabric, runs on Microsoft Azure and feeds content to Microsoft Teams and #slack.  #stratapp's commercial release went live in December, and are member of the Microsoft startup program.
 
 Useful links:
