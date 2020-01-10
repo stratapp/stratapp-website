@@ -30,7 +30,7 @@ Historically consulting sales are highly dependent on interpreting what's going 
 
 * Visibility is subjective, and limited to these key relationships
 * Deliverables are point-in-time static documents
-* Consultants get partly blamed for poor execution by the client
+* Consultants get partly blamed for poor execution by the client 
 * On-selling additional work takes lots of time, energy and luck
 
 ## Consulting Sales Future
