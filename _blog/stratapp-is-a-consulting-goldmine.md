@@ -87,11 +87,11 @@ The author, Ash Richardson, is ex-Accenture and PwC.  Ash went onto become manag
 
 ![](/uploads/consulting landscape.jpg)
 
-\#stratapp is built on Microsoft Service Fabric, runs on Microsoft Azure and feeds content to Microsoft Teams and #slack.
+\#stratapp is built on Microsoft Service Fabric, runs on Microsoft Azure and feeds content to Microsoft Teams and #slack. #stratapp is a member of Microsoft's startup program.
 
-\#stratapp's recenlty launched and is member of the Microsoft startup program.
+\#stratapp has experienced SaaS founders, with a 10 year vision backed by investors who are market leaders.
 
-Useful links:
+You may also be interested in these quick reads/videos:
 
 [why #stratapp is the best strategy execution app in the world](https://stratapp.ai/blog/best-strategy-execution-software-app/ "best strategy execution app")
 
