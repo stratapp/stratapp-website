@@ -65,7 +65,7 @@ Imagine if you can filter that data by unlimited combinations of geography, leve
 
 ![](/uploads/line of sight.PNG)
 
-This level of real time data and insight is unprecedented - giving progressive leaders, staff and consultants unlimited opportunities to innovate and elevate strategy execution.
+This level of real time alignment and insight is unprecedented - giving progressive leaders, employees and consultants unlimited opportunities to innovate strategy execution.
 
 ### Consulting Deliverables (no more static docs)
 
