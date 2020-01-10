@@ -31,11 +31,11 @@ Historically consulting sales are highly dependent on interpreting what's going 
 * Visibility is subjective, and limited to these key relationships
 * Deliverables are point-in-time static documents
 * Consultants get partly blamed for poor execution by the client
-* On-selling additional work takes lots of time, energy and some luck
+* On-selling additional work takes lots of time, energy and luck
 
 ## Consulting Sales Future
 
-\#stratapp changes the game on how consulting work gets sold and delivered.
+\#stratapp changes the game on how consulting work gets identified, sold and delivered.
 
 \#stratapp provides more data and insights than any other tech.  
 
