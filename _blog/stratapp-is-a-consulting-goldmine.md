@@ -74,3 +74,9 @@ Both the consultant and the client need a tech environment that achieves the fol
 * Easy
 * Lasting
 * Dual - 
+
+# About #stratapp
+
+One of the co-founders of #stratapp is ex-Accenture and PwC.
+
+\#stratapp is built on Microsoft Service Fabric, runs on Microsoft Azure and feeds content to Microsoft Teams and #slack.  #stratapp is part of the Microsoft startup program.  
