@@ -69,9 +69,9 @@ This level of real time alignment and insight is unprecedented - giving progress
 
 ### Consulting Deliverables (no more static docs)
 
-Old school consulting deliverables, in the form of static documents, is time consuming, unproductive and in the end creates a burden for both the consultant and the client.
+Old school consulting deliverables, in the form of static documents, are time consuming, hugely unproductive, 'top down' by nature and fast out of date.
 
-One-off project management software doesn't help either - expensive, complex to use and in the end accessed by less than 5% of client employees.
+One-off project management software doesn't help either - being expensive, complex to use and understandable to less than 5% of employees.
 
 Consultants and the clients need a collaboration environment that achieves the following:
 
