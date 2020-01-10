@@ -2,7 +2,7 @@
 author: _people/ash-richardson.md
 category:
 - "#articles"
-date: 2020-01-10 15:20:58 +1000
+date: 2019-09-11 15:20:58 +1000
 layout: blog
 title: "#stratapp is a consulting goldmine"
 sub_heading: 'Clients are in full control, but consultants get to rethink how they
