@@ -84,9 +84,9 @@ Consultants and the clients need a collaboration environment that achieves the f
 
 # About #stratapp
 
-The author, Ash Richardson, is ex-Accenture and PwC.  Ash went onto become managing partner of Oyster Partners (now DigitasLBi) before working in corporate finance and venture capital.  
+The author, Ash Richardson, is ex-Accenture and PwC.  Ash went onto become managing partner of Oyster Partners (now DigitasLBi) before corporate finance and venture capital.  
 
-Ash has a deep understanding of the consulting life cycle and the LTV:CAC value of on-selling.
+Ash has a deep understanding of the consulting life cycle and the value of on-selling.
 
 \#stratapp helps **grow consulting revenue in all 4 quadrants**, noting the best LTV:CAC is top-right:
 
