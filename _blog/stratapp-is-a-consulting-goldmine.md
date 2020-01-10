@@ -92,7 +92,7 @@ Ash has a deep understanding of the consulting life cycle, and the value of on-s
 
 ![](/uploads/consulting landscape.jpg)
 
-\#stratapp is built on Microsoft Service Fabric, runs on Microsoft Azure and feeds content to Microsoft Teams and #slack. #stratapp is a member of the Microsoft startup program.
+\#stratapp is built on Microsoft Service Fabric, runs on Microsoft Azure and feeds content to Microsoft Teams and #slack. #stratapp is a member of the Microsoft startup program and will be inviting Microsoft to invest on their Series A round in 2020.
 
 \#stratapp has experienced co-founders, with a 10 year vision backed by investors who are market leaders.
 
