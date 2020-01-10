@@ -38,12 +38,14 @@ Historically consulting sales are highly dependent on interpreting what's going 
 
 \#stratapp changes the game on how consulting work gets sold and delivered.
 
-\#stratapp provides more data and insights than any other tech.
+\#stratapp provides more data and insights than any other tech.  
 
 * See everything, at all levels in real time
 * Deliver work in a way that is alive and interactive
 * Derisk your work, by proactively assisting on blockers
 * On-sell with data, genuine insights and aligned interests
+
+Of course, what the consultant can see and edit is controlled by the client.
 
 ### Genuine Insights
 
