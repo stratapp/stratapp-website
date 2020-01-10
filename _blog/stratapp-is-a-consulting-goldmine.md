@@ -60,3 +60,17 @@ Imagine if you could see in just a few seconds the status of:
 This level of real time data and insight is unprecedented.
 
 ## Deliverables - No More Static Docs
+
+Handing over consulting deliverables in the form of static documents creates a burden for both the consultant and the client.
+
+One-off project management software doesn't help either.
+
+Both the consultant and the client need a tech environment that achieves the following:
+
+* Agile -
+* Interactive
+* Org-wide
+* Affordable
+* Easy
+* Lasting
+* Dual - 
