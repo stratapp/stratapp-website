@@ -60,15 +60,17 @@ Imagine if you could see in just a few seconds the status of the client's:
 * sentiment and engagement
 * team players
 * innovators
-* what's hot and trending right now (conversations or work)
+* interactive global heatmap showing what's hot right now
 
 Imagine if you can filter that data by unlimited combinations of geography, levels, functions, verticals and horizontals.
 
-This level of real time data and insight is unprecedented.
+This level of real time data and insight is unprecedented - giving progressive leaders, staff and consultants unlimited opportunities to innovate and elevate strategy execution.
 
 ### Consulting Deliverables (no more static docs)
 
-The old school way of handing over consulting deliverables in the form of static documents, is time consuming, unproductive and creates a burden for both the consultant and the client.  One-off project management software doesn't help either.
+Old school consulting deliverables, in the form of static documents, is time consuming, unproductive and in the end creates a burden for both the consultant and the client.
+
+One-off project management software doesn't help either.
 
 Consultants and the clients need a collaboration environment that achieves the following:
 
