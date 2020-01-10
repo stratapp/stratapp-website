@@ -37,7 +37,7 @@ Historically consulting sales are highly dependent on interpreting what's going 
 
 \#stratapp changes the game on how consulting work gets identified, sold and delivered.
 
-\#stratapp provides more data and insights than any other tech.  
+How?  #stratapp provides more data and insights than any other tech.  
 
 * See everything, at all levels in real time
 * Deliver work in a way that is alive and interactive
@@ -62,6 +62,8 @@ Imagine if you could see in just a few seconds the status of the client's:
 * interactive global heatmap showing what's hot right now
 
 Imagine if you can filter that data by unlimited combinations of geography, levels, functions, verticals and horizontals.
+
+![](/uploads/line of sight.PNG)
 
 This level of real time data and insight is unprecedented - giving progressive leaders, staff and consultants unlimited opportunities to innovate and elevate strategy execution.
 
