@@ -70,16 +70,16 @@ This level of real time data and insight is unprecedented - giving progressive l
 
 Old school consulting deliverables, in the form of static documents, is time consuming, unproductive and in the end creates a burden for both the consultant and the client.
 
-One-off project management software doesn't help either.
+One-off project management software doesn't help either - expensive, complex to use and in the end accessed by less than 5% of client employees.
 
 Consultants and the clients need a collaboration environment that achieves the following:
 
-* Agile - alive and interactive, evolving as execution provides more insights
+* Agile - alive and interactive, evolving as the execution provides more insights
 * Org-wide - a user experience and price that achieves org-wide engagement
-* Easy - naturally intuitive, providing a time to value of minutes, not weeks
+* Easy - naturally intuitive, making the time to value of minutes, not weeks
 * Lasting - adds value to the client beyond the life of the consulting engagement
-* Efficient - allows CTOs to consolidate/eliminate single-purpose-apps
-* Dual - helps employees execute both strategic and day to day work
+* Efficient - allows CTOs to eliminate single-purpose-apps and integrations
+* Dual - helps every employee execute both strategic and day to day work
 
 # About #stratapp
 
