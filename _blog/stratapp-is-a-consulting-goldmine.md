@@ -88,7 +88,7 @@ The author, Ash Richardson, is ex-Accenture and PwC.  Ash went onto become manag
 
 Ash has a deep understanding of the consulting life cycle and the LTV:CAC value of on-selling.
 
-\#stratapp helps **grow consulting revenue in all 4 quadrants**, noting of course the best consulting LTV:CAC is the top-right quadrant:
+\#stratapp helps **grow consulting revenue in all 4 quadrants**, noting the best LTV:CAC is top-right:
 
 ![](/uploads/consulting landscape.jpg)
 
