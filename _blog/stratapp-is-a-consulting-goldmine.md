@@ -5,7 +5,7 @@ category:
 date: 2019-09-11 15:20:58 +1000
 layout: blog
 title: "#stratapp is a consulting goldmine"
-sub_heading: 'Clients are in full control, but consultants get to rethink how they
+sub_heading: 'Clients remain in full control. Consultants get to rethink how they
   sell new work. The big opportunity is on-selling, as #stratapp provides more insights
   than any other tech.'
 video_id: ''
