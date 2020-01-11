@@ -35,7 +35,7 @@ Consulting sales today are highly dependent on interpreting via relationships wi
 
 ## Consulting Sales Future
 
-\#stratapp changes the game on how consulting work gets identified, sold and delivered.
+\#stratapp changes the game on how consulting work gets identified, sold, scoped and delivered.
 
 How?  #stratapp provides more data and insights than any other tech.
 
