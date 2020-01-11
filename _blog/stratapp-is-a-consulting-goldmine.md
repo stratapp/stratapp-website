@@ -15,7 +15,7 @@ seo_title: "#stratapp is a management consulting goldmine"
 seo_description: "#stratapp is a consulting goldmine. Clients remain in full control.
   Consultants open up a  whole new world for selling work. The big opportunity is
   onselling, as #stratapp provides more insights than any other tech."
-feature_image: "/uploads/consulting landscape.jpg"
+feature_image: ''
 
 ---
 \#stratapp is a consulting goldmine.
