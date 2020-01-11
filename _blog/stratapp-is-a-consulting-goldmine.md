@@ -26,18 +26,18 @@ If you know what's going on, at all levels in the client's organization, you can
 
 ## Consulting Sales Today
 
-Historically consulting sales are highly dependent on interpreting what's going on via personal relationships with a few key stakeholders.  Through this subjective lens over time consuming lunches, dinners and workshops, consultants try to interpret _the problem_, before scoping out potential ways to help.
+Historically, consulting sales are highly dependent on interpreting via personal relationships with a few key stakeholders.  Over time consuming lunches, dinners and workshops, consultants try to interpret and define _the problem_, before scoping out potential ways to help.
 
 * Visibility is subjective, and limited to these key relationships
 * Deliverables are point-in-time static documents
-* Consultants get partly blamed for poor execution by the client 
+* Consultants get partly blamed for poor execution by the client
 * Onselling additional work takes lots of time, energy and luck
 
 ## Consulting Sales Future
 
 \#stratapp changes the game on how consulting work gets identified, sold and delivered.
 
-How?  #stratapp provides more data and insights than any other tech.  
+How?  #stratapp provides more data and insights than any other tech.
 
 * See everything, at all levels in real time
 * Deliver work in a way that is alive and interactive
@@ -84,7 +84,7 @@ Consultants and clients need collaboration tech that achieves the following:
 
 # About #stratapp
 
-The author, Ash Richardson, is ex-Accenture and PwC.  Ash went onto become managing partner of Oyster Partners (now DigitasLBi) before corporate finance and venture capital.  
+The author, Ash Richardson, is ex-Accenture and PwC.  Ash went onto become managing partner of Oyster Partners (now DigitasLBi) before corporate finance and venture capital.
 
 Ash has a deep understanding of the consulting life cycle, and the value of onselling.
 
@@ -100,7 +100,7 @@ Quick reads:
 
 [why #stratapp is the best strategy execution app in the world](https://stratapp.ai/blog/best-strategy-execution-software-app/ "best strategy execution app")
 
-[radical transparency](https://stratapp.ai/blog/radical-transparency/ "radical transparency") 
+[radical transparency](https://stratapp.ai/blog/radical-transparency/ "radical transparency")
 
 [Atlassian adding structure to social](https://stratapp.ai/blog/atlassian-stride-social-with-structure/ "social with structure")
 
