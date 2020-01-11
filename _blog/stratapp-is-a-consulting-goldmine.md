@@ -100,7 +100,7 @@ Ash has a deep understanding of the management consulting life cycle, and the va
 
 Quick reads:
 
-[why #stratapp is the best strategy execution app in the world](https://stratapp.ai/blog/best-strategy-execution-software-app/ "best strategy execution app")
+[why #stratapp is the best strategy execution app in the world right now](https://stratapp.ai/blog/best-strategy-execution-software-app/ "best strategy execution app")
 
 [radical transparency](https://stratapp.ai/blog/radical-transparency/ "radical transparency")
 
