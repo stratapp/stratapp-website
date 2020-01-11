@@ -22,7 +22,7 @@ feature_image: ''
 
 # Why?
 
-If you know what's going on, at all levels in the client's organization, you can add more value.  Not only that, the client's CEO and leadership team have a tangible context for accepting your ideas and proposals.
+If you know what's going on, at all levels in the client's organization, you can add more value.  Not only that, the client's CEO and leadership team have a tangible context for collaborating on your ideas and proposals.
 
 ## Consulting Sales Today
 
