@@ -80,6 +80,7 @@ Consultants and clients need collaboration tech that is:
 * Lasting - adds value to the client beyond the life of the consulting engagement
 * Efficient - allows CTOs to eliminate single-purpose-apps and integrations
 * Dual - helps every employee execute both strategic and day to day work
+* Next Gen ready - noting millennials will be 75% of the workforce by 2025
 
 # About #stratapp
 
