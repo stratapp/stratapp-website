@@ -44,7 +44,7 @@ How?  #stratapp provides more data and insights than any other tech.
 * Derisk your work, by proactively assisting on blockers
 * Onsell with data, genuine insights and aligned interests
 
-Of course, what the consultant can see and edit is controlled by the client.
+Of course, what the consultant can see and edit inside #stratapp is controlled by the client.
 
 ### Genuine Insights
 
