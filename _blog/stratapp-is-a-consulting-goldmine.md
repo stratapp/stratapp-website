@@ -86,7 +86,7 @@ Consultants and clients need collaboration tech that is:
 
 # About #stratapp
 
-The author, Ash Richardson, is ex-Accenture and PwC.  Ash went onto become managing partner of Oyster Partners (now DigitasLBi), before corporate finance and venture capital.
+The author, Ash Richardson, is ex-Accenture and PwC.  Ash went onto become managing partner of Oyster Partners (now DigitasLBi), before lead roles in corporate finance and venture capital.
 
 Ash has a deep understanding of the management consulting life cycle, and the value of onselling.
 
