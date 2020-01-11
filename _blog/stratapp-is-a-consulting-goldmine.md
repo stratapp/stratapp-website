@@ -72,7 +72,7 @@ Old school consulting deliverables, in the form of point-in-time static document
 
 One-off project management software doesn't help either - being expensive, complex to use and understood by less than 5% of employees.
 
-Consultants and clients need collaboration tech that achieves the following:
+Consultants and clients need collaboration tech that is:
 
 * Agile - alive and interactive, evolving as the execution provides more insights
 * Inclusive - a user experience and price that achieves org-wide engagement
