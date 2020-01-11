@@ -55,11 +55,10 @@ Imagine if you could see in just a few seconds the status of the client's:
 * risks/mitigations/assumptions
 * projects/tasks
 * challenges/ideas
-* meetings
-* sentiment and engagement
-* team players
-* innovators
-* interactive global heatmap showing what's hot right now
+* meetings/actions
+* employee sentiment and engagement
+* team players/innovators/rising stars
+* interactive global heatmap, showing what's hot right now
 
 ![](/uploads/line of sight.PNG)
 
