@@ -18,10 +18,6 @@ seo_description: 'Risk management software for CFOs is no good as a single use a
 feature_image: "/uploads/CFO lumped.jpg"
 
 ---
-Cox's risk matrix theorem on rating probability vs impact:
-
-![](/uploads/Cox's risk matrix theorem v2.png)
-
 The board of directors are responsible for governance, including risk management.
 
 Risks are to be identified at a company level, then cascaded with clear ownership through various layers of management and org design. Risks should also be managed for strategic initiatives, projects, critical processes and key stakeholders (clients, suppliers, partners and contractors).
@@ -36,15 +32,15 @@ Single use apps are no good either. We don’t want to open a single use app, ju
 
 CFOs are in a no-win situation taking on risk management.  They face a dual headache:
 
-1. Getting people to take ownership of each risk, and the corresponding mitigations
-2. Keeping the risk information up to date
+* Getting people to take ownership of each risk, and the corresponding mitigations
+* Keeping the risk information up to date
 
 \#stratapp changes the game on risk management.
 
 There are two fresh thinking angles behind #stratapp’s approach:
 
-1. #stratapp includes risk management inside what you do strategically and operationally - you don’t have to go to another app or place, it becomes a natural part of daily work for all levels, roles and generations
-2. #stratapp has dumbed it down to the bare essentials - keeping to the language and frameworks **_you already know_**
+* #stratapp includes risk management inside what you do strategically and operationally - you don’t have to go to another app or place, it becomes a natural part of daily work for all levels, roles and generations
+* #stratapp has dumbed it down to the bare essentials - keeping to the language and frameworks **_you already know_**
 
 Let’s unpack those two fresh thinking angles.
 
@@ -66,6 +62,9 @@ Most of us can quickly rattle off the 10 common components of risk management:
 These are the exact same 10 components that make up the risk cards that sit inside #stratapp. And all the other things you need in relation to each risk (meeting notes, tasks, workboards, social collaboration, related items, files and links) are easily accessible in one place, right there on each risk card.
 
 To learn more about the risk management piece, watch: [https://stratapp.ai/blog/risk-management/](https://stratapp.ai/blog/risk-management/ "https://stratapp.ai/blog/risk-management/")
+
+![](/uploads/Cox's risk matrix theorem v2.png)  
+... Cox's risk matrix theorem for rating probability vs impact.  This construct is built into #stratapp.  Risks can be standalone, or added to any of the 9 other apps inside #stratapp.
 
 ### **10-apps-in-1**
 
