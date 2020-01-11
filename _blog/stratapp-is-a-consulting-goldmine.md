@@ -5,16 +5,16 @@ category:
 date: 2019-09-11 15:20:58 +1000
 layout: blog
 title: "#stratapp is a consulting goldmine"
-sub_heading: 'Clients remain in full control. Consultants open up a  whole new world
-  for selling work. The big opportunity is onselling, as #stratapp provides more insights
-  than any other tech.'
+sub_heading: 'Clients remain in full control. Consultants open up a whole new world.
+  The big opportunity is onselling, as #stratapp provides more insights than any other
+  tech.'
 video_id: ''
 banner_image: "/uploads/consulting goldmine.jpg"
 slug: consulting gold mine
 seo_title: "#stratapp is a consulting goldmine"
 seo_description: "#stratapp is a consulting goldmine. Clients remain in full control.
-  Consultants open up a  whole new world for selling work. The big opportunity is
-  onselling, as #stratapp provides more insights than any other tech."
+  Consultants open up a whole new world. The big opportunity is onselling, as #stratapp
+  provides more insights than any other tech."
 feature_image: "/uploads/consulting goldmine.jpg"
 
 ---
