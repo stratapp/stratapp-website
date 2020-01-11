@@ -50,7 +50,7 @@ Of course, what the consultant can see and edit inside #stratapp is controlled b
 
 Imagine if you could see, in just a few seconds, the exact status of the client's:
 
-* strategy execution across goals/objectives/actions/projects
+* strategy execution across goals->objectives->actions->projects
 * KPIs/OKRs
 * risks/mitigations/assumptions
 * projects/tasks
