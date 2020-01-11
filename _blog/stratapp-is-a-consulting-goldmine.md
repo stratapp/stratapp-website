@@ -83,7 +83,7 @@ Consultants and clients need collaboration tech that is:
 
 # About #stratapp
 
-The author, Ash Richardson, is ex-Accenture and PwC.  Ash went onto become managing partner of Oyster Partners (now DigitasLBi) before corporate finance and venture capital.
+The author, Ash Richardson, is ex-Accenture and PwC.  Ash went onto become managing partner of Oyster Partners (now DigitasLBi), before corporate finance and venture capital.
 
 Ash has a deep understanding of the consulting life cycle, and the value of onselling.
 
@@ -91,7 +91,7 @@ Ash has a deep understanding of the consulting life cycle, and the value of onse
 
 ![](/uploads/consulting landscape.jpg)
 
-\#stratapp is built on Microsoft Service Fabric, runs on Microsoft Azure and feeds content to Microsoft Teams and #slack. #stratapp is a grateful member of the Microsoft startup program and #stratapp will be inviting Microsoft to invest on their Series A round in 2020.
+\#stratapp is built on Microsoft Service Fabric, runs on Microsoft Azure and feeds content to Microsoft Teams and #slack. #stratapp is a grateful member of the Microsoft startup program and will be inviting Microsoft to invest on their Series A round in 2020.
 
 \#stratapp has experienced co-founders, with a 10 year vision backed by investors who are market leaders.
 
