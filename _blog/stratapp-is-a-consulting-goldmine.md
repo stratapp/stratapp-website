@@ -70,7 +70,7 @@ This level of real time alignment and insight is unprecedented - giving progress
 
 Old school consulting deliverables, that is, those (boring) point-in-time static docs, are time consuming, hugely unproductive, 'top down' by nature and fast out of date.
 
-One-off project management software doesn't help either - being expensive, complex to use and understood by less than 5% of employees.
+One-off project management software doesn't help either - expensive, complex to use and understood by less than 5% of employees.
 
 Consultants and clients need collaboration tech that is:
 
