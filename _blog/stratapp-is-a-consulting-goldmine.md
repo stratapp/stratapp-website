@@ -80,7 +80,7 @@ Consultants and clients need collaboration tech that is:
 * Inclusive - a user experience and price that achieves org-wide engagement
 * Easy - naturally intuitive, making the time to value of minutes, not weeks
 * Lasting - adds value to the client beyond the life of the consulting engagement
-* Efficient - allows CTOs to eliminate single-purpose-apps and integrations
+* Efficient - helping CTOs to eliminate single-purpose-apps and integrations
 * Dual - helps every employee execute both strategic and day to day work
 * Next Gen ready - noting [millennials](https://stratapp.ai/blog/radical-transparency/ "millennials") will be 75% of the workforce by 2025
 
