@@ -18,7 +18,7 @@ seo_description: "#stratapp is a consulting goldmine. Clients remain in full con
 feature_image: "/uploads/consulting goldmine.jpg"
 
 ---
-**#stratapp is a consulting goldmine.**
+**#stratapp is a consulting goldmine!**
 
 # Why?
 
@@ -46,7 +46,7 @@ How?  #stratapp provides more data and insights than any other tech.
 
 Of course, what the consultant can see and edit inside #stratapp is controlled by the client.
 
-### Genuine Insights
+### More Insights Than Any Other Tech
 
 Imagine if you could see, in just a few seconds, the exact status of the client's:
 
