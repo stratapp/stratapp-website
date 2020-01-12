@@ -40,7 +40,7 @@ CFOs are in a no-win situation taking on risk management.  They face a dual head
 There are two fresh thinking angles behind #stratapp’s approach:
 
 * #stratapp includes risk management inside what you do strategically and operationally - you don’t have to go to another app or place, it becomes a natural part of daily work for all levels, roles and generations
-* #stratapp has dumbed it down to the bare essentials - keeping to the language and frameworks **_you already know_**
+* #stratapp has dumbed it down to the bare essentials - language and methods **_you already know_**
 
 Let’s unpack those two fresh thinking angles.
 
