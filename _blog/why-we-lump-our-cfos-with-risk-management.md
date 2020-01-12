@@ -35,7 +35,7 @@ CFOs are in a no-win situation taking on risk management.  They face a dual head
 * Getting people to take ownership of each risk, and the corresponding mitigations
 * Keeping the risk information up to date
 
-\#stratapp changes the game on risk management.
+**#stratapp changes the game on risk management.**
 
 There are two fresh thinking angles behind #stratapp’s approach:
 
