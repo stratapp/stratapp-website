@@ -68,7 +68,7 @@ This level of real time alignment and insight is truly unprecedented in B2B tech
 
 ### Consulting Deliverables (no more static docs)
 
-Old school consulting deliverables, that is, those (boring) point-in-time static docs, are time consuming, hugely unproductive, 'top down' by nature and fast out of date.
+Old school consulting deliverables, point-in-time static docs, are time consuming, hugely unproductive, 'top down' by nature and fast out of date.
 
 One-off project management software doesn't help either - expensive, complex to use and understood by less than 5% of employees.
 
