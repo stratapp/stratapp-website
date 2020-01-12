@@ -70,7 +70,7 @@ This level of real time alignment and insight is truly unprecedented in B2B tech
 
 Old school consulting deliverables, in the form of point-in-time static docs, are time consuming, hugely unproductive, 'top down' by nature and fast out of date.
 
-One-off project management software doesn't help either - expensive, complex to use and understood by less than 5% of employees.
+One-off project management software doesn't help either.  It is expensive, complex to use and understood by less than 5% of employees.
 
 Sustaining strategy execution, business transformation and culture elevation requires a fresh new approach and genuine org-wide engagement.
 
