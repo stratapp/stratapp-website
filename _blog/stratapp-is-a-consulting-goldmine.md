@@ -18,7 +18,7 @@ seo_description: "#stratapp is a consulting goldmine. Clients remain in full con
 feature_image: "/uploads/consulting goldmine.jpg"
 
 ---
-\#stratapp is a consulting goldmine.
+**#stratapp is a consulting goldmine.**
 
 # Why?
 
@@ -35,7 +35,7 @@ Consulting sales today are highly dependent on a few key relationships.  By inve
 
 ## Consulting Sales Future
 
-\#stratapp changes the game on how consulting work gets identified, sold, scoped and delivered.
+\#stratapp changes the game on how consulting work gets identified, scoped, sold and delivered.
 
 How?  #stratapp provides more data and insights than any other tech.
 
