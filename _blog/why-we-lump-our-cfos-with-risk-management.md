@@ -30,7 +30,7 @@ Public companies issue regular risk statements. Often their executives and senio
 
 Single use apps are no good either. We don’t want to open a single use app, just to do risk management. That’s no better than trying to find the last doc or sheet we were using. I cannot count how many board meetings I’ve been to where the risk log is either lost, out of date or deferred over to the next meeting.
 
-CFOs are in a no-win situation taking on risk management.  They face a dual headache:
+**CFOs are in a no-win situation** taking on risk management.  They face a dual headache:
 
 * Getting people to take ownership of each risk, and the corresponding mitigations
 * Keeping the risk information up to date
