@@ -39,7 +39,7 @@ Consulting sales today are highly dependent on a few key relationships.  By inve
 
 How?  #stratapp provides more data and insights than any other tech.
 
-* See everything, at all levels in real time
+* See everything objectively, at all levels in real time
 * Deliver work in a way that is alive and interactive
 * Derisk your work, by proactively assisting on blockers
 * Onsell with data, genuine insights and aligned interests
