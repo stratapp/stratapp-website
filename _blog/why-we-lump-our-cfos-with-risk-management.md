@@ -64,7 +64,7 @@ These are the exact same 10 components that make up the risk cards that sit insi
 To learn more about the risk management piece, watch: [https://stratapp.ai/blog/risk-management/](https://stratapp.ai/blog/risk-management/ "https://stratapp.ai/blog/risk-management/")
 
 ![](/uploads/risk matrix.png)  
-... Cox's risk matrix theorem for rating probability vs impact.  This construct is built into #stratapp.  Risks can be standalone, or added to any of the 9 other apps inside #stratapp.
+... Cox's risk matrix theorem for rating probability vs impact.  This construct is built into #stratapp.  Risks can be standalone, or added to any of the 9 other apps inside #stratapp.  Risks inside #stratapp can be filtered and tracked by source type, geographies, functions, verticals and horizontals.
 
 ### **10-apps-in-1**
 
