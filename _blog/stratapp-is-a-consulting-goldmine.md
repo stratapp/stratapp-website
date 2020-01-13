@@ -48,7 +48,7 @@ Of course, what the consultant can see and edit inside #stratapp is controlled b
 
 ### More Insights Than Any Other Tech
 
-Imagine if you could see, in just a few seconds, the exact status of the client's:
+Imagine if you could see, in just a few seconds, the exact status and underlying cadence of the client's:
 
 * strategy execution across goals->objectives->actions->projects
 * KPIs/OKRs
