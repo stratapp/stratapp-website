@@ -62,7 +62,7 @@ Imagine if you could see, in just a few seconds, the exact status and underlying
 
 ![](/uploads/line of sight.PNG)
 
-Imagine filtering globally or locally by unlimited combinations of geography, levels, functions, verticals and horizontals.
+Imagine filtering by unlimited combinations of geography, levels, functions, verticals and horizontals.
 
 This level of real time alignment and insight is truly unprecedented in B2B tech - giving progressive CEOs, leaders, employees and consultants unlimited opportunities to innovate strategy execution and day to day work.
 
