@@ -27,6 +27,8 @@ collections:
   tutorials:
     output: true
     permalink: "/tutorials/:title/"
+    values:
+      sitemap: false
   features:
     output: true
     permalink: "/features/:title/"

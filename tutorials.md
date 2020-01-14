@@ -1,5 +1,6 @@
 ---
 title: tutorials
+robots-allow: false
 layout: tutorials
 description: ask a question or learn how to become a partner
 publish_date: 2019-12-03T14:00:00.000+00:00

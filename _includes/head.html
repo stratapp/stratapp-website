@@ -11,8 +11,11 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta content="telephone=no" name="format-detection">
   <meta name="HandheldFriendly" content="true">
+  {% if page.layout == 'tutorial' %}
+  <meta name="robots" content="noindex"> 
+  {% else %} 
   <meta name="robots" content="index, follow"> 
-
+  {% endif %}
   <meta name="og:title" property="og:title" content="{% if page.seo_title and page.seo_title != '' %}{{ page.seo_title }}{% else %}{{ page.title }} - {{ site.title }}{% endif %}">
   {% if page.feature_image and page.feature_image != "" %}
   <meta property="og:image" content="{{ page.feature_image | relative_url }}">
