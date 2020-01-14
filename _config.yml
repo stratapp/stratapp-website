@@ -24,6 +24,9 @@ collections:
   blog:
     output: true
     permalink: "/blog/:title/"
+  tutorials:
+    output: true
+    permalink: "/tutorials/:title/"
   features:
     output: true
     permalink: "/features/:title/"
