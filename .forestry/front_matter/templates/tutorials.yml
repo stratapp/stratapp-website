@@ -1,6 +1,6 @@
 ---
 label: Tutorials
-hide_body: false
+hide_body: true
 fields:
 - name: title
   type: text
@@ -17,7 +17,7 @@ fields:
   config:
     required: false
   label: layout
-  hidden: true
+  hidden: false
   default: tutorial
 pages:
 - _tutorials/test-tutorial-john-smith.md
