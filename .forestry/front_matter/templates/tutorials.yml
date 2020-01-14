@@ -2,27 +2,20 @@
 label: Tutorials
 hide_body: false
 fields:
-- type: text
-  name: title
-  label: title
-- type: text
-  name: layout
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
+- name: seo
+  type: include
+  config: {}
+  template: seo
+  label: SEO
+- name: layout
+  type: text
+  config:
+    required: false
   label: layout
-- type: text
-  name: description
-  label: description
-- type: datetime
-  name: publish_date
-  label: publish_date
-- type: text
-  name: seo_title
-  label: seo_title
-- type: textarea
-  name: seo_description
-  label: seo_description
-- type: text
-  name: feature_image
-  label: feature_image
-- type: text
-  name: slug
-  label: slug
+  hidden: true
+  default: tutorial
