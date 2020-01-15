@@ -45,6 +45,8 @@ fields:
   default: tutorial
   hidden: true
 pages:
+- _videos/social-teams.md
+- _videos/social-work.md
 - _videos/some-other-video.md
 - _videos/strategy-tree-edit-view.md
 - _videos/upcoming.md
