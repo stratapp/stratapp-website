@@ -43,5 +43,6 @@ fields:
   label: Layout
   default: tutorial
 pages:
+- _videos/some-other-video.md
 - _videos/strategy-tree-edit-view.md
 - _videos/upcoming.md
