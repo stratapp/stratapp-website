@@ -45,6 +45,9 @@ fields:
   default: tutorial
   hidden: true
 pages:
+- _videos/messages.md
+- _videos/notes.md
+- _videos/our-plan-4-views.md
 - _videos/pinning.md
 - _videos/security-levels.md
 - _videos/social-teams.md
