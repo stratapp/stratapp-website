@@ -1,6 +1,6 @@
 ---
 category:
-- "#tutorials"
+- "#use"
 layout: tutorial
 title: strategy tree edit view
 sub_heading: ''
