@@ -1,6 +1,6 @@
 ---
 category:
-- tutorials
+- "#tutorials"
 date: 2020-01-15 15:45:14 +1000
 layout: tutorial
 title: manage pages

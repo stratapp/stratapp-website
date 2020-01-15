@@ -1,6 +1,6 @@
 ---
 category:
-- tutorials
+- "#tutorials"
 date: 2020-01-15 15:46:14 +1000
 layout: tutorial
 title: ideation
