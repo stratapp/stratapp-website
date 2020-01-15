@@ -27,13 +27,6 @@ sections:
   templates:
   - blog
 - type: directory
-  path: _tutorialvideos
-  label: Tutorial Videos
-  create: all
-  match: "**/*"
-  templates:
-  - tutorials
-- type: directory
   path: _people
   label: People
   create: all
