@@ -29,6 +29,11 @@ collections:
     permalink: "/tutorials/:title/"
     values:
       sitemap: false
+  videos:
+    output: true
+    permalink: "/tutorial/:title/"
+    values:
+      sitemap: false
   features:
     output: true
     permalink: "/features/:title/"
