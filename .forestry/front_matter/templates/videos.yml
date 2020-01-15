@@ -45,6 +45,8 @@ fields:
   default: tutorial
   hidden: true
 pages:
+- _videos/live-org-chart.md
+- _videos/manage-pages.md
 - _videos/messages.md
 - _videos/notes.md
 - _videos/our-plan-4-views.md
