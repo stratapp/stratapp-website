@@ -36,12 +36,14 @@ fields:
     date_format: 
     time_format: 
     display_utc: false
+  default: now
 - name: layout
   type: text
   config:
     required: false
   label: Layout
   default: tutorial
+  hidden: true
 pages:
 - _videos/some-other-video.md
 - _videos/strategy-tree-edit-view.md
