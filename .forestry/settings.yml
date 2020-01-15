@@ -45,7 +45,12 @@ sections:
   match: "**/*"
 - type: directory
   path: _tutorials
-  label: Tutorials
+  label: Tutorial Users
+  create: all
+  match: "**/*"
+- type: directory
+  path: _tutorialvideos
+  label: Tutorial Videos
   create: all
   match: "**/*"
 upload_dir: uploads
