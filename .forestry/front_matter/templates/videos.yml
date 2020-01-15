@@ -45,6 +45,8 @@ fields:
   default: tutorial
   hidden: true
 pages:
+- _videos/ideation.md
+- _videos/kpis.md
 - _videos/live-org-chart.md
 - _videos/manage-pages.md
 - _videos/messages.md
