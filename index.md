@@ -46,6 +46,7 @@ seo_description: Seamlessly execute strategy and day to day work in one place. S
   and business planning software for all roles, levels and generations
 redirect_from:
   - /events/
+  - /tutorials/
 feature_image: "/uploads/feature image - home page 2.JPG"
 stratapp_features:
 - feature_title: culture elevation
