@@ -13,7 +13,9 @@
   <meta name="HandheldFriendly" content="true">
   {% if page.layout == 'tutorial' %}
   <meta name="robots" content="noindex"> 
-  {% else %} 
+  {% elsif page.layout == 'tutorials' %}
+  <meta name="robots" content="noindex"> 
+  {% else %}
   <meta name="robots" content="index, follow"> 
   {% endif %}
   <meta name="og:title" property="og:title" content="{% if page.seo_title and page.seo_title != '' %}{{ page.seo_title }}{% else %}{{ page.title }} - {{ site.title }}{% endif %}">
