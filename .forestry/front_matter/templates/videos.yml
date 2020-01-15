@@ -45,6 +45,7 @@ fields:
   default: tutorial
   hidden: true
 pages:
+- _videos/global-plus.md
 - _videos/ideation.md
 - _videos/kpis.md
 - _videos/live-org-chart.md
