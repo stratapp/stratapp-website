@@ -42,3 +42,5 @@ fields:
     required: false
   label: Layout
   default: tutorial
+pages:
+- _tutorialvideos/upcoming.md
