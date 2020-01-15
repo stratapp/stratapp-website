@@ -41,11 +41,15 @@ sections:
   label: Tutorial Users
   create: all
   match: "**/*"
+  templates:
+  - tutorials
 - type: directory
-  path: _tutorialvideos
+  path: _videos
   label: Tutorial Videos
   create: all
   match: "**/*"
+  templates:
+  - tutorial-video
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
