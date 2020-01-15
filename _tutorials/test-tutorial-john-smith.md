@@ -5,7 +5,7 @@ slug: 'test-tutorial-john-smith'
 seo_title: ''
 seo_description: ''
 feature_image: ''
-layout: tutorial
+layout: tutorials
 sitemap: false
 
 ---

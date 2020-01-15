@@ -1,5 +1,6 @@
 ---
-category: []
+category:
+- "#tutorials"
 layout: tutorial
 title: strategy tree edit view
 sub_heading: ''

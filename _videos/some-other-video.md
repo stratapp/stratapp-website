@@ -1,5 +1,6 @@
 ---
-category: []
+category:
+- "#tutorials"
 layout: tutorial
 title: some other video
 sub_heading: ''

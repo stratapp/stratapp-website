@@ -2,103 +2,62 @@
 layout: default
 ---
 {% comment %}
-    A general page layout. Used by default for all content on the site.
+  This layout is used by the documents in the _posts/ collection
 {% endcomment %}
 
-    <!-- <section class="l-section pt-4 mb-5 pb-3 bg-light">
-          <div class="container container--small text-center">
-            {{ content }}
-          </div>
-        </section> -->
-    
-    </div>
-    <h1 class="d-none">blog</h1>
+</div>
+<section class="l-section pt-5">
+  
+    <div class="container container--extra-small">
 
-    <section class="l-section pt-5">
+        <article class="article">
 
-          <div class="container container--small">
-    
-      
-      
+          <h1 itemprop="name" class="h3 text-primary font-weight-bold mb-3">{{ page.title }}</h1>
+            
+          <h2 class="h4 mb-3">{{ page.sub_heading }}</h2>
 
-      {% comment %}
-      =======================
-      The following part extracts all the tags from your posts and sort tags, so that you do not need to manually collect your tags to a place.
-      =======================
-      {% endcomment %}
-      {% assign rawtags = "" %}
-      {% for post in site.videos %}
-        {% assign ttags = post.category | join:'|' | append:'|' %}
-        {% assign rawtags = rawtags | append:ttags %}
-      {% endfor %}
-      {% assign rawtags = rawtags | split:'|' | sort %}
+          {% if page.video_id and page.video_id != "" %}
 
-      {% comment %}
-      =======================
-      The following part removes dulpicated tags and invalid tags like blank tag.
-      =======================
-      {% endcomment %}
-      {% assign tags = "" %}
-      {% for tag in rawtags %}
-        {% if tag != "" %}
-          {% if tags == "" %}
-            {% assign tags = tag | split:'|' %}
-          {% endif %}
-          {% unless tags contains tag %}
-            {% assign tags = tags | join:'|' | append:'|' | append:tag | split:'|' %}
-          {% endunless %}
-        {% endif %}
-      {% endfor %}
+              <div class="video text-center mb-4">
 
-      <div class="jump-menu d-inline bg-light rounded p-2 float-right">
-        {% for tag in tags %}
-          <a href="#{{ tag | slugify }}"><h6 class="d-inline px-1">{{ tag }}</h6></a>
-        {% endfor %}
-      </div>
-      
-      {% for tag in tags %}
-      <h3 class="font-weight-bold text-danger mb-3" id="{{ tag | slugify }}">{{ tag }}</h3>
-      <div class="row flex-column flex-md-row">
-       {% for post in site.videos reversed %}
-         {% if post.category contains tag %}
-          <article class="col-md-4" data-aos="flip-up" data-aos-delay="150">
-            <div class="c-blog bg-white rounded-lg overflow-hidden shadow-lg mb-5">
+                      <div id="videoContainer">
 
-              {% if post.banner_image and post.banner_image != "" %}
-                {% if post.video_id and post.video_id != "" %}
-                    <span class="play-button"></span>
-                {% endif %}
-                <img src="{{ post.banner_image | absolute_url }}" alt="{{ post.title }}" class="c-article__img-md">
-              {% else %}
-                {% if post.video_id and post.video_id != "" %}
-                  <a href="{{ post.url | absolute_url }}">
-                    <span class="play-button"></span>
-                      <img src="https://img.youtube.com/vi/{{ post.video_id }}/0.jpg" class="c-article__img-md" alt="{{ post.title }}">
-                    </a>
-                  {% endif %}
-              {% endif %}
-              <div class="px-4 py-3">
-                      <h5 class="font-weight-bold text-primary mb-3"><a title="{{ post.title }}" href="{{ post.url | absolute_url }}">{{ post.title }}</a></h5>
-                      <p class="mb-0">{{ post.content | strip_html | truncatewords: 20 }} <a title="Read {{ post.title }}" class="text-primary" href="{{ post.url | absolute_url }}">see more</a></p>
+                        <iframe src="https://player.vimeo.com/video/{{ page.video_id }}" width="850" height="580" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+                      </div>
                       
-                </div>
             </div>
-          </article>
-         {% endif %}
-       {% endfor %}
+        
+          {% else %}
+
+          {% if page.banner_image and page.banner_image != "" %}
+              <img itemprop="image" src="{{ page.banner_image | absolute_url }}" alt="{{ page.title }}" class="img-fluid rounded-lg mb-4 mb-sm-5">
+          {% endif %}
+          
+          {% endif %}
+        
+          <span itemprop="articleBody">{{ content }}</span>
+          
+          <hr>
+
+       
+      
+      <a href="javascript:history.back()" class="text-dark d-inline-block mt-4">< back to tutorials</a>
+
       </div>
-    {% endfor %}
 
-  </div>
-  </section>
-  
-  {% include connects.html class="l-section connects-section-front bg-light" %}
+    </article>
 
-  {% include stratappfeatures.html class="l-section events-section-front" %}
+</section>
 
-  {% include signupform.html class="bg-dark text-white" %}
+    
 
-  {% include explainer-video-popup.html class="explainer-video-popup" %}
+{% include connects.html class="l-section bg-light connects-section-front" %}
 
-  
-  
+{% include stratappfeatures.html class="l-section events-section-front" %}
+
+{% include signupform.html class="bg-dark text-white" %}
+
+{% include explainer-video-popup.html class="explainer-video-popup" %}
+
+

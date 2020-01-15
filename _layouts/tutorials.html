@@ -12,17 +12,13 @@ layout: default
         </section> -->
     
     </div>
-    <h1 class="d-none">blog</h1>
+
+    <h1 class="d-none">tutorials</h1>
 
     <section class="l-section pt-5">
 
           <div class="container container--small">
     
-     
-      {% for post in site.videos %}
-          {{ post.title }}
-       {% endfor %}
-
       {% comment %}
       =======================
       The following part extracts all the tags from your posts and sort tags, so that you do not need to manually collect your tags to a place.
@@ -75,8 +71,10 @@ layout: default
                 {% if post.video_id and post.video_id != "" %}
                   <a href="{{ post.url | absolute_url }}">
                     <span class="play-button"></span>
-                      <img src="https://img.youtube.com/vi/{{ post.video_id }}/0.jpg" class="c-article__img-md" alt="{{ post.title }}">
+                     <img data-vimeo-id="{{ post.video_id }}" src="" class="c-article__img-md" alt="{{ post.title }}">
                     </a>
+                   
+                   
                   {% endif %}
               {% endif %}
               <div class="px-4 py-3">
