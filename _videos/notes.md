@@ -7,5 +7,6 @@ title: notes
 sub_heading: ''
 video_id: "384699118"
 banner_image: ''
+sitemap: false
 
 ---

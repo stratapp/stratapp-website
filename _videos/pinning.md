@@ -7,5 +7,6 @@ title: pinning
 sub_heading: ''
 video_id: "384699416"
 banner_image: ''
+sitemap: false
 
 ---

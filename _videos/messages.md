@@ -7,5 +7,6 @@ title: messages
 sub_heading: ''
 video_id: "384699026"
 banner_image: ''
+sitemap: false
 
 ---

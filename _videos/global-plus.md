@@ -7,5 +7,6 @@ title: global plus
 sub_heading: ''
 video_id: "384698403"
 banner_image: ''
+sitemap: false
 
 ---

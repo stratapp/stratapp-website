@@ -7,5 +7,6 @@ title: manage pages
 sub_heading: ''
 video_id: "384698890"
 banner_image: ''
+sitemap: false
 
 ---
