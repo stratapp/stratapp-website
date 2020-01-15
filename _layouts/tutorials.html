@@ -18,7 +18,10 @@ layout: default
 
           <div class="container container--small">
     
-    
+     
+      {% for post in site.videos %}
+          {{ post.title }}
+       {% endfor %}
 
       {% comment %}
       =======================
