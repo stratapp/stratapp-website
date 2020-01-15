@@ -1,4 +1,44 @@
 ---
 label: Tutorial Video
 hide_body: true
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: title
+- name: sub_heading
+  type: text
+  config:
+    required: false
+  label: Sub Heading
+- name: video_id
+  type: text
+  config:
+    required: false
+  label: Video ID
+  description: Enter Vimeo video ID
+- name: banner_image
+  type: file
+  config:
+    maxSize: 250
+  label: Hero Image (or video thumbnail)
+- name: category
+  type: tag_list
+  default: []
+  label: Category
+- name: date
+  type: datetime
+  label: Date
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
+- name: layout
+  type: text
+  config:
+    required: false
+  label: Layout
+  default: tutorial
