@@ -1,6 +1,6 @@
 ---
 layout: tutorials
-title: product tutorials for Panorama Destination
+title: Panorama Destination
 slug: panorama
 seo_title: ''
 seo_description: ''
