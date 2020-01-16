@@ -18,7 +18,7 @@ fields:
     required: false
   label: layout
   hidden: false
-  default: tutorial
+  default: tutorials
 pages:
 - _tutorials/test-tutorial-john-smith.md
 - _tutorials/test-with-big-frank.md
