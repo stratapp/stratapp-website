@@ -21,3 +21,4 @@ fields:
   default: tutorial
 pages:
 - _tutorials/test-tutorial-john-smith.md
+- _tutorials/test-with-big-frank.md
